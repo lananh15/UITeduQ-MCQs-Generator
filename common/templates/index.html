@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UITeduQ Chatbot</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/index.css') }}">
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='images/doraemon.webp') }}">
+</head>
+<body>
+    <div class="header">
+        <button onclick="window.location.href='/'" class="home-link">Trang chủ</button>
+        <div class="logo-container">
+            <span class="how-to-use">Nhấn vô tui để xem hướng dẫn</span>
+            <img src="https://static.wixstatic.com/media/d31d8a_802d1ad0b20d443f8676087856dbef5d~mv2.png" alt="Logo" class="logo" onclick="toggleInstructions()">
+        </div>    
+    </div>
+    <div class="content">
+        <h2>UITeduQ</h2>
+        <div id="mode-selection">
+            <button onclick="setMode('Gemini')" id="gemini-btn">Chế độ Gemini</button>
+            <button onclick="setMode('Claude')" id="claude-btn">Chế độ Claude</button>
+            <button onclick="setMode('ChatGPT')" id="chatgpt-btn">Chế độ ChatGPT</button>
+        </div>
+        <div id="chat-container"></div>
+        <input type="text" id="user-input" placeholder="Type your message here...">
+        <button id="send-button" onclick="sendMessage()">Send</button>
+    </div>
+    <div id="instructionBox" class="instruction-box">
+    <span class="close-btn" onclick="closeInstructions()">&times;</span>
+        <h3>Hướng dẫn dùng chatbot sinh câu hỏi</h3>
+        <p><b>Xem các chương của môn học mà chatbot hỗ trợ</b> <br>{{ instruction_1|safe }}</p>
+        <p><b>Cú pháp sinh câu hỏi</b> <br> {{ instruction_2|safe }}
+        <br><b>Lưu ý: </b> {{ instruction_3|safe }}</p>    
+    </div>
+    <script src="{{ url_for('static', filename='js/index.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Flask
+flask-cors
+openai
+python-dotenv
+pinecone-client
+tiktoken
+openpyxl
+langchain_openai
+langchain_anthropic
+langchain_google_genai
+rouge-score

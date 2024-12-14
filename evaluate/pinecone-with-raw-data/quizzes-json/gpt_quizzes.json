@@ -1,0 +1,3694 @@
+{
+    "quizzes": [
+        {
+            "quiz_question": "Khái niệm về quản lý bao gồm những yếu tố nào?",
+            "options": [
+                "Chủ thể quản lý, đối tượng quản lý, mục tiêu cần đạt được, môi trường quản lý",
+                "Chủ thể quản lý, đối tượng quản lý, mục tiêu cần đạt được, công nghệ",
+                "Chủ thể quản lý, đối tượng quản lý, mục tiêu cần đạt được, tâm lý học",
+                "Chủ thể quản lý, đối tượng quản lý, môi trường quản lý, tin học"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý được mô tả như một nghệ thuật với những đặc điểm nào sau đây?",
+            "options": [
+                "Sự đa dạng, phong phú, muôn màu, muôn vẻ của sự vật hiện tượng",
+                "Sự đơn điệu, giản dị, thủ công",
+                "Sự tĩnh lặng, không biến đổi",
+                "Sự hấp dẫn, lôi cuốn, phù hợp với mọi người"
+            ]
+        },
+        {
+            "quiz_question": "Hiệu quả quản lý phụ thuộc vào những yếu tố nào?",
+            "options": [
+                "Kinh nghiệm, cá tính, cơ may, vận rủi của người quản lý",
+                "Tuổi tác, giới tính, xuất xứ",
+                "Trình độ học vấn, ngoại hình",
+                "Sở thích cá nhân, tài chính"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý là một môn khoa học đòi hỏi sự tổng hợp và vận hành các quy luật trong lĩnh vực nào?",
+            "options": [
+                "Kinh tế, công nghệ, xã hội",
+                "Giáo dục, y tế, văn hóa",
+                "Thể thao, giải trí, du lịch",
+                "Nghệ thuật, âm nhạc, hội họa"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý vận dụng những thành tựu khoa học, công nghệ trong quản lý bằng cách nào?",
+            "options": [
+                "Dự báo, tâm lý học, tin học",
+                "Lịch sử, địa lý, văn học",
+                "Vật lý, hóa học, sinh học",
+                "Toán học, tiếng Anh, xã hội học"
+            ]
+        },
+        {
+            "quiz_question": "Muốn thực hành quản lý hiệu quả, người quản lý cần phải có những yếu tố nào ban đầu?",
+            "options": [
+                "Cách học, chương trình học, năng khiếu, nghề nghiệp",
+                "Tuổi tác, giới tính, xuất xứ",
+                "Sở thích cá nhân, tài chính",
+                "Trình độ học vấn, ngoại hình"
+            ]
+        },
+        {
+            "quiz_question": "Mỗi năm Nước Mỹ đã tiêu bao nhiêu tỷ USD cho các dự án?",
+            "options": [
+                "2.3 nghìn tỷ",
+                "10 nghìn tỷ",
+                "40.7 nghìn tỷ",
+                "1.6 triệu tỷ"
+            ]
+        },
+        {
+            "quiz_question": "Trong tổng số 40.7 nghìn tỷ GDP, cả thế giới đã tiêu bao nhiêu tỷ USD cho tất cả các loại dự án?",
+            "options": [
+                "2.3 nghìn tỷ",
+                "10 nghìn tỷ",
+                "40.7 nghìn tỷ",
+                "1.6 triệu tỷ"
+            ]
+        },
+        {
+            "quiz_question": "Trong công việc của họ, trung bình một người quản trị dự án kiếm được bao nhiêu USD mỗi năm?",
+            "options": [
+                "2.3 nghìn USD",
+                "10 nghìn USD",
+                "40.7 nghìn USD",
+                "82,000 USD"
+            ]
+        },
+        {
+            "quiz_question": "Năm 2001, có bao nhiêu dự án IT?",
+            "options": [
+                "300,000 dự án",
+                "500,000 dự án",
+                "1 triệu dự án",
+                "1.6 triệu dự án"
+            ]
+        },
+        {
+            "quiz_question": "Ai đã viết, “To win today you must master the art of the project!”?",
+            "options": [
+                "Tom Peters",
+                "Steve Jobs",
+                "Bill Gates",
+                "Jeff Bezos"
+            ]
+        },
+        {
+            "quiz_question": "Standish Group thống kê trên bao nhiêu dự án IT vào năm 2003?",
+            "options": [
+                "13,522 dự án",
+                "20,000 dự án",
+                "30,000 dự án",
+                "50,000 dự án"
+            ]
+        },
+        {
+            "quiz_question": "Tỉ lệ dự án IT thành công vào năm 2003 là bao nhiêu phần trăm?",
+            "options": [
+                "16.2%",
+                "34%",
+                "61%",
+                "67%"
+            ]
+        },
+        {
+            "quiz_question": "Thời gian quá hạn của các dự án IT đã giảm từ bao nhiêu phần trăm xuống còn 163% vào năm 2003?",
+            "options": [
+                "222%",
+                "189%",
+                "145%",
+                "61%"
+            ]
+        },
+        {
+            "quiz_question": "Dự án thất bại được định nghĩa như thế nào?",
+            "options": [
+                "Dự án không hoàn thành đúng thời hạn",
+                "Dự án vượt quá ngân sách ít nhất 10-20%",
+                "Dự án không đạt được mục tiêu",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Lý do nào sau đây có thể dẫn đến dự án thất bại?",
+            "options": [
+                "Quản lý kém",
+                "Thiếu thông tin trong quá trình thực hiện dự án",
+                "Không rõ mục tiêu",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý chất lượng trong dự án đảm bảo điều gì?",
+            "options": [
+                "Dự án hoàn thành đúng thời hạn",
+                "Dự án thỏa mãn mọi yêu cầu đã đề ra",
+                "Dự án không vượt quá ngân sách",
+                "Dự án đạt được mục tiêu"
+            ]
+        },
+        {
+            "quiz_question": "Vấn đề chất lượng trong dự án cần được xem như thế nào?",
+            "options": [
+                "Quan trọng hơn phạm vi dự án",
+                "Ngang hàng với thời gian thực hiện",
+                "Quan trọng nhưng không ảnh hưởng nhiều đến dự án",
+                "Tất cả đều sai"
+            ]
+        },
+        {
+            "quiz_question": "Ưu điểm của việc quản lý dự án là gì?",
+            "options": [
+                "Kiểm soát tốt hơn các tài nguyên",
+                "Tăng chi phí và giảm lợi nhuận",
+                "Phân biệt đối xử với khách hàng",
+                "Giảm chất lượng sản phẩm"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý dự án giúp cải thiện mối quan hệ với ai?",
+            "options": [
+                "Công ty cạnh tranh",
+                "Các đối tác kinh doanh",
+                "Khách hàng",
+                "Nhà cung cấp"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý dự án có thể giúp làm gì với thời gian phát triển dự án?",
+            "options": [
+                "Kéo dài thời gian phát triển",
+                "Rút ngắn thời gian phát triển",
+                "Không ảnh hưởng đến thời gian phát triển",
+                "Tăng chi phí thời gian phát triển"
+            ]
+        },
+        {
+            "quiz_question": "Dự án được định nghĩa như thế nào?",
+            "options": [
+                "Là một chuỗi các công việc không liên quan đến nhau",
+                "Là một tập hợp các hoạt động không có mục tiêu cụ thể",
+                "Là một chuỗi các công việc được thực hiện để đạt được mục tiêu đề ra trong điều kiện ràng buộc",
+                "Là một tập hợp các công việc không cần thiết"
+            ]
+        },
+        {
+            "quiz_question": "Dự án thất bại được định nghĩa như thế nào?",
+            "options": [
+                "Dự án không đạt được mục tiêu của dự án",
+                "Dự án vượt quá ngân sách ít nhất 10-20%",
+                "Dự án không đáp ứng được thời hạn",
+                "Tất cả các lựa chọn trên"
+            ]
+        },
+        {
+            "quiz_question": "Những lý do nào dẫn đến dự án thất bại?",
+            "options": [
+                "Quản lý kém",
+                "Thiếu thông tin trong quá trình thực hiện dự án",
+                "Không rõ mục tiêu",
+                "Tất cả các lựa chọn trên"
+            ]
+        },
+        {
+            "quiz_question": "Dự án được thực hiện để tạo ra sản phẩm hoặc dịch vụ gì?",
+            "options": [
+                "Sản phẩm không cần thiết",
+                "Sản phẩm hoặc dịch vụ duy nhất",
+                "Sản phẩm không liên quan",
+                "Sản phẩm không xác định"
+            ]
+        },
+        {
+            "quiz_question": "Dự án được tiến hành trong thời gian bao lâu?",
+            "options": [
+                "Dài hạn",
+                "Tạm thời",
+                "Vô thời hạn",
+                "Không xác định"
+            ]
+        },
+        {
+            "quiz_question": "Yếu tố quan trọng nào trong việc thực hiện dự án là nguồn nhân lực?",
+            "options": [
+                "Thời gian dự kiến",
+                "Kết quả dự kiến",
+                "Nguồn nhân lực",
+                "Kinh phí dự kiến"
+            ]
+        },
+        {
+            "quiz_question": "Thời gian dự kiến thực hiện dự án bao gồm những thông tin nào?",
+            "options": [
+                "Ngày bắt đầu, ngày kết thúc, thời điểm trung gian ứng với kết quả trung gian",
+                "Sản phẩm sau cùng của dự án",
+                "Nguồn nhân lực",
+                "Kinh phí dự kiến"
+            ]
+        },
+        {
+            "quiz_question": "Kết quả dự kiến của dự án phải hình dung và mô tả được để làm gì?",
+            "options": [
+                "Để tính toán kinh phí dự kiến",
+                "Để đánh giá hiệu quả của dự án",
+                "Để đảm bảo nguồn nhân lực",
+                "Để xác định thời gian thực hiện dự án"
+            ]
+        },
+        {
+            "quiz_question": "Kinh phí dự kiến của dự án là gì?",
+            "options": [
+                "Tiền để thực hiện dự án",
+                "Sản phẩm sau cùng của dự án",
+                "Ngày bắt đầu, ngày kết thúc, thời điểm trung gian ứng với kết quả trung gian",
+                "Nguồn nhân lực"
+            ]
+        },
+        {
+            "quiz_question": "Người (hoặc đơn vị) cấp tiền (cấp vốn) cho dự án được gọi là gì?",
+            "options": [
+                "Nhà thầu",
+                "Chủ thầu",
+                "Chủ đầu tư",
+                "Đối tác"
+            ]
+        },
+        {
+            "quiz_question": "Thuộc tính nào không phải của dự án?",
+            "options": [
+                "Có mục đích rõ ràng",
+                "Có tính tạm thời",
+                "Không cần nhiều tài nguyên từ nhiều lĩnh vực khác nhau",
+                "Có nhiều rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Thuộc tính nào không phải của dự án?",
+            "options": [
+                "Có ngày bắt đầu, ngày kết thúc",
+                "Có ràng buộc về chi phí, thời gian, nguồn lực",
+                "Cần nhiều tài nguyên từ nhiều lĩnh vực khác nhau",
+                "Không có nhiều rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Dự án cần nhiều tài nguyên từ những lĩnh vực nào?",
+            "options": [
+                "Chỉ cần tài nguyên phần cứng",
+                "Chỉ cần tài nguyên phần mềm",
+                "Cần tài nguyên từ nhiều lĩnh vực khác nhau",
+                "Không cần tài nguyên từ bất kỳ lĩnh vực nào"
+            ]
+        },
+        {
+            "quiz_question": "Dự án có tính chất tạm thời bởi vì?",
+            "options": [
+                "Luôn tồn tại vĩnh viễn",
+                "Có ngày bắt đầu và kết thúc",
+                "Không cần nguồn lực",
+                "Không có tính tạm thời"
+            ]
+        },
+        {
+            "quiz_question": "Dự án có nhiều rủi ro bởi vì?",
+            "options": [
+                "Luôn chắc chắn thành công",
+                "Có tính tạm thời",
+                "Có nhiều người tham gia",
+                "Không chắc chắn"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong dự án Công nghệ Thông Tin nhằm xác định yêu cầu và mục tiêu của dự án?",
+            "options": [
+                "Giai đoạn phân tích",
+                "Giai đoạn thiết kế",
+                "Giai đoạn thực hiện",
+                "Giai đoạn xác định"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong dự án Công nghệ Thông Tin thường bao gồm việc lập trình và xây dựng sản phẩm?",
+            "options": [
+                "Giai đoạn xác định",
+                "Giai đoạn phân tích",
+                "Giai đoạn thực hiện",
+                "Giai đoạn kiểm thử hệ thống"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong dự án Công nghệ Thông Tin thường kiểm tra tính ổn định và hiệu suất của hệ thống?",
+            "options": [
+                "Giai đoạn thiết kế",
+                "Giai đoạn kiểm thử hệ thống",
+                "Giai đoạn vận hành",
+                "Giai đoạn kiểm thử chấp nhận"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong dự án Công nghệ Thông Tin nhằm xác nhận rằng sản phẩm đáp ứng yêu cầu và sẵn sàng cho việc triển khai?",
+            "options": [
+                "Giai đoạn thiết kế",
+                "Giai đoạn kiểm thử chấp nhận",
+                "Giai đoạn thực hiện",
+                "Giai đoạn phân tích"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong dự án Công nghệ Thông Tin nhằm đưa sản phẩm vào vận hành và duy trì hoạt động?",
+            "options": [
+                "Giai đoạn kiểm thử hệ thống",
+                "Giai đoạn kiểm thử chấp nhận",
+                "Giai đoạn vận hành",
+                "Giai đoạn xác định"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong dự án Công nghệ Thông Tin nhấn mạnh vào việc tạo ra các tài liệu chi tiết cho việc triển khai sản phẩm?",
+            "options": [
+                "Giai đoạn phân tích",
+                "Giai đoạn thiết kế",
+                "Giai đoạn thực hiện",
+                "Giai đoạn kiểm thử hệ thống"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong dự án Công nghệ Thông Tin nhấn mạnh vào việc đánh giá và chấp nhận sản phẩm từ phía người dùng?",
+            "options": [
+                "Giai đoạn kiểm thử hệ thống",
+                "Giai đoạn kiểm thử chấp nhận",
+                "Giai đoạn vận hành",
+                "Giai đoạn xác định"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích của quản lý dự án là gì?",
+            "options": [
+                "Đảm bảo dự án không hoàn thành",
+                "Đảm bảo dự án vượt quá kinh phí dự kiến",
+                "Đảm bảo dự án được thực hiện thành công",
+                "Đảm bảo dự án không đáp ứng yêu cầu mục tiêu"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý phạm vi trong dự án bao gồm những hoạt động nào?",
+            "options": [
+                "Xác định thời gian hoàn thành dự án",
+                "Xác định sản phẩm giao nộp",
+                "Xác định trình tự thực hiện và kiểm soát thay đổi lịch trình",
+                "Xác định chuẩn mực chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Bộ ba ràng buộc của quản lý dự án bao gồm những mục tiêu nào?",
+            "options": [
+                "Mục tiêu về chất lượng",
+                "Mục tiêu về phạm vi",
+                "Mục tiêu về thời gian",
+                "Mục tiêu về mức độ hài lòng của khách hàng"
+            ]
+        },
+        {
+            "quiz_question": "Sự cần thiết của quản lý dự án được thể hiện thông qua các con số nào?",
+            "options": [
+                "1 triệu USD được tiêu cho dự án hàng năm",
+                "1/4 GDP của Nước Mỹ được chi cho các dự án",
+                "100,000 người quản lý dự án kiếm được 82,000 USD mỗi năm",
+                "500,000 dự án IT được thống kê vào năm 2000"
+            ]
+        },
+        {
+            "quiz_question": "Theo thống kê của Standish Group, tỉ lệ dự án thành công là bao nhiêu sau khi áp dụng quản lý dự án?",
+            "options": [
+                "20%",
+                "34%",
+                "50%",
+                "70%"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong quy trình phát triển phần mềm giúp hiểu đầy đủ về các vấn đề của dự án và yêu cầu của người dùng?",
+            "options": [
+                "Giai đoạn thiết kế",
+                "Giai đoạn phân tích",
+                "Giai đoạn triển khai",
+                "Giai đoạn xác định"
+            ]
+        },
+        {
+            "quiz_question": "Các hoạt động chính của giai đoạn xác định trong quy trình phát triển phần mềm bao gồm những công việc nào?",
+            "options": [
+                "Xác định rủi ro, lập kế hoạch kiểm thử",
+                "Viết tài liệu đặc tả thiết kế, kế hoạch kiểm thử chấp nhận",
+                "Xác định vấn đề, mục tiêu, viết đề cương dự án",
+                "Thiết kế hệ thống ở mức tổng thể, xem lại kế hoạch ban đầu"
+            ]
+        },
+        {
+            "quiz_question": "Tài liệu kết quả của giai đoạn thiết kế trong quy trình phát triển phần mềm bao gồm những tài liệu nào sau đây?",
+            "options": [
+                "Đặc tả chức năng, kế hoạch triển khai",
+                "Đặc tả thiết kế, kế hoạch kiểm thử chấp nhận",
+                "Đề cương dự án, danh sách rủi ro",
+                "Nghiên cứu khả thi, giải pháp đề xuất"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong quy trình phát triển phần mềm xác định chính xác hệ thống sẽ hoạt động như thế nào và xác định các bộ phận, chức năng của hệ thống?",
+            "options": [
+                "Giai đoạn xác định",
+                "Giai đoạn thiết kế",
+                "Giai đoạn triển khai",
+                "Giai đoạn phân tích"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn phân tích trong quy trình phát triển phần mềm là giai đoạn nào trong quy trình?",
+            "options": [
+                "Giai đoạn xác định",
+                "Giai đoạn thiết kế",
+                "Giai đoạn triển khai",
+                "Giai đoạn phân tích"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn phân tích trong quá trình phát triển hệ thống thông tin là gì?",
+            "options": [
+                "Xác định yêu cầu chức năng của hệ thống",
+                "Xây dựng giao diện người dùng",
+                "Kiểm thử hệ thống",
+                "Triển khai hệ thống"
+            ]
+        },
+        {
+            "quiz_question": "Hoạt động chính của giai đoạn phân tích trong quá trình phát triển hệ thống là gì?",
+            "options": [
+                "Viết tài liệu kế hoạch triển khai",
+                "Xác định cấu trúc cơ sở dữ liệu",
+                "Viết tài liệu đặc tả chức năng",
+                "Thực hiện kiểm thử"
+            ]
+        },
+        {
+            "quiz_question": "Tài liệu kết quả của giai đoạn phân tích trong quá trình phát triển hệ thống là gì?",
+            "options": [
+                "Bản vẽ thiết kế chi tiết của hệ thống",
+                "Đặc tả chức năng",
+                "Bản vẽ kiến trúc hệ thống",
+                "Tài liệu hướng dẫn sử dụng hệ thống"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của việc xem lại kế hoạch ban đầu trong giai đoạn phân tích là gì?",
+            "options": [
+                "Để thay đổi toàn bộ thiết kế hệ thống",
+                "Để xác định lại yêu cầu chức năng",
+                "Để đảm bảo tính khả thi của dự án",
+                "Để tạo ra bản vẽ kiến trúc mới"
+            ]
+        },
+        {
+            "quiz_question": "Ngoài việc viết tài liệu đặc tả chức năng, giai đoạn phân tích còn bao gồm hoạt động nào sau đây?",
+            "options": [
+                "Kiểm thử hệ thống",
+                "Xem lại kế hoạch triển khai",
+                "Thiết kế giao diện người dùng",
+                "Thiết kế hệ thống ở mức tổng thể"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn thiết kế trong quá trình phát triển phần mềm là giai đoạn nào?",
+            "options": [
+                "Giai đoạn thiết kế",
+                "Giai đoạn phân tích",
+                "Giai đoạn triển khai",
+                "Giai đoạn kiểm thử"
+            ]
+        },
+        {
+            "quiz_question": "Hoạt động chính trong giai đoạn thiết kế phần mềm bao gồm những gì?",
+            "options": [
+                "Viết tài liệu đặc tả thiết kế và soạn kế hoạch kiểm thử chấp nhận",
+                "Viết mã nguồn và triển khai hệ thống",
+                "Thu thập yêu cầu và phân tích hệ thống",
+                "Kiểm thử hệ thống và triển khai"
+            ]
+        },
+        {
+            "quiz_question": "Tài liệu kết quả của giai đoạn thiết kế phần mềm bao gồm những gì?",
+            "options": [
+                "Đặc tả thiết kế và kế hoạch kiểm thử chấp nhận",
+                "Đặc tả yêu cầu và kế hoạch triển khai",
+                "Bảng chấm công và biên bản họp",
+                "Bản vẽ kỹ thuật và báo cáo tổng kết"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu chính của giai đoạn thiết kế trong phát triển phần mềm là gì?",
+            "options": [
+                "Viết mã nguồn cho hệ thống",
+                "Xác định chính xác hệ thống sẽ làm việc như thế nào",
+                "Thu thập yêu cầu từ người dùng",
+                "Kiểm tra tính ổn định của hệ thống"
+            ]
+        },
+        {
+            "quiz_question": "Tại giai đoạn nào trong phát triển phần mềm cần xác định các bộ phận, chức năng và mối liên kết giữa chúng?",
+            "options": [
+                "Giai đoạn phân tích",
+                "Giai đoạn thiết kế",
+                "Giai đoạn triển khai",
+                "Giai đoạn kiểm thử"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn nào trong quá trình phát triển phần mềm nhằm xây dựng và ráp nối các thành phần của hệ thống?",
+            "options": [
+                "Triển khai cài đặt theo thiết kế",
+                "Kiểm thử từng thành phần",
+                "Biên soạn tài liệu",
+                "Tất cả các lựa chọn"
+            ]
+        },
+        {
+            "quiz_question": "Hoạt động chính trong giai đoạn triển khai cài đặt theo thiết kế là gì?",
+            "options": [
+                "Ráp nối các thành phần của hệ thống",
+                "Kiểm thử từng thành phần",
+                "Biên soạn tài liệu kết quả",
+                "Biên soạn tài liệu cho người dùng"
+            ]
+        },
+        {
+            "quiz_question": "Tài liệu kết quả của việc kiểm thử từng thành phần trong giai đoạn triển khai bao gồm gì?",
+            "options": [
+                "Biên bản kiểm thử từng thành phần",
+                "Kế hoạch kiểm thử hệ thống",
+                "Tài liệu cho người dùng",
+                "Tất cả các lựa chọn"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của việc biên soạn tài liệu trong giai đoạn triển khai là gì?",
+            "options": [
+                "Để ghi chép các hoạt động đã thực hiện",
+                "Để hướng dẫn người dùng sử dụng hệ thống",
+                "Để đánh giá hiệu suất của hệ thống",
+                "Để phân tích yêu cầu của khách hàng"
+            ]
+        },
+        {
+            "quiz_question": "Biên bản kiểm thử từng thành phần trong giai đoạn triển khai có tác dụng gì?",
+            "options": [
+                "Đánh giá chất lượng của từng thành phần",
+                "Xác định yêu cầu của hệ thống",
+                "Tạo ra kế hoạch kiểm thử hệ thống",
+                "Biên soạn tài liệu cho người dùng"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn kiểm thử hệ thống nhằm mục đích gì?",
+            "options": [
+                "Kiểm tra phần cứng",
+                "Kiểm tra chức năng trong thiết kế",
+                "Đảm bảo hệ thống không bị lỗi",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Hoạt động chính trong giai đoạn kiểm thử hệ thống bao gồm những gì?",
+            "options": [
+                "Tích hợp và kiểm thử từng phân hệ",
+                "Tích hợp và kiểm thử toàn bộ hệ thống",
+                "Tích hợp và kiểm thử từng phân hệ và toàn bộ hệ thống",
+                "Không có phương án nào đúng"
+            ]
+        },
+        {
+            "quiz_question": "Tài liệu kết quả của giai đoạn kiểm thử hệ thống là gì?",
+            "options": [
+                "Biên bản kết quả kiểm thử phần cứng",
+                "Biên bản kết quả kiểm thử hệ thống",
+                "Biên bản kết quả kiểm thử chức năng",
+                "Biên bản kết quả kiểm thử tích hợp"
+            ]
+        },
+        {
+            "quiz_question": "Sản phẩm sau khi kiểm thử hệ thống là gì?",
+            "options": [
+                "Phần cứng đã kiểm tra chức năng",
+                "Hệ thống đã làm việc tốt",
+                "Tất cả các chức năng đều hoạt động đúng",
+                "Hệ thống không bị lỗi"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu của giai đoạn kiểm thử hệ thống là gì?",
+            "options": [
+                "Đảm bảo hệ thống hoạt động đúng",
+                "Phát hiện và sửa lỗi trong hệ thống",
+                "Tích hợp phần cứng và phần mềm",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn kiểm thử chấp nhận giúp đạt được sự chấp nhận của người dùng bằng cách nào?",
+            "options": [
+                "Thực hiện các kiểm thử đã đưa ra trong kế hoạch kiểm thử chấp nhận",
+                "Đưa ra báo cáo kết quả demo",
+                "Hiệu chỉnh nếu cần thiết",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Hoạt động chính trong giai đoạn kiểm thử chấp nhận bao gồm việc nào?",
+            "options": [
+                "Demo cho khách hàng các chức năng của hệ thống",
+                "Xây dựng kế hoạch kiểm thử chấp nhận",
+                "Thực hiện kiểm thử đơn vị",
+                "Lập báo cáo tổng kết"
+            ]
+        },
+        {
+            "quiz_question": "Tài liệu kết quả của giai đoạn kiểm thử chấp nhận bao gồm những thông tin nào?",
+            "options": [
+                "Báo cáo kết quả demo",
+                "Biên bản xác nhận của người dùng",
+                "Báo cáo tổng kết",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu chính của giai đoạn kiểm thử chấp nhận là gì?",
+            "options": [
+                "Xác định lỗi phần mềm",
+                "Đạt được sự chấp nhận của người dùng",
+                "Xác định hiệu suất hệ thống",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Việc hiệu chỉnh trong giai đoạn kiểm thử chấp nhận được thực hiện khi nào?",
+            "options": [
+                "Sau khi demo cho khách hàng các chức năng của hệ thống",
+                "Trước khi thực hiện các kiểm thử đã đưa ra trong kế hoạch",
+                "Khi không cần thiết",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Hoạt động chính trong giai đoạn vận hành là gì?",
+            "options": [
+                "Cài đặt hệ thống cho khách hàng",
+                "Phát triển hệ thống mới",
+                "Tạo ra sản phẩm mới",
+                "Xây dựng cơ sở hạ tầng"
+            ]
+        },
+        {
+            "quiz_question": "Tài liệu kết quả của giai đoạn vận hành là gì?",
+            "options": [
+                "Báo cáo kết quả vận hành",
+                "Kế hoạch triển khai",
+                "Báo cáo nghiên cứu thị trường",
+                "Hồ sơ sản phẩm"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của việc đào tạo người sử dụng trong giai đoạn vận hành là gì?",
+            "options": [
+                "Tăng hiệu suất lao động",
+                "Tạo ra sản phẩm mới",
+                "Bảo dưỡng hệ thống",
+                "Gia tăng doanh số"
+            ]
+        },
+        {
+            "quiz_question": "Hoạt động nào không thuộc về giai đoạn vận hành hệ thống?",
+            "options": [
+                "Cài đặt hệ thống cho khách hàng",
+                "Bảo hành hệ thống",
+                "Phát triển hệ thống mới",
+                "Rút kinh nghiệm"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu của giai đoạn vận hành là gì?",
+            "options": [
+                "Chuyển giao hệ thống cho người dùng",
+                "Phát triển sản phẩm mới",
+                "Triển khai marketing",
+                "Xây dựng cơ sở hạ tầng mới"
+            ]
+        },
+        {
+            "quiz_question": "Bộ ba ràng buộc của quản lý dự án bao gồm những gì?",
+            "options": [
+                "Mục tiêu về chất lượng, hiệu suất, an toàn",
+                "Mục tiêu về phạm vi, thời gian, chi phí",
+                "Mục tiêu về marketing, quảng cáo, bán hàng",
+                "Mục tiêu về nhân sự, đào tạo, phát triển"
+            ]
+        },
+        {
+            "quiz_question": "Nhiệm vụ của người quản lý dự án là gì?",
+            "options": [
+                "Chỉ định công việc cho các thành viên dự án",
+                "Đảm bảo dự án hoàn thành đúng tiến độ",
+                "Cân đối các mục tiêu về phạm vi, thời gian, chi phí",
+                "Thực hiện các công việc cụ thể của dự án"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu về phạm vi trong quản lý dự án liên quan đến điều gì?",
+            "options": [
+                "Cần bao nhiêu tiền để thực hiện dự án",
+                "Thời gian mà dự án mất để hoàn thành",
+                "Các thành phần cụ thể của dự án cần hoàn thành",
+                "Hiệu suất làm việc của các thành viên dự án"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu về thời gian trong quản lý dự án là gì?",
+            "options": [
+                "Dự án cần bao nhiêu tiền để hoàn thành",
+                "Dự án mất bao lâu để hoàn thành",
+                "Các công việc cụ thể cần hoàn thành trong dự án",
+                "Hiệu suất làm việc của các thành viên dự án"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu về chi phí trong quản lý dự án liên quan đến điều gì?",
+            "options": [
+                "Dự án cần bao nhiêu thời gian để hoàn thành",
+                "Mục tiêu cụ thể cần thực hiện trong dự án",
+                "Cần bao nhiêu tiền để thực hiện dự án",
+                "Hiệu suất làm việc của các thành viên dự án"
+            ]
+        },
+        {
+            "quiz_question": "Lĩnh vực quản lý nào không thuộc vào bốn lĩnh vực quản lý cơ bản trong quản lý dự án?",
+            "options": [
+                "Quản lý phạm vi",
+                "Quản lý nguồn nhân lực",
+                "Quản lý thời gian",
+                "Quản lý chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Lĩnh vực quản lý nào không thuộc vào bốn lĩnh vực hỗ trợ trong quản lý dự án?",
+            "options": [
+                "Quản lý truyền thông",
+                "Quản lý chất lượng",
+                "Quản lý rủi ro",
+                "Quản lý mua sắm"
+            ]
+        },
+        {
+            "quiz_question": "Lĩnh vực quản lý nào là lĩnh vực tích hợp trong quản lý dự án?",
+            "options": [
+                "Quản lý chất lượng",
+                "Quản lý thời gian",
+                "Quản lý phạm vi",
+                "Quản lý nguồn nhân lực"
+            ]
+        },
+        {
+            "quiz_question": "Lĩnh vực quản lý nào không phải là một lĩnh vực cơ bản trong quản lý dự án?",
+            "options": [
+                "Quản lý chất lượng",
+                "Quản lý thời gian",
+                "Quản lý nguồn nhân lực",
+                "Quản lý mua sắm"
+            ]
+        },
+        {
+            "quiz_question": "Lĩnh vực quản lý nào không phải là một lĩnh vực hỗ trợ trong quản lý dự án?",
+            "options": [
+                "Quản lý phạm vi",
+                "Quản lý rủi ro",
+                "Quản lý truyền thông",
+                "Quản lý chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Có tổng cộng bao nhiêu lĩnh vực kiến thức cần phát triển trong quản lý dự án?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ]
+        },
+        {
+            "quiz_question": "Lĩnh vực nào không thuộc bốn lĩnh vực cơ bản trong quản lý dự án?",
+            "options": [
+                "Quản lý phạm vi",
+                "Quản lý thời gian",
+                "Quản lý chất lượng",
+                "Quản lý nguồn nhân lực"
+            ]
+        },
+        {
+            "quiz_question": "Trách nhiệm chính của quản lý phạm vi trong dự án là gì?",
+            "options": [
+                "Xác định thời gian hoàn thành dự án",
+                "Xác định sản phẩm giao nộp",
+                "Xây dựng kế hoạch huy động tài nguyên",
+                "Xác định chuẩn mực chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý thời gian trong dự án bao gồm việc gì?",
+            "options": [
+                "Xác định thời gian hoàn thành công việc",
+                "Xác định sản phẩm giao nộp",
+                "Xây dựng kế hoạch huy động tài nguyên",
+                "Xác định chuẩn mực chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý chi phí trong dự án nhằm mục đích gì?",
+            "options": [
+                "Xác định thời gian hoàn thành công việc",
+                "Đảm bảo hoàn thành công việc trong kinh phí cho phép",
+                "Xác định sản phẩm giao nộp",
+                "Xác định chuẩn mực chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý chất lượng trong dự án đảm bảo điều gì?",
+            "options": [
+                "Xác định thời gian hoàn thành công việc",
+                "Bảo đảm chất lượng sản phẩm",
+                "Xác định sản phẩm giao nộp",
+                "Xác định chuẩn mực chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Lĩnh vực nào không thuộc bốn lĩnh vực hỗ trợ trong quản lý dự án?",
+            "options": [
+                "Quản lý nguồn nhân lực",
+                "Quản lý truyền thông",
+                "Quản lý rủi ro",
+                "Quản lý chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Bốn lĩnh vực quản lý cơ bản trong quản lý dự án bao gồm những gì?",
+            "options": [
+                "Quản lý nguồn nhân lực, quản lý truyền thông, quản lý rủi ro, quản lý mua sắm",
+                "Quản lý phạm vi, quản lý thời gian, quản lý chi phí, quản lý chất lượng",
+                "Quản lý rủi ro, quản lý nguồn nhân lực, quản lý truyền thông, quản lý mua sắm",
+                "Quản lý chất lượng, quản lý thời gian, quản lý phạm vi, quản lý nguồn nhân lực"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu của bốn lĩnh vực hỗ trợ trong quản lý dự án là gì?",
+            "options": [
+                "Đảm bảo dự án hoàn thành đúng thời gian",
+                "Đạt được chất lượng sản phẩm dự án",
+                "Xác định và phân tích rủi ro của dự án",
+                "Phát triển và sử dụng lực lượng tham gia dự án một cách hiệu quả"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý nguồn nhân lực trong dự án bao gồm những công việc nào?",
+            "options": [
+                "Lựa chọn nhà cung cấp và quản lý hợp đồng",
+                "Xác định vị trí, vai trò, trách nhiệm và quan hệ báo cáo",
+                "Lập kế hoạch mua sắm",
+                "Xác định nhu cầu thông tin và cách thức trao đổi"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý truyền thông trong dự án đảm bảo thông tin được tạo ra, thu thập, lưu trữ và trao đổi như thế nào?",
+            "options": [
+                "Xác định và ước tính rủi ro",
+                "Xây dựng cơ chế báo cáo",
+                "Lựa chọn và phát triển nguồn nhân lực",
+                "Lập kế hoạch mua sắm"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý rủi ro trong dự án bao gồm những công việc nào?",
+            "options": [
+                "Xác định nhu cầu thông tin và cách thức trao đổi",
+                "Nhận diện và ước tính rủi ro",
+                "Lựa chọn nhà cung cấp và quản lý hợp đồng",
+                "Xác định vị trí, vai trò, trách nhiệm và quan hệ báo cáo"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý mua sắm trong dự án đảm bảo có được hàng hoá và dịch vụ chất lượng như thế nào?",
+            "options": [
+                "Thực hiện kế hoạch mua sắm",
+                "Kiểm soát phòng chống rủi ro",
+                "Xác định vị trí, vai trò, trách nhiệm và quan hệ báo cáo",
+                "Xây dựng cơ chế báo cáo"
+            ]
+        },
+        {
+            "quiz_question": "Lĩnh vực tích hợp trong quản lý dự án đảm bảo điều gì?",
+            "options": [
+                "Phối hợp hài hòa các thành phần khác nhau trong dự án",
+                "Xây dựng kế hoạch dự án",
+                "Kiểm soát các thay đổi tổng thể",
+                "Tất cả các phương án đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Có bao nhiêu lĩnh vực cần phát triển trong quản lý dự án?",
+            "options": [
+                "4 lĩnh vực",
+                "5 lĩnh vực",
+                "8 lĩnh vực",
+                "9 lĩnh vực"
+            ]
+        },
+        {
+            "quiz_question": "Trong số chín lĩnh vực cần phát triển trong quản lý dự án, lĩnh vực quản lý thời gian thuộc nhóm nào?",
+            "options": [
+                "Lĩnh vực quản lý cơ bản",
+                "Lĩnh vực hỗ trợ",
+                "Lĩnh vực tích hợp",
+                "Không thuộc nhóm nào"
+            ]
+        },
+        {
+            "quiz_question": "Lĩnh vực quản lý rủi ro trong quản lý dự án đóng vai trò gì?",
+            "options": [
+                "Đảm bảo các thành phần khác nhau trong dự án được phối hợp hài hòa",
+                "Xây dựng và hoàn thiện kế hoạch dự án",
+                "Kiểm soát các thay đổi tổng thể",
+                "Dự đoán và quản lý rủi ro tiềm ẩn trong dự án"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ nào được sử dụng để quản lý chất lượng và thường được biểu diễn dưới dạng biểu đồ xương cá?",
+            "options": [
+                "Biểu đồ kiểm soát",
+                "Phiếu kiểm soát",
+                "Biểu đồ Pareto",
+                "Biểu đồ nguyên nhân kết quả"
+            ]
+        },
+        {
+            "quiz_question": "Kỹ thuật ước lượng thời gian dựa vào lịch sử là gì?",
+            "options": [
+                "Sử dụng ý kiến chuyên gia",
+                "Kỹ thuật PERT",
+                "Phương pháp đường găng CPM",
+                "Ước lượng dựa vào lịch sử"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ nào được sử dụng trong quản lý phạm vi dự án để xác định phạm vi công việc cần thực hiện?",
+            "options": [
+                "Scope statement",
+                "WBS",
+                "Biểu đồ Gantt",
+                "Biểu đồ mạng"
+            ]
+        },
+        {
+            "quiz_question": "Trong quản lý thời gian dự án, công cụ nào thường được sử dụng để biểu diễn kế hoạch thời gian dự án?",
+            "options": [
+                "MS Project",
+                "Planer",
+                "Open Plan",
+                "Sơ đồ GANTT"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ nào được sử dụng để ước lượng chi phí trong quản lý chi phí dự án?",
+            "options": [
+                "MS Project",
+                "Planer",
+                "Gantt chart",
+                "Costar"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào nhằm xác định các hoạt động và ước lượng thời gian cho mỗi hoạt động?",
+            "options": [
+                "Quy trình khởi động",
+                "Quy trình lập kế hoạch",
+                "Quy trình thực thi",
+                "Quy trình điều khiển"
+            ]
+        },
+        {
+            "quiz_question": "Kết quả chính của quy trình khởi động bao gồm tất cả các yếu tố sau, trừ:",
+            "options": [
+                "Chọn người quản trị dự án",
+                "Xác định stakeholders chính",
+                "Hoàn tất tuyên bố về dự án và lấy chữ ký",
+                "Phát biểu về phạm vi dự án"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào chiếm nhiều thời gian và tài nguyên nhất để thực thi dự án?",
+            "options": [
+                "Quy trình khởi động",
+                "Quy trình lập kế hoạch",
+                "Quy trình thực thi",
+                "Quy trình điều khiển"
+            ]
+        },
+        {
+            "quiz_question": "Kết quả quan trọng của quy trình thực thi là gì?",
+            "options": [
+                "Hợp đồng nhóm",
+                "Phát biểu về phạm vi dự án",
+                "Kết quả công việc",
+                "Biểu đồ phân rã công việc"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào bao gồm đo tiến độ đạt được các mục tiêu của dự án và thực hiện các hoạt động chỉnh sửa cho phù hợp?",
+            "options": [
+                "Quy trình khởi động",
+                "Quy trình lập kế hoạch",
+                "Quy trình điều khiển",
+                "Quy trình kết thúc"
+            ]
+        },
+        {
+            "quiz_question": "Kết quả quan trọng của quy trình điều khiển là gì?",
+            "options": [
+                "Báo cáo tình trạng và báo cáo tiến độ",
+                "Hợp đồng nhóm",
+                "Biểu đồ phân rã công việc",
+                "Lịch biểu của dự án"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào gồm đạt được sự chấp nhận của các stakeholder và khách hàng về sản phẩm và chuyển dự án sang trạng thái kết thúc?",
+            "options": [
+                "Quy trình khởi động",
+                "Quy trình lập kế hoạch",
+                "Quy trình thực thi",
+                "Quy trình kết thúc"
+            ]
+        },
+        {
+            "quiz_question": "Kết quả quan trọng của quy trình kết thúc dự án là gì?",
+            "options": [
+                "Cài đặt các kết quả của dự án",
+                "Phát biểu về phạm vi dự án",
+                "Hợp đồng nhóm",
+                "Biểu đồ phân rã công việc"
+            ]
+        },
+        {
+            "quiz_question": "Các quy trình quản lý thời gian dự án không bao gồm công việc nào sau đây?",
+            "options": [
+                "Xác định các hoạt động",
+                "Sắp xếp thứ tự các hoạt động",
+                "Ước lượng tài nguyên cho mỗi hoạt động",
+                "Chọn quy trình làm phần mềm"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình kết thúc dự án bao gồm các hoạt động nào sau đây?",
+            "options": [
+                "Cài đặt các kết quả của dự án",
+                "Huấn luyện sử dụng",
+                "Hoàn tất tài liệu",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý phạm vi trong dự án có những công cụ và kỹ thuật nào?",
+            "options": [
+                "Scope statement, WBS, Gantt chart",
+                "MS Project, Planer, Biểu đồ mạng",
+                "Costar, Open Plan, ước lượng chi phí",
+                "Biểu đồ Gantt, Planer, MS Project"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý thời gian trong dự án bao gồm việc gì?",
+            "options": [
+                "Ước lượng thời gian hoàn thành và lập lịch biểu",
+                "Xác định cách tổ chức thực hiện giai đoạn dự án",
+                "Kiểm soát thay đổi về chi phí",
+                "Xác định chuẩn mực chất lượng sản phẩm"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý chi phí trong dự án nhằm mục đích gì?",
+            "options": [
+                "Đảm bảo hoàn thành công việc trong kinh phí cho phép",
+                "Xác định sản phẩm giao nộp",
+                "Bảo đảm chất lượng sản phẩm",
+                "Xác định thời gian hoàn thành công việc"
+            ]
+        },
+        {
+            "quiz_question": "Mối quan hệ giữa quản lý chất lượng và quản lý phạm vi như thế nào?",
+            "options": [
+                "Quản lý chất lượng đảm bảo rằng các ranh giới, yêu cầu của dự án đảm bảo sự rõ ràng",
+                "Quản lý phạm vi đảm bảo rằng các đầu ra của dự án đáp ứng tiêu chuẩn đã xác định",
+                "Quản lý chất lượng không ảnh hưởng đến quản lý phạm vi",
+                "Quản lý phạm vi không quan trọng khi quản lý chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Điều gì xảy ra nếu thiếu quản lý phạm vi trong dự án?",
+            "options": [
+                "Không thể xác định tiêu chuẩn chất lượng",
+                "Không thể xác định thời gian hoàn thành công việc",
+                "Không thể đảm bảo sự rõ ràng và phù hợp với kỳ vọng của các bên liên quan",
+                "Không thể xây dựng kế hoạch huy động tài nguyên"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình chọn dự án dựa vào điều gì?",
+            "options": [
+                "Kế hoạch chiến lược tổng thể của tổ chức",
+                "Phân tích vùng nghiệp vụ",
+                "Xác định dự án tiềm năng",
+                "Chọn các dự án CNTT và phân bổ tài nguyên"
+            ]
+        },
+        {
+            "quiz_question": "Kế hoạch chiến lược là gì trong quy trình chọn dự án?",
+            "options": [
+                "Bức tranh tổng thể",
+                "Kế hoạch chiến lược của một tổ chức",
+                "Mục tiêu nghiệp vụ lâu dài",
+                "Mục tiêu chiến lược, thương mại, tài chính của đơn vị"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu nghiệp vụ lâu dài trong quy trình chọn dự án là gì?",
+            "options": [
+                "Mục tiêu nghiệp vụ ngắn hạn",
+                "Mục tiêu chiến lược của tổ chức",
+                "Mục tiêu nghiệp vụ lâu dài",
+                "Mục tiêu tài chính"
+            ]
+        },
+        {
+            "quiz_question": "Dự án CNTT cần hỗ trợ các mục tiêu nào?",
+            "options": [
+                "Mục tiêu nghiệp vụ ngắn hạn",
+                "Mục tiêu chiến lược của tổ chức",
+                "Mục tiêu nghiệp vụ lâu dài",
+                "Mục tiêu tài chính"
+            ]
+        },
+        {
+            "quiz_question": "Để chọn lựa dự án CNTT, cần xác định các mục tiêu nào?",
+            "options": [
+                "Mục tiêu nghiệp vụ lâu dài",
+                "Mục tiêu chiến lược của tổ chức",
+                "Mục tiêu nghiệp vụ ngắn hạn",
+                "Mục tiêu tài chính"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp nào không phải là phần của phân tích tài chính trong việc lựa chọn dự án?",
+            "options": [
+                "NPV Analysis",
+                "ROI (Return On Investment)",
+                "SWOT Analysis",
+                "Payback Analysis"
+            ]
+        },
+        {
+            "quiz_question": "Phân loại dự án không bao gồm những yếu tố nào sau đây?",
+            "options": [
+                "Vấn đề",
+                "Yêu cầu",
+                "Cơ hội",
+                "Định hướng"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp lựa chọn dự án nào hướng đến nhu cầu chung của công ty, tổ chức?",
+            "options": [
+                "Phân tích tài chính",
+                "Phân loại dự án",
+                "SWOT Analysis",
+                "Ý chí"
+            ]
+        },
+        {
+            "quiz_question": "Trong phân tích tài chính, Payback Analysis dùng để đo lường điều gì?",
+            "options": [
+                "Lợi nhuận",
+                "Tính hiệu quả",
+                "Thời gian hoàn vốn",
+                "Tổng vốn đầu tư"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp nào không phải là phần của phân loại dự án?",
+            "options": [
+                "Vấn đề",
+                "Yêu cầu",
+                "SWOT Analysis",
+                "Định hướng"
+            ]
+        },
+        {
+            "quiz_question": "Project Charter là gì?",
+            "options": [
+                "Tài liệu quy định quy trình thực hiện dự án",
+                "Tài liệu chính thức xác nhận sự tồn tại của dự án và đưa ra định hướng thực hiện mục tiêu",
+                "Tài liệu chỉ dẫn cho việc đào tạo nhân viên",
+                "Tài liệu quy định quy trình thanh toán cho dự án"
+            ]
+        },
+        {
+            "quiz_question": "Ai cần ký vào tuyên bố dự án để xác nhận sự đồng tình với nhu cầu và mục đích của dự án?",
+            "options": [
+                "Chỉ Project Manager",
+                "Chỉ các thành viên nhóm dự án",
+                "Các stakeholders chính của dự án",
+                "Không cần ký vào tuyên bố dự án"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của Project Charter là gì?",
+            "options": [
+                "Quản lý nhân sự dự án",
+                "Xác định nguồn lực cần thiết cho dự án",
+                "Xác nhận sự tồn tại của dự án và đưa ra định hướng thực hiện mục tiêu",
+                "Lên kế hoạch chi tiết cho dự án"
+            ]
+        },
+        {
+            "quiz_question": "Ai là người quyết định chọn dự án và đưa ra Tuyên bố dự án?",
+            "options": [
+                "Project Manager",
+                "Team Leader",
+                "Sponsor dự án",
+                "Stakeholders"
+            ]
+        },
+        {
+            "quiz_question": "Tuyên bố dự án cần được ký bởi ai để xác nhận sự chấp nhận với nhu cầu và mục tiêu của dự án?",
+            "options": [
+                "Chỉ Project Manager",
+                "Chỉ các thành viên nhóm dự án",
+                "Chỉ Sponsor dự án",
+                "Các stakeholders chính của dự án"
+            ]
+        },
+        {
+            "quiz_question": "Lập kế hoạch phạm vi (Scope planning) là quá trình xây dựng các tài liệu nhằm cung cấp nền tảng cho các quyết định về dự án trong tương lai.",
+            "options": [
+                "Đúng",
+                "Sai",
+                "Không đúng, không sai",
+                "Không có thông tin đủ để đưa ra kết luận"
+            ]
+        },
+        {
+            "quiz_question": "Phát biểu về phạm vi (scope statement) gồm những yếu tố nào?",
+            "options": [
+                "Mô tả ngắn về sản phẩm của dự án",
+                "Lý giải về dự án (project justification)",
+                "Tổng kết về tất cả các sản phẩm trung gian của dự án",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Phạm vi (scope statement) của dự án không bao gồm điều gì sau đây?",
+            "options": [
+                "Lý giải về dự án (project justification)",
+                "Mô tả ngắn về sản phẩm của dự án",
+                "Danh sách các thành viên trong nhóm dự án",
+                "Những yếu tố xác định thành công của dự án"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu chính của việc lập kế hoạch phạm vi (Scope planning) là gì?",
+            "options": [
+                "Xác định các yếu tố quyết định thành công của dự án",
+                "Xây dựng tài liệu hướng dẫn cho các quyết định trong tương lai của dự án",
+                "Tạo ra một phạm vi dự án cụ thể và chi tiết",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Phát biểu nào sau đây không đúng về lập kế hoạch phạm vi (Scope planning)?",
+            "options": [
+                "Lập kế hoạch phạm vi giúp xác định rõ ràng phạm vi của dự án",
+                "Lập kế hoạch phạm vi không ảnh hưởng đến việc xác định các yếu tố thành công của dự án",
+                "Lập kế hoạch phạm vi giúp tránh sự mơ hồ và hiểu lầm trong quá trình thực hiện dự án",
+                "Lập kế hoạch phạm vi giúp tăng khả năng dự án hoàn thành đúng tiến độ và ngân sách"
+            ]
+        },
+        {
+            "quiz_question": "Phạm vi dự án giúp cải tiến điều gì?",
+            "options": [
+                "Thời gian, chi phí, và tài nguyên",
+                "Hiệu suất vận hành và điều khiển dự án",
+                "Trách nhiệm của mỗi công việc",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Phạm vi (Scope Definition) trong dự án giúp cải tiến nhưng khía cạnh nào sau đây?",
+            "options": [
+                "Chính xác về thời gian",
+                "Chính xác về nguồn lực",
+                "Chính xác về chi phí",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Mối quan hệ giữa quản lý phạm vi và quản lý chất lượng trong dự án như thế nào?",
+            "options": [
+                "Phạm vi xác định các ranh giới, yêu cầu của dự án",
+                "Chất lượng đảm bảo rằng các đầu ra của dự án đáp ứng các tiêu chuẩn",
+                "Cả hai",
+                "Không có mối quan hệ"
+            ]
+        },
+        {
+            "quiz_question": "Trong quản lý phạm vi dự án, chức năng nào giúp xác định cách tổ chức thực hiện một giai đoạn nào đó của dự án?",
+            "options": [
+                "Xác định sản phẩm giao nộp",
+                "Kiểm soát những thay đổi về phạm vi dự án",
+                "Xác định phạm vi công việc",
+                "Tất cả các phương án đều sai"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích của việc xác định phạm vi trong dự án là gì?",
+            "options": [
+                "Cải tiến sự chính xác về thời gian, chi phí, và tài nguyên",
+                "Xác định nền tảng để đo hiệu suất vận hành dự án",
+                "Truyền đạt rõ ràng trách nhiệm của từng công việc",
+                "Tất cả các phương án đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Cấu trúc phân rã công việc (WBS) là gì trong quản lý dự án?",
+            "options": [
+                "Tài liệu nền tảng",
+                "Lịch biểu",
+                "Báo cáo chi phí",
+                "Biến đổi dự án"
+            ]
+        },
+        {
+            "quiz_question": "Ai sẽ xây dựng WBS trong dự án?",
+            "options": [
+                "Người quản lý dự án",
+                "Khách hàng",
+                "Thành viên tổ dự án và người tài trợ dự án",
+                "Ban quản lý dự án"
+            ]
+        },
+        {
+            "quiz_question": "Hướng tiếp cận nào không phải là phương pháp xây dựng WBS?",
+            "options": [
+                "Tiếp cận tương tự",
+                "Tiếp cận từ trên xuống",
+                "Tiếp cận từ dưới lên",
+                "Mind-mapping"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp nào bắt đầu với các công việc chi tiết, sau đó kế hợp thành công việc lớn?",
+            "options": [
+                "Tiếp cận tương tự",
+                "Tiếp cận từ trên xuống",
+                "Tiếp cận từ dưới lên",
+                "Mind-mapping"
+            ]
+        },
+        {
+            "quiz_question": "WBS có tác dụng cung cấp cơ sở cho việc quản lý nào sau đây?",
+            "options": [
+                "Lịch biểu",
+                "Chi phí",
+                "Nhân sự",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "WBS là gì trong quản lý dự án?",
+            "options": [
+                "Công cụ quản lý",
+                "Phương pháp quản lý",
+                "Tài liệu quản lý",
+                "Hệ thống quản lý"
+            ]
+        },
+        {
+            "quiz_question": "Để xây dựng bảng công việc, những yếu tố nào cần được liệt kê?",
+            "options": [
+                "Danh sách sản phẩm, ước lượng thời gian, lịch trình thực hiện",
+                "Danh sách sản phẩm, ngày sinh, phân bố lực lượng",
+                "Danh sách công việc, lịch trình thực hiện, tính chi phí",
+                "Danh sách công việc, phân bố tài nguyên, kiểm soát rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Công việc trong WBS được chi tiết tới mức nào?",
+            "options": [
+                "Dưới 50 giờ",
+                "Dưới 100 giờ",
+                "Dưới 80 giờ",
+                "Dưới 120 giờ"
+            ]
+        },
+        {
+            "quiz_question": "Sau khi chuẩn bị bản thảo WBS, quy trình tiếp theo là gì?",
+            "options": [
+                "Gửi cho mọi người đọc trước, họp thảo luận",
+                "Gửi cho người quản lý duyệt",
+                "Gửi cho khách hàng xem xét",
+                "Gửi cho bộ phận kế toán kiểm tra chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích của việc kiểm soát các phiên bản của WBS là gì?",
+            "options": [
+                "Đảm bảo sự đồng thuận giữa các bên",
+                "Đảm bảo không có thay đổi trong dự án",
+                "Đảm bảo tính chính xác và nhất quán của thông tin",
+                "Đảm bảo không có rủi ro nào xảy ra"
+            ]
+        },
+        {
+            "quiz_question": "Quá trình soạn thảo WBS bao gồm những bước nào?",
+            "options": [
+                "Liệt kê sản phẩm, phân bố lực lượng, kiểm soát chi phí",
+                "Liệt kê công việc, lịch trình thực hiện, kiểm soát rủi ro",
+                "Liệt kê sản phẩm, ước lượng thời gian, phân bố tài nguyên",
+                "Liệt kê công việc, đạt sự đồng thuận, cập nhật và kiểm soát phiên bản"
+            ]
+        },
+        {
+            "quiz_question": "Đơn vị công việc chỉ xuất hiện một nơi trong WBS có ý nghĩa gì?",
+            "options": [
+                "Mỗi đơn vị công việc có thể xuất hiện ở nhiều nơi trong WBS",
+                "Mỗi đơn vị công việc chỉ xuất hiện ở một nơi duy nhất trong WBS",
+                "Mỗi đơn vị công việc có thể xuất hiện ở nhiều nơi trong dự án",
+                "Mỗi đơn vị công việc không cần xuất hiện trong WBS"
+            ]
+        },
+        {
+            "quiz_question": "WBS phải nhất quán với cách thực hiện công việc như thế nào?",
+            "options": [
+                "Phải phục vụ chỉ nhóm dự án",
+                "Phải phục vụ nhóm dự án và các mục đích khác nếu thực tế cho phép",
+                "Phải phục vụ chỉ mục đích khác",
+                "Không cần phải nhất quán với cách thực hiện công việc"
+            ]
+        },
+        {
+            "quiz_question": "Ai phải tham gia phát triển WBS để đảm bảo tính nhất quán?",
+            "options": [
+                "Chỉ người quản lý dự án",
+                "Chỉ người quản lý chất lượng",
+                "Cả thành viên nhóm dự án",
+                "Chỉ người phân tích kỹ thuật"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích của việc có tài liệu đi kèm cho mỗi mục WBS là gì?",
+            "options": [
+                "Để tạo ra thêm công việc",
+                "Để bảo đảm hiểu được chính xác phạm vi công việc",
+                "Để biến đổi cấu trúc WBS",
+                "Để loại bỏ công việc không cần thiết"
+            ]
+        },
+        {
+            "quiz_question": "WBS là công cụ linh hoạt để đáp ứng những thay đổi không tránh được và điều khiển nội dung công việc theo đúng tuyên bố về phạm vi. Điều này có nghĩa là gì?",
+            "options": [
+                "WBS không cần phải linh hoạt",
+                "WBS không thể thay đổi",
+                "WBS có thể thích ứng với thay đổi và duy trì phạm vi công việc",
+                "WBS chỉ phục vụ cho mục đích kiểm soát"
+            ]
+        },
+        {
+            "quiz_question": "Tiêu chí để kiểm tra tính đầy đủ của WBS bao gồm những yếu tố nào?",
+            "options": [
+                "Tình trạng/tính toán của tất cả công việc có thể đo được",
+                "Thời gian hoàn thành công việc trong giới hạn cho phép",
+                "Công việc được phân công độc lập",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Nếu một tiêu chí kiểm tra tính đầy đủ của WBS không thỏa, hành động tiếp theo là gì?",
+            "options": [
+                "Tiếp tục thực hiện theo kế hoạch ban đầu",
+                "Tính toán lại tài nguyên và chi phí",
+                "Phân rã tiếp",
+                "Tăng thêm tài nguyên cho công việc"
+            ]
+        },
+        {
+            "quiz_question": "Tính toán tài nguyên và chi phí của công việc trong WBS dựa trên điều gì?",
+            "options": [
+                "Ước lượng dự án",
+                "Kế hoạch hoạt động",
+                "Dự đoán tài chính",
+                "Thời gian hoàn thành công việc"
+            ]
+        },
+        {
+            "quiz_question": "Phân công công việc độc lập trong WBS giúp gì cho dự án?",
+            "options": [
+                "Tăng độ chính xác của kế hoạch",
+                "Giảm thời gian hoàn thành dự án",
+                "Tăng khả năng đo lường hiệu suất",
+                "Đảm bảo tính đầy đủ của WBS"
+            ]
+        },
+        {
+            "quiz_question": "Tính toán thời gian hoàn thành công việc trong WBS dựa vào yếu tố nào?",
+            "options": [
+                "Ước lượng tài nguyên",
+                "Kế hoạch hoạt động",
+                "Thời gian thực hiện công việc",
+                "Tình trạng công việc"
+            ]
+        },
+        {
+            "quiz_question": "Kiểm tra và điều khiển thay đổi phạm vi là gì?",
+            "options": [
+                "Quá trình đánh giá xem có cần thay đổi phạm vi hay không",
+                "Quá trình xác nhận rằng phạm vi dự án đang được thực hiện theo kế hoạch",
+                "Quá trình xác định và quản lý các thay đổi trong phạm vi dự án",
+                "Quá trình giảm thiểu thay đổi phạm vi dự án"
+            ]
+        },
+        {
+            "quiz_question": "Tại sao nhiều dự án CNTT phải tuyên bố phá sản?",
+            "options": [
+                "Do không có đủ nguồn lực để thực hiện dự án",
+                "Do không biết cách quản lý thay đổi phạm vi",
+                "Do vượt quá phạm vi dự án (scope creep)",
+                "Do không có kế hoạch chi tiết từ đầu"
+            ]
+        },
+        {
+            "quiz_question": "Phạm vi dự án có thể thay đổi như thế nào?",
+            "options": [
+                "Chỉ có thể thay đổi khi có sự chấp thuận của tất cả các bên liên quan",
+                "Chỉ có thể thay đổi khi có sự đồng ý của ban điều hành dự án",
+                "Có thể thay đổi do nhu cầu của khách hàng hoặc yêu cầu từ bên thứ ba",
+                "Không thể thay đổi"
+            ]
+        },
+        {
+            "quiz_question": "Scope creep là gì?",
+            "options": [
+                "Việc giảm thiểu thay đổi phạm vi dự án",
+                "Tình trạng vượt quá phạm vi dự án",
+                "Quá trình kiểm tra và điều khiển thay đổi phạm vi",
+                "Tình trạng không thay đổi phạm vi dự án"
+            ]
+        },
+        {
+            "quiz_question": "Tại sao việc kiểm tra phạm vi dự án và giảm thiểu thay đổi phạm vi là điều khó khăn?",
+            "options": [
+                "Do không có đủ nguồn lực để thực hiện dự án",
+                "Do phạm vi dự án thường thay đổi liên tục",
+                "Do không có kế hoạch chi tiết từ đầu",
+                "Do không biết cách quản lý thay đổi phạm vi"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý thời gian dự án bao gồm những bước nào?",
+            "options": [
+                "Xác định các hoạt động, sắp xếp thứ tự các hoạt động, ước lượng thời gian cho mỗi hoạt động, phát triển lịch biểu",
+                "Xác định nguồn lực, thực hiện công việc, đánh giá hiệu suất, lập báo cáo",
+                "Xác định mục tiêu, thiết kế chiến lược, triển khai kế hoạch, đánh giá kết quả",
+                "Xác định rủi ro, lập kế hoạch phòng tránh, giám sát, đánh giá"
+            ]
+        },
+        {
+            "quiz_question": "Thách thức lớn nhất trong quản lý thời gian dự án là gì?",
+            "options": [
+                "Đảm bảo chất lượng sản phẩm",
+                "Hoàn thành dự án đúng hạn",
+                "Kiểm soát chi phí",
+                "Xử lý rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Vấn đề gây xung đột chính trong dự án là gì?",
+            "options": [
+                "Quản lý phạm vi",
+                "Quản lý thời gian",
+                "Quản lý chi phí",
+                "Quản lý chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý phạm vi dự án bao gồm những hoạt động nào?",
+            "options": [
+                "Xác định cách tổ chức thực hiện một giai đoạn, xác định sản phẩm giao nộp, kiểm soát thay đổi về phạm vi dự án",
+                "Ước lượng thời gian hoàn thành dự án, lập lịch biểu thích hợp, kiểm soát thay đổi lịch trình",
+                "Xây dựng kế hoạch huy động tài nguyên, ước tính chi phí cho từng loại tài nguyên, kiểm soát thay đổi về chi phí",
+                "Xác định chuẩn mực chất lượng, bảo đảm chất lượng sản phẩm, quản lý thay đổi chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu chính của quản lý thời gian dự án là gì?",
+            "options": [
+                "Đảm bảo chất lượng sản phẩm",
+                "Hoàn thành dự án đúng hạn",
+                "Kiểm soát chi phí",
+                "Xử lý rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý chất lượng dự án bao gồm những hoạt động nào?",
+            "options": [
+                "Xác định cách tổ chức thực hiện một giai đoạn, xác định sản phẩm giao nộp, kiểm soát thay đổi về phạm vi dự án",
+                "Ước lượng thời gian hoàn thành dự án, lập lịch biểu thích hợp, kiểm soát thay đổi lịch trình",
+                "Xây dựng kế hoạch huy động tài nguyên, ước tính chi phí cho từng loại tài nguyên, kiểm soát thay đổi về chi phí",
+                "Xác định chuẩn mực chất lượng, bảo đảm chất lượng sản phẩm, quản lý thay đổi chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý thời gian dự án bao gồm những bước nào sau đây?",
+            "options": [
+                "Xác định các hoạt động",
+                "Sắp xếp thứ tự các hoạt động",
+                "Ước lượng ngân sách cho dự án",
+                "Phát triển lịch biểu"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích của việc ước lượng thời gian cho từng hoạt động trong quản lý thời gian dự án là gì?",
+            "options": [
+                "Xác định ngân sách cho dự án",
+                "Xác định các rủi ro tiềm ẩn",
+                "Dự đoán thời gian hoàn thành dự án",
+                "Phân chia công việc cho các thành viên nhóm"
+            ]
+        },
+        {
+            "quiz_question": "Lịch biểu trong quản lý thời gian dự án được sử dụng để làm gì?",
+            "options": [
+                "Xác định ngân sách cho dự án",
+                "Đánh giá hiệu suất làm việc của nhân viên",
+                "Theo dõi tiến độ của dự án",
+                "Phân chia công việc cho các thành viên nhóm"
+            ]
+        },
+        {
+            "quiz_question": "Phần nào làm nền tảng cho phát triển lịch biểu dự án?",
+            "options": [
+                "Bản tuyên bố dự án",
+                "Tuyên bố phạm vi",
+                "WBS",
+                "Tất cả các phần trên"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý thời gian dự án không bao gồm hoạt động nào sau đây?",
+            "options": [
+                "Xác định các hoạt động",
+                "Sắp xếp thứ tự các hoạt động",
+                "Lập kế hoạch ngân sách",
+                "Phát triển lịch biểu"
+            ]
+        },
+        {
+            "quiz_question": "Giai đoạn xác định của dự án bao gồm các hoạt động nào sau đây?",
+            "options": [
+                "Xác định vấn đề và mục tiêu",
+                "Lập kế hoạch ngân sách",
+                "Phát triển lịch biểu",
+                "Đề xuất giải pháp với người dùng"
+            ]
+        },
+        {
+            "quiz_question": "Tài liệu kết quả của giai đoạn xác định dự án bao gồm những phần nào sau đây?",
+            "options": [
+                "Đề cương dự án",
+                "Nghiên cứu khả thi",
+                "Danh sách rủi ro",
+                "Tất cả các phần trên"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý thời gian dự án không bao gồm hoạt động nào sau đây?",
+            "options": [
+                "Xác định các hoạt động",
+                "Sắp xếp thứ tự các hoạt động",
+                "Lập kế hoạch ngân sách",
+                "Phát triển lịch biểu"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý thời gian dự án bao gồm những bước nào sau đây?",
+            "options": [
+                "Xác định các hoạt động",
+                "Sắp xếp thứ tự các hoạt động",
+                "Ước lượng thời gian cho mỗi hoạt động",
+                "Phân tích lịch biểu"
+            ]
+        },
+        {
+            "quiz_question": "Phụ thuộc bắt buộc trong quy trình sắp xếp thứ tự hoạt động dự án có đặc điểm gì?",
+            "options": [
+                "Cố hữu do bản chất công việc",
+                "Logic mềm",
+                "Quan hệ giữa các hoạt động bên trong dự án và bên ngoài dự án",
+                "Không liên quan đến quyết định của PM"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ mạng là kỹ thuật được ưu tiên trong quá trình sắp xếp thứ tự hoạt động dự án vì lý do gì?",
+            "options": [
+                "Hiển thị quan hệ logic giữa các hoạt động của dự án",
+                "Tạo điều kiện cho việc không cần xác định ràng buộc",
+                "Dễ dàng thay đổi thứ tự các hoạt động",
+                "Không cần ước lượng thời gian cho từng hoạt động"
+            ]
+        },
+        {
+            "quiz_question": "Trong quản lý thời gian dự án, ràng buộc \"No earlier than\" có ý nghĩa gì?",
+            "options": [
+                "Công việc phải hoàn tất vào ngày cụ thể nhưng không sớm hơn ngày đó",
+                "Hướng đến deadline, công việc phải hoàn tất vào ngày đó hay ngày khác",
+                "Công việc không thể điều chỉnh ngày hoàn tất",
+                "Liên quan đến quyết định của PM"
+            ]
+        },
+        {
+            "quiz_question": "Ràng buộc quản lý trong quy trình quản lý thời gian dự án liên quan đến điều gì?",
+            "options": [
+                "Quyết định của PM",
+                "Ràng buộc kỹ thuật",
+                "Ràng buộc thực thi",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp nào được sử dụng để xác định quan hệ phụ thuộc giữa các hoạt động trong quy trình quản lý thời gian dự án?",
+            "options": [
+                "Phân tích đường dẫn",
+                "Biểu đồ cột",
+                "Phân tích SWOT",
+                "Đánh giá 360 độ"
+            ]
+        },
+        {
+            "quiz_question": "Thời gian cho mỗi hoạt động là gì?",
+            "options": [
+                "Lượng thời gian thực hiện hoạt động này",
+                "Lượng thời gian trôi qua",
+                "Tổng thời gian thực hiện hoạt động và thời gian trôi qua",
+                "Số ngày nghỉ trong quá trình thực hiện hoạt động"
+            ]
+        },
+        {
+            "quiz_question": "Nỗ lực là gì?",
+            "options": [
+                "Số ngày làm việc hoặc số giờ làm việc cần thiết để hoàn tất một hoạt động",
+                "Thời gian trôi qua",
+                "Lượng thời gian cần thiết để thực hiện hoạt động",
+                "Số ngày nghỉ trong quá trình thực hiện hoạt động"
+            ]
+        },
+        {
+            "quiz_question": "Ai sẽ giúp tạo ra các ước lượng về thời gian cho các hoạt động?",
+            "options": [
+                "Các chuyên gia",
+                "Người quản lý dự án",
+                "Nhân viên thực hiện công việc",
+                "Đối tác ngoại vi"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý thời gian dự án gồm những bước nào?",
+            "options": [
+                "Xác định các hoạt động, ước lượng thời gian cho mỗi hoạt động, phát triển lịch biểu",
+                "Xác định các hoạt động, sắp xếp thứ tự các hoạt động, phát triển lịch biểu",
+                "Sắp xếp thứ tự các hoạt động, ước lượng thời gian cho mỗi hoạt động, phát triển lịch biểu",
+                "Sắp xếp thứ tự các hoạt động, ước lượng thời gian cho mỗi hoạt động"
+            ]
+        },
+        {
+            "quiz_question": "Ai sẽ xem xét các ước lượng về thời gian cho các hoạt động?",
+            "options": [
+                "Nhân viên thực hiện công việc",
+                "Các chuyên gia",
+                "Đối tác ngoại vi",
+                "Người quản lý dự án"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích cuối cùng của việc phát triển lịch biểu dự án là gì?",
+            "options": [
+                "Xác định ngày bắt đầu và kết thúc của dự án",
+                "Tạo nền tảng theo dõi tiến độ thực hiện dự án",
+                "Xác định hoạt động cần thực hiện",
+                "Phân tích PERT"
+            ]
+        },
+        {
+            "quiz_question": "Lịch biểu dự án bắt nguồn từ tài liệu nào?",
+            "options": [
+                "Bản tuyên bố dự án",
+                "Phân tích PERT",
+                "Biểu đồ Gantt",
+                "WBS"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý thời gian dự án bao gồm những công việc nào?",
+            "options": [
+                "Xác định ngày bắt đầu và kết thúc của dự án",
+                "Sắp xếp thứ tự các hoạt động",
+                "Phân tích đường dẫn tới hạn",
+                "Tất cả các lựa chọn"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ nào được sử dụng để phát triển lịch biểu dự án?",
+            "options": [
+                "Biểu đồ Gantt",
+                "Phân tích PERT",
+                "Phân tích đường dẫn tới hạn",
+                "Tất cả các lựa chọn"
+            ]
+        },
+        {
+            "quiz_question": "Hoạt động nào làm nền tảng cho phát triển các lịch biểu?",
+            "options": [
+                "Xác định hoạt động",
+                "Sắp xếp thứ tự các hoạt động",
+                "Phát triển WBS",
+                "Phân tích PERT"
+            ]
+        },
+        {
+            "quiz_question": "Để kiểm soát lịch biểu so với thực tế, bạn nên làm gì?",
+            "options": [
+                "Sử dụng kế hoạch phòng hờ bất trắc",
+                "Lập kế hoạch cho mọi người làm việc 100% khả năng vào mọi thời điểm",
+                "Tổ chức các buổi họp tiến độ với các stakeholders",
+                "Không cần phải quan tâm đến lịch biểu"
+            ]
+        },
+        {
+            "quiz_question": "Để tổ chức được buổi họp tiến độ hiệu quả, bạn nên thực hiện việc gì?",
+            "options": [
+                "Để mọi người tự tổ chức buổi họp",
+                "Tổ chức buổi họp mà không cần sự tham gia của stakeholders",
+                "Đặt ra các mục tiêu rõ ràng cho buổi họp",
+                "Thay đổi thời gian buổi họp mà không thông báo trước"
+            ]
+        },
+        {
+            "quiz_question": "Khi bàn về các vấn đề liên quan đến lịch biểu, bạn nên thể hiện ra điều gì?",
+            "options": [
+                "Chỉ nói những điều mà người khác muốn nghe",
+                "Rõ ràng và chân thật",
+                "Giữ thông tin cho riêng mình",
+                "Để cho người khác tự giải quyết vấn đề"
+            ]
+        },
+        {
+            "quiz_question": "Làm thế nào để sử dụng kế hoạch phòng hờ bất trắc một cách hiệu quả?",
+            "options": [
+                "Luôn tuân thủ kế hoạch 100%",
+                "Linh hoạt và điều chỉnh kế hoạch theo tình hình thực tế",
+                "Không cần phải quan tâm đến kế hoạch",
+                "Để mọi việc tự nhiên diễn ra"
+            ]
+        },
+        {
+            "quiz_question": "Tại sao không nên lập kế hoạch cho mọi người làm việc 100% khả năng vào mọi thời điểm?",
+            "options": [
+                "Vì mọi người không cần phải làm việc",
+                "Vì không cần phải quan tâm đến kế hoạch",
+                "Vì có thể xảy ra bất trắc",
+                "Vì mọi người đều hoàn hảo"
+            ]
+        },
+        {
+            "quiz_question": "Ưu điểm của việc sử dụng ý kiến chuyên gia là gì?",
+            "options": [
+                "Nhanh, dễ dùng",
+                "Kết quả chính xác",
+                "Dựa vào kinh nghiệm chủ quan",
+                "Rất khó tìm chuyên gia"
+            ]
+        },
+        {
+            "quiz_question": "Khuyết điểm của việc sử dụng ý kiến chuyên gia là gì?",
+            "options": [
+                "Nhanh, dễ dùng",
+                "Kết quả chính xác",
+                "Dựa vào kinh nghiệm chủ quan",
+                "Rất khó tìm chuyên gia"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ và kỹ thuật ước lượng thời gian không bao gồm phương pháp nào sau đây?",
+            "options": [
+                "Sử dụng ý kiến chuyên gia",
+                "Ước lượng dựa vào lịch sử",
+                "Kỹ thuật PERT",
+                "Sơ đồ GANTT"
+            ]
+        },
+        {
+            "quiz_question": "Kỹ thuật nào không phải là một công cụ ước lượng thời gian?",
+            "options": [
+                "Sử dụng ý kiến chuyên gia",
+                "Ước lượng dựa vào lịch sử",
+                "Phương pháp đường găng CPM",
+                "Sơ đồ GANTT"
+            ]
+        },
+        {
+            "quiz_question": "Ưu điểm của việc sử dụng ý kiến chuyên gia là gì?",
+            "options": [
+                "Nhanh, dễ dùng",
+                "Kết quả chính xác",
+                "Dựa vào kinh nghiệm chủ quan",
+                "Rất khó tìm chuyên gia"
+            ]
+        },
+        {
+            "quiz_question": "Ước lượng dựa vào lịch sử là phương pháp ước lượng thời gian dựa trên điều gì?",
+            "options": [
+                "Ý kiến chuyên gia",
+                "Công việc tương tự trong quá khứ",
+                "Kỹ thuật PERT",
+                "Phương pháp đường gấng CPM"
+            ]
+        },
+        {
+            "quiz_question": "Kỹ thuật PERT được sử dụng để ước lượng thời gian dựa trên nguyên tắc gì?",
+            "options": [
+                "Đường gấng CPM",
+                "Sử dụng ý kiến chuyên gia",
+                "Sự chính xác",
+                "Xác suất"
+            ]
+        },
+        {
+            "quiz_question": "Sơ đồ GANTT là công cụ và kỹ thuật ước lượng thời gian dựa trên gì?",
+            "options": [
+                "Ý kiến chuyên gia",
+                "Ước lượng dựa vào lịch sử",
+                "Kỹ thuật PERT",
+                "Phương pháp đường gấng CPM"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp đường gấng CPM được sử dụng để ước lượng thời gian dựa trên gì?",
+            "options": [
+                "Ý kiến chuyên gia",
+                "Sự chính xác",
+                "Kỹ thuật PERT",
+                "Sơ đồ GANTT"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ và kỹ thuật ước lượng thời gian nào không được đề cập trong nội dung?",
+            "options": [
+                "Ý kiến chuyên gia",
+                "Ước lượng dựa vào lịch sử",
+                "Kỹ thuật PERT",
+                "Phương pháp đường gấng CPM"
+            ]
+        },
+        {
+            "quiz_question": "Ưu điểm của kỹ thuật PERT là gì?",
+            "options": [
+                "Xét đến nhiều yếu tố tác động",
+                "Khuyến khích trao đổi giữa các thành viên",
+                "Kết quả đạt được là sự cân bằng giữa 2 thái cực",
+                "Việc lập kế hoạch chi tiết hơn"
+            ]
+        },
+        {
+            "quiz_question": "Khuyết điểm của kỹ thuật PERT là gì?",
+            "options": [
+                "Tốn nhiều thời gian",
+                "Có nguy cơ làm mọi người chán nản",
+                "Đòi hỏi khối lượng tính toán lớn",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ và kỹ thuật nào không phải là phương pháp ước lượng thời gian?",
+            "options": [
+                "Sử dụng ý kiến chuyên gia",
+                "Ước lượng dựa vào lịch sử",
+                "Kỹ thuật PERT",
+                "Sơ đồ GANTT"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp nào không phải là phương pháp ước lượng thời gian trong dự án?",
+            "options": [
+                "Kỹ thuật PERT",
+                "Ước lượng dựa vào lịch sử",
+                "Phương pháp đường găng CPM",
+                "Sơ đồ Pert"
+            ]
+        },
+        {
+            "quiz_question": "Tại sao việc sử dụng kỹ thuật PERT có thể làm mọi người chán nản?",
+            "options": [
+                "Tốn nhiều thời gian",
+                "Cần xét đến nhiều yếu tố tác động",
+                "Đòi hỏi khối lượng tính toán lớn",
+                "Không có nguy cơ làm mọi người chán nản"
+            ]
+        },
+        {
+            "quiz_question": "Critical Path Method (CPM) là gì?",
+            "options": [
+                "Kỹ thuật phân tích ước lượng thời gian tổng thể của dự án",
+                "Kỹ thuật xác định chi phí của dự án",
+                "Kỹ thuật quản lý nguồn lực của dự án",
+                "Kỹ thuật xác định rủi ro của dự án"
+            ]
+        },
+        {
+            "quiz_question": "Đường găng trong phương pháp CPM là gì?",
+            "options": [
+                "Đường có chiều dài nhỏ nhất trong sơ đồ mạng",
+                "Đường có chiều dài lớn nhất trong sơ đồ mạng",
+                "Đường không ảnh hưởng đến thời gian hoàn thành dự án",
+                "Đường không cần phải xác định trong quản lý dự án"
+            ]
+        },
+        {
+            "quiz_question": "Công việc găng trong phương pháp CPM là gì?",
+            "options": [
+                "Công việc không ảnh hưởng trực tiếp đến thời gian hoàn thành dự án",
+                "Công việc nằm ngoài đường găng",
+                "Công việc ảnh hưởng trực tiếp đến thời gian hoàn thành dự án",
+                "Công việc không cần phải thực hiện trong dự án"
+            ]
+        },
+        {
+            "quiz_question": "Đường găng trong phương pháp CPM có thể thay đổi không?",
+            "options": [
+                "Có, đường găng là bất biến",
+                "Có, các đường găng có thể thay đổi tùy thuộc vào yêu cầu của dự án",
+                "Không, đường găng là không thể thay đổi",
+                "Không, mỗi dự án chỉ có một đường găng duy nhất"
+            ]
+        },
+        {
+            "quiz_question": "Khoảng dư toàn phần trong phương pháp CPM là gì?",
+            "options": [
+                "Thời gian tối đa công việc có thể kéo dài mà không ảnh hưởng đến thời gian hoàn tất dự án",
+                "Thời gian tối thiểu công việc có thể kéo dài mà không ảnh hưởng đến thời gian hoàn tất dự án",
+                "Thời gian tối đa để hoàn thành một công việc",
+                "Thời gian tối thiểu để hoàn thành một công việc"
+            ]
+        },
+        {
+            "quiz_question": "Kỹ thuật ước lượng thời gian dựa vào lịch sử có thể được áp dụng trong phương pháp CPM không?",
+            "options": [
+                "Có",
+                "Không",
+                "Chỉ áp dụng cho phương pháp PERT",
+                "Chỉ áp dụng cho sơ đồ GANTT"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ và kỹ thuật nào không phải là phần của phương pháp CPM?",
+            "options": [
+                "Sử dụng ý kiến chuyên gia",
+                "Ước lượng dựa vào lịch sử",
+                "Kỹ thuật PERT",
+                "Sơ đồ GANTT"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp AON trong sơ đồ mạng biểu diễn công việc như thế nào?",
+            "options": [
+                "Mỗi đỉnh biểu diễn sự kiện",
+                "Mỗi cung biểu diễn một công việc",
+                "Mỗi đỉnh biểu diễn công việc",
+                "Mỗi cung biểu diễn quan hệ giữa các công việc"
+            ]
+        },
+        {
+            "quiz_question": "Sơ đồ GANTT được tạo ra bởi ai?",
+            "options": [
+                "Henry Gantt",
+                "Joseph Gantt",
+                "Edward Gantt",
+                "Michael Gantt"
+            ]
+        },
+        {
+            "quiz_question": "Sơ đồ GANTT được dùng để kiểm soát tiến độ thực hiện bằng cách nào?",
+            "options": [
+                "Bảng gồm nhiều hàng đánh dấu mốc thời gian",
+                "Bảng gồm nhiều cột đánh dấu mốc thời gian",
+                "Bảng gồm nhiều ô đánh dấu mốc thời gian",
+                "Bảng gồm nhiều ô trống"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ và kỹ thuật ước lượng thời gian không bao gồm phương pháp nào sau đây?",
+            "options": [
+                "Sử dụng ý kiến chuyên gia",
+                "Ước lượng dựa vào lịch sử",
+                "Kỹ thuật PERT",
+                "Phương pháp đường găng CPM"
+            ]
+        },
+        {
+            "quiz_question": "Sơ đồ GANTT có thể được so sánh với sơ đồ nào khác?",
+            "options": [
+                "Sơ đồ ER",
+                "Sơ đồ PERT",
+                "Sơ đồ UML",
+                "Sơ đồ BPMN"
+            ]
+        },
+        {
+            "quiz_question": "Sơ đồ GANTT thường được sử dụng trong lĩnh vực nào?",
+            "options": [
+                "Kế toán",
+                "Y tế",
+                "Quảng cáo",
+                "Quản lý dự án"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ và kỹ thuật ước lượng thời gian không bao gồm phương pháp nào sau đây?",
+            "options": [
+                "Sử dụng ý kiến chuyên gia",
+                "Ước lượng dựa vào lịch sử",
+                "Kỹ thuật PERT",
+                "Phương pháp đường găng CPM"
+            ]
+        },
+        {
+            "quiz_question": "Các kỹ thuật rút ngắn lịch biểu bao gồm những gì?",
+            "options": [
+                "Bố trí công việc nối tiếp trong sơ đồ mạng",
+                "Phân phối lại nguồn lực",
+                "Giảm công nhân và giảm giờ lao động",
+                "Thay đổi biện pháp kỹ thuật"
+            ]
+        },
+        {
+            "quiz_question": "Nguyên tắc rút ngắn thời gian thực hiện với chi phí ít nhất là gì?",
+            "options": [
+                "Chọn công việc găng với chi phí rút ngắn nhiều đơn vị thời gian",
+                "Rút ngắn thời gian thực hiện công việc đến mức tối thiểu cần thiết",
+                "Tăng thêm nguồn lực để rút ngắn thời gian",
+                "Không cần tính toán chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Bước nào sau đây không phải là phần của nguyên tắc rút ngắn thời gian thực hiện?",
+            "options": [
+                "Chọn công việc găng với chi phí rút ngắn ít nhất",
+                "Tính lại ti và Ti",
+                "Nếu công việc găng cần rút ngắn nằm trên chu trình, rút ngắn 2 công việc trên 2 nhánh khác nhau",
+                "Tăng công suất thiết bị"
+            ]
+        },
+        {
+            "quiz_question": "Bước nào được thực hiện sau khi chọn công việc găng và rút ngắn thời gian thực hiện đến mức tối thiểu cần thiết?",
+            "options": [
+                "Tăng thêm nguồn lực",
+                "Tính lại ti và Ti",
+                "Chuyển sang công việc tiếp theo",
+                "Tăng công suất thiết bị"
+            ]
+        },
+        {
+            "quiz_question": "Trong trường hợp công việc găng cần rút ngắn nằm trên chu trình gồm nhiều công việc găng khác, phải rút ngắn bao nhiêu công việc trên các nhánh khác nhau?",
+            "options": [
+                "1 công việc",
+                "2 công việc",
+                "3 công việc",
+                "4 công việc"
+            ]
+        },
+        {
+            "quiz_question": "Để rút ngắn thời gian thực hiện công việc, cần thực hiện bước nào sau đây?",
+            "options": [
+                "Tăng thêm nguồn lực",
+                "Tăng giờ làm việc",
+                "Thay đổi biện pháp kỹ thuật",
+                "Đánh giá lại nguồn lực"
+            ]
+        },
+        {
+            "quiz_question": "Ước lượng được mô tả như thế nào trong nội dung?",
+            "options": [
+                "Không cần phải hiệu chỉnh",
+                "Là quá trình lặp",
+                "Chỉ cần dựa vào phần mềm",
+                "Không cần chia nhỏ công việc"
+            ]
+        },
+        {
+            "quiz_question": "Theo nội dung, điều gì rất có ích khi ước lượng?",
+            "options": [
+                "Phần mềm",
+                "Thống kê",
+                "Kế hoạch chi tiết",
+                "Kinh nghiệm"
+            ]
+        },
+        {
+            "quiz_question": "Điều gì là mấu chốt cho việc ước lượng theo nội dung?",
+            "options": [
+                "Chia nhỏ công việc",
+                "Dựa vào phần mềm",
+                "Không cần tính toán",
+                "Làm việc một cách ngẫu hứng"
+            ]
+        },
+        {
+            "quiz_question": "Phần mềm hoặc công cụ nào có sẵn để hỗ trợ việc ước lượng theo nội dung?",
+            "options": [
+                "Không có",
+                "Có nhiều loại",
+                "Chỉ có một vài loại",
+                "Chỉ có một"
+            ]
+        },
+        {
+            "quiz_question": "Theo nội dung, việc tính toán ước lượng cho từng phần nhỏ của công việc giúp gì?",
+            "options": [
+                "Cần phải ước lượng chính xác từng phần",
+                "Tất cả phần đều ước lượng chính xác",
+                "Một số phần ước lượng thừa, một số phần ước lượng thiếu",
+                "Không cần tính toán chi tiết"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý chi phí bao gồm những bước nào sau đây?",
+            "options": [
+                "Lập kế hoạch quản lý chi phí, ước lượng chi phí, dự toán chi phí, kiểm soát và điều chỉnh chi phí",
+                "Lập kế hoạch quản lý chi phí, thực hiện dự toán chi phí, kiểm soát và điều chỉnh chi phí",
+                "Lập kế hoạch quản lý chi phí, ước lượng chi phí, thực hiện dự toán chi phí, kiểm soát chi phí",
+                "Lập kế hoạch quản lý chi phí, ước lượng chi phí, kiểm soát chi phí, điều chỉnh chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Chi phí dự án thường được đo bằng đơn vị gì?",
+            "options": [
+                "Đơn vị sản phẩm",
+                "Đơn vị thời gian",
+                "Đơn vị tiền tệ",
+                "Đơn vị công việc"
+            ]
+        },
+        {
+            "quiz_question": "Phân loại chi phí dự án không bao gồm yếu tố nào sau đây?",
+            "options": [
+                "Trả công lao động",
+                "Huấn luyện đào tạo lại",
+                "Thanh toán tiền thưởng",
+                "Tiện nghi làm việc"
+            ]
+        },
+        {
+            "quiz_question": "Việc quản lý chi phí dự án giúp gì cho dự án?",
+            "options": [
+                "Đảm bảo dự án hoàn thành đúng tiến độ",
+                "Đảm bảo dự án hoàn thành trong ngân sách cho phép",
+                "Đảm bảo chất lượng sản phẩm cuối cùng",
+                "Đảm bảo dự án không gặp rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý chi phí dự án bắt đầu bằng bước nào?",
+            "options": [
+                "Lập kế hoạch quản lý chi phí",
+                "Ước lượng chi phí",
+                "Dự toán chi phí",
+                "Kiểm soát và điều chỉnh chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Chi phí dự án được sử dụng để trả cho yêu cầu nào sau đây?",
+            "options": [
+                "Yêu cầu về thời gian",
+                "Yêu cầu về chất lượng",
+                "Yêu cầu về hàng hóa và dịch vụ",
+                "Yêu cầu về nguồn lực"
+            ]
+        },
+        {
+            "quiz_question": "Việc lập kế hoạch quản lý chi phí dự án bao gồm việc quyết định về điều gì?",
+            "options": [
+                "Quyết định về ngân sách dự án",
+                "Quyết định về chất lượng sản phẩm",
+                "Quyết định về thời gian thực hiện dự án",
+                "Quyết định về chính sách, qui trình, tài liệu sử dụng cho việc thực thi và điều khiển chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Ước lượng chi phí dự án là để ước lượng gì?",
+            "options": [
+                "Ước lượng chính xác chi phí dự án",
+                "Ước lượng gần đúng cho những tài nguyên cần thiết để hoàn thành dự án",
+                "Ước lượng chính xác thời gian hoàn thành dự án",
+                "Ước lượng gần đúng chất lượng sản phẩm cuối cùng"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý chi phí dự án bao gồm những quy trình nào sau đây?",
+            "options": [
+                "Quy trình yêu cầu đảm bảo dự án hoàn tất trong ngân sách cho phép",
+                "Quy trình yêu cầu đảm bảo dự án hoàn tất đúng tiến độ",
+                "Quy trình yêu cầu đảm bảo dự án hoàn tất với chất lượng cao",
+                "Quy trình yêu cầu đảm bảo dự án hoàn tất mà không cần kiểm soát chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Dự toán ngân sách của dự án được dùng để làm gì?",
+            "options": [
+                "Phân bổ chi phí ước tính vào từng hạng mục công việc",
+                "Tính toán chi phí chính xác",
+                "Đánh giá hiệu quả của dự án",
+                "Thực hiện kiểm soát chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý chi phí bao gồm những bước nào?",
+            "options": [
+                "Lập kế hoạch quản lý chi phí, ước lượng chi phí, dự toán chi phí, kiểm soát và điều chỉnh chi phí",
+                "Lập kế hoạch quản lý chi phí, thực thi dự án, báo cáo chi phí, đánh giá hiệu quả",
+                "Ước lượng chi phí, thực thi dự án, kiểm tra tiến độ, đánh giá hiệu quả",
+                "Lập kế hoạch quản lý chi phí, thực thi dự án, kiểm soát chi phí, đánh giá hiệu quả"
+            ]
+        },
+        {
+            "quiz_question": "Phân loại chi phí trong dự án bao gồm những mục nào sau đây?",
+            "options": [
+                "Đi lại trao đổi, văn phòng phẩm, thời gian",
+                "Trả công lao động, huấn luyện đào tạo lại, máy móc trang thiết bị",
+                "Thu thập thông tin, tiện nghi làm việc",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý chi phí dự án đảm bảo điều gì?",
+            "options": [
+                "Dự án được hoàn tất trong ngân sách cho phép",
+                "Dự án được hoàn tất nhanh chóng",
+                "Dự án không cần quản lý chi phí",
+                "Dự án không cần kiểm soát chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào trong quản lý chi phí dự án cần điều chỉnh ngay khi có sự thay đổi trong công việc?",
+            "options": [
+                "Lập kế hoạch quản lý chi phí",
+                "Ước lượng chi phí",
+                "Dự toán ngân sách",
+                "Kiểm soát và điều chỉnh chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Chi phí dự án được sử dụng để trả cho yêu cầu nào?",
+            "options": [
+                "Yêu cầu về thời gian",
+                "Yêu cầu về vật liệu",
+                "Yêu cầu về hàng hóa và dịch vụ",
+                "Yêu cầu về lao động"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình ước lượng chi phí trong quản lý chi phí dự án là gì?",
+            "options": [
+                "Đưa ra các con số chính xác về chi phí cần thiết để hoàn thành dự án",
+                "Ước lượng gần đúng cho những tài nguyên cần thiết để hoàn thành dự án",
+                "Xác định nguồn tài chính cần thiết cho dự án",
+                "Lập kế hoạch chi tiêu chi phí cho từng công việc trong dự án"
+            ]
+        },
+        {
+            "quiz_question": "Trong lập kế hoạch quản lý chi phí, việc xác định nguồn tài nguyên cần thiết bao gồm những yếu tố nào?",
+            "options": [
+                "Thời gian, chi phí, chất lượng",
+                "Con người, thiết bị, vật tư",
+                "Nguyên liệu, công nghệ, quy trình",
+                "Phương pháp, quy trình, điều kiện"
+            ]
+        },
+        {
+            "quiz_question": "Để kiểm soát và điều chỉnh chi phí trong quản lý chi phí dự án, điều gì cần thay đổi khi có sự thay đổi trong công việc?",
+            "options": [
+                "Thời gian hoàn thành dự án",
+                "Ngân sách dự án",
+                "Phạm vi công việc",
+                "Số lượng nhân viên tham gia dự án"
+            ]
+        },
+        {
+            "quiz_question": "Trong quản lý chi phí dự án, việc ước lượng chi phí là quan trọng vì:",
+            "options": [
+                "Giúp xác định nguồn tài chính cần thiết cho dự án",
+                "Đưa ra con số chính xác về chi phí cần thiết",
+                "Ước lượng gần đúng các tài nguyên cần thiết",
+                "Xác định ngưỡng biến động chi phí cho phép"
+            ]
+        },
+        {
+            "quiz_question": "Trong quản lý chi phí dự án, việc lập kế hoạch tài nguyên sẽ phụ thuộc vào điều gì?",
+            "options": [
+                "Bản chất riêng của từng dự án và tổ chức thực hiện dự án",
+                "Ngân sách dự án",
+                "Phạm vi công việc",
+                "Thời gian hoàn thành dự án"
+            ]
+        },
+        {
+            "quiz_question": "Để giải quyết vấn đề trong quản lý chi phí dự án, cần tham khảo đến những tài liệu nào sau đây?",
+            "options": [
+                "Báo cáo tiến độ dự án",
+                "Bản khóa dự án",
+                "WBS, scope statement, thông tin trước đây và hiện tại, chính sách của tổ chức",
+                "Đề xuất dự án"
+            ]
+        },
+        {
+            "quiz_question": "Trong quy trình quản lý chi phí, ước lượng chi phí là gì?",
+            "options": [
+                "Xác định nguồn tài nguyên cần thiết để hoàn thành dự án",
+                "Xác định ngưỡng biến động chi phí cho phép",
+                "Phân bổ chi phí ước tính vào từng hạng mục công việc",
+                "Ước lượng gần đúng cho những tài nguyên cần thiết để hoàn thành dự án"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp ước lượng chi phí dự án sử dụng chi phí thực tế trước đó của các dự án tương tự làm nền tảng cơ bản để làm ước tính cho dự án hiện tại là gì?",
+            "options": [
+                "Phương pháp Từ dưới lên (Bottom-up estimating)",
+                "Phương pháp Tương tự hay ước lượng từ trên xuống (Top-down estimating)",
+                "Phương pháp Ước lượng 3 trường hợp",
+                "Phương pháp Mô hình tham số"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý chi phí không bao gồm công việc nào sau đây?",
+            "options": [
+                "Lập kế hoạch quản lý chi phí",
+                "Ước lượng chi phí",
+                "Dự toán ngân sách",
+                "Quyết định chính sách về phân chia lợi nhuận"
+            ]
+        },
+        {
+            "quiz_question": "Mô hình COCOMO (Constructive Cost Model) là mô hình ước lượng chi phí thông dụng trong lĩnh vực nào?",
+            "options": [
+                "Y tế",
+                "Xây dựng",
+                "Phần mềm",
+                "Năng lượng"
+            ]
+        },
+        {
+            "quiz_question": "Để thiết lập một baseline cho việc kiểm soát chi phí, dự án cần thực hiện công việc nào sau đây?",
+            "options": [
+                "Ước lượng chi phí",
+                "Dự toán ngân sách",
+                "Lập kế hoạch quản lý chi phí",
+                "Kiểm soát và điều chỉnh chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp ước lượng chi phí dự án sử dụng các đặc điểm riêng biệt trong dự án áp dụng phương thức toán học để ước tính chi phí là gì?",
+            "options": [
+                "Phương pháp Từ dưới lên (Bottom-up estimating)",
+                "Phương pháp Tương tự hay ước lượng từ trên xuống (Top-down estimating)",
+                "Phương pháp Ước lượng 3 trường hợp",
+                "Phương pháp Mô hình tham số"
+            ]
+        },
+        {
+            "quiz_question": "Kiểm soát và điều chỉnh chi phí là gì?",
+            "options": [
+                "Giám sát việc thực thi về chi phí để phát hiện những điều khác biệt với kế hoạch",
+                "Bảo đảm rằng tất cả những thay đổi hợp lý đều phải được ghi nhận vào cost baseline một cách chính xác",
+                "Ngăn chặn những thay đổi không đúng, không thích hợp và những thay đổi trái phép",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của việc kiểm soát và điều chỉnh chi phí là gì?",
+            "options": [
+                "Phát hiện những điều khác biệt với kế hoạch",
+                "Bảo đảm rằng tất cả những thay đổi hợp lý đều phải được ghi nhận vào cost baseline một cách chính xác",
+                "Ngăn chặn những thay đổi không đúng, không thích hợp và những thay đổi trái phép",
+                "Thông báo sự thay đổi đến những người liên quan có thẩm quyền"
+            ]
+        },
+        {
+            "quiz_question": "Cost baseline là gì?",
+            "options": [
+                "Kế hoạch chi phí ban đầu",
+                "Kế hoạch chi phí hiện tại",
+                "Kế hoạch chi phí dự kiến",
+                "Tất cả đều sai"
+            ]
+        },
+        {
+            "quiz_question": "Thay đổi nào được ghi nhận vào cost baseline một cách chính xác?",
+            "options": [
+                "Những thay đổi hợp lý",
+                "Những thay đổi không đúng",
+                "Những thay đổi không thích hợp",
+                "Những thay đổi trái phép"
+            ]
+        },
+        {
+            "quiz_question": "Việc thông báo sự thay đổi đến những người liên quan có thẩm quyền là để làm gì?",
+            "options": [
+                "Bảo đảm rằng tất cả những thay đổi hợp lý đều được ghi nhận",
+                "Ngăn chặn những thay đổi không đúng",
+                "Báo cáo trách nhiệm",
+                "Xác nhận sự thay đổi"
+            ]
+        },
+        {
+            "quiz_question": "Để lập kế hoạch quản lý chi phí, cần xác định những yếu tố nào?",
+            "options": [
+                "Đơn vị sử dụng đo lường, ngưỡng biến động chi phí cho phép, tần suất báo cáo chi phí",
+                "Thời gian, ngân sách, nguồn tài nguyên cần thiết",
+                "Tài nguyên cụ thể, kế hoạch tài nguyên, chính sách của tổ chức",
+                "WBS, scope statement, thông tin trước đây và hiện tại"
+            ]
+        },
+        {
+            "quiz_question": "Câu hỏi nào cần được cân nhắc khi lập kế hoạch tài nguyên trong quản lý chi phí?",
+            "options": [
+                "Dự án sẽ gặp những khó khăn nào khi thực hiện các công việc cụ thể của dự án?",
+                "Có những chính sách nào ảnh hưởng đến các tài nguyên cần thiết?",
+                "Tổ chức đã thực hiện dự án nào tương tự như dự án đang thực hiện?",
+                "Tất cả các câu trên"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý chi phí bao gồm việc điều chỉnh chi phí khi nào?",
+            "options": [
+                "Chỉ khi dự án hoàn thành",
+                "Khi có sự thay đổi trong công việc",
+                "Mỗi tuần một lần",
+                "Không cần điều chỉnh chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Lập kế hoạch quản lý chi phí cần xác định ngưỡng biến động chi phí cho phép để làm gì?",
+            "options": [
+                "Xác định số lượng người cần tuyển dụng",
+                "Định rõ kế hoạch thực hiện dự án",
+                "Quản lý tài chính dự án",
+                "Đánh giá rủi ro trong dự án"
+            ]
+        },
+        {
+            "quiz_question": "Khi lập kế hoạch quản lý chi phí, điều gì cần xác định về tài nguyên cần thiết để thực hiện dự án?",
+            "options": [
+                "Màu sắc của thiết bị",
+                "Tần suất báo cáo chi phí",
+                "Số lượng và loại tài nguyên cần thiết (con người, thiết bị, vật tư)",
+                "Tính năng của phần mềm"
+            ]
+        },
+        {
+            "quiz_question": "Bước nào trong quy trình quản lý chi phí liệt kê thành danh sách tài nguyên cụ thể?",
+            "options": [
+                "Ước lượng chi phí",
+                "Lập kế hoạch quản lý chi phí",
+                "Dự toán ngân sách",
+                "Kiểm soát – điều chỉnh"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp ước lượng chi phí nào sử dụng chi phí thực tế trước đó của các dự án tương tự làm nền tảng cơ bản để làm ước tính cho dự án hiện tại?",
+            "options": [
+                "Từ trên xuống (Top-down estimating)",
+                "Từ dưới lên (Bottom-up estimating)",
+                "Ước lượng 3 trường hợp",
+                "Mô hình tham số"
+            ]
+        },
+        {
+            "quiz_question": "Mô hình COCOMO (Constructive Cost Model) là mô hình nào?",
+            "options": [
+                "Mô hình tham số",
+                "Ước lượng 3 trường hợp",
+                "Từ trên xuống (Top-down estimating)",
+                "Từ dưới lên (Bottom-up estimating)"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp ước lượng chi phí dự án dựa vào các đặc điểm riêng biệt trong dự án và áp dụng phương thức toán học để ước tính chi phí là gì?",
+            "options": [
+                "Từ dưới lên (Bottom-up estimating)",
+                "Từ trên xuống (Top-down estimating)",
+                "Ước lượng 3 trường hợp",
+                "Mô hình tham số"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp ước lượng chi phí dự án ước tính riêng từng nhóm và tính toán con số tổng cộng là gì?",
+            "options": [
+                "Phỏng đoán",
+                "Ngân sách",
+                "Xác định",
+                "Từ dưới lên (Bottom-up estimating)"
+            ]
+        },
+        {
+            "quiz_question": "Phương pháp ước lượng chi phí dự án sử dụng chi phí thực tế trước đó của các dự án tương tự làm nền tảng cơ bản để làm ước tính cho dự án hiện tại là gì?",
+            "options": [
+                "Phỏng đoán",
+                "Ngân sách",
+                "Xác định",
+                "Tương tự hay ước lượng từ trên xuống"
+            ]
+        },
+        {
+            "quiz_question": "EVM là viết tắt của cụm từ nào sau đây?",
+            "options": [
+                "Earned Value Management",
+                "Effective Value Management",
+                "Efficient Value Management",
+                "Expected Value Management"
+            ]
+        },
+        {
+            "quiz_question": "EVM đo lường sự thực hiện dự án thông qua việc tích hợp dữ liệu của những yếu tố nào sau đây?",
+            "options": [
+                "Phạm vi, thời gian và chất lượng dự án",
+                "Phạm vi, thời gian và chi phí dự án",
+                "Phạm vi, chất lượng và rủi ro dự án",
+                "Thời gian, chi phí và rủi ro dự án"
+            ]
+        },
+        {
+            "quiz_question": "Để sử dụng EVM hiệu quả, người quản lý cần xác định cách nào sau đây?",
+            "options": [
+                "Số lượng nhân viên tham gia dự án",
+                "Mốc chi phí (Cost Baseline) và thông tin chính xác định kỳ",
+                "Độ phức tạp của công việc",
+                "Số lượng công cụ và kỹ thuật được sử dụng trong dự án"
+            ]
+        },
+        {
+            "quiz_question": "EVM được sử dụng để báo cáo tiến độ dự án và hiện trạng ngân sách đã sử dụng như thế nào?",
+            "options": [
+                "Báo cáo thực tế so với dự kiến",
+                "Dự đoán kết quả cuối cùng của dự án",
+                "Xác định nguyên nhân gây ra rủi ro cho dự án",
+                "Đưa ra các biện pháp cải thiện cho dự án"
+            ]
+        },
+        {
+            "quiz_question": "EVM giúp người quản lý dự án dự đoán điều gì trong tương lai?",
+            "options": [
+                "Số lượng nhân viên cần tuyển dụng thêm",
+                "Thời gian hoàn thành dự án",
+                "Chi phí thực sự cần để hoàn thành công việc",
+                "Số lượng rủi ro tiềm năng cho dự án"
+            ]
+        },
+        {
+            "quiz_question": "Budget at Completion (BAC) là gì trong EVM?",
+            "options": [
+                "Tổng chi phí công việc được lên lịch",
+                "Tổng chi phí của công việc đã hoàn thành",
+                "Tổng kinh phí được phân bố cho dự án",
+                "Chi phí thực tế của công việc đã thực hiện"
+            ]
+        },
+        {
+            "quiz_question": "Earned Value (EV) trong EVM đo lường điều gì?",
+            "options": [
+                "Tổng chi phí công việc được lên lịch",
+                "Tổng chi phí của công việc đã hoàn thành",
+                "Tổng kinh phí được phân bố cho dự án",
+                "Chi phí thực tế của công việc đã thực hiện"
+            ]
+        },
+        {
+            "quiz_question": "Cost Variance (CV) là chỉ số nào trong EVM?",
+            "options": [
+                "Đo lường hiệu quả hoạt động của dự án",
+                "Chỉ số hiệu suất chi phí",
+                "Phương sai lịch",
+                "Chỉ số hiệu suất chi phí để hoàn thành"
+            ]
+        },
+        {
+            "quiz_question": "Schedule Performance Index (SPI) thể hiện điều gì trong EVM?",
+            "options": [
+                "Hiệu quả sử dụng các nguồn lực của dự án",
+                "Hiệu quả sử dụng thời gian của dự án",
+                "Dự án đang thực hiện trước hay sau tiến độ lập lịch",
+                "Tổng ngân sách khi kết thúc dự án"
+            ]
+        },
+        {
+            "quiz_question": "Estimate to completion (ETC) đo lường điều gì trong EVM?",
+            "options": [
+                "Ước tính chi phí của dự án khi kết thúc",
+                "Ước tính chi phí để hoàn thành phần còn lại của dự án",
+                "Phương sai trên tổng ngân sách khi kết thúc dự án",
+                "Chỉ số cho thấy hiệu quả mà thời gian còn lại của dự án sẽ được sử dụng"
+            ]
+        },
+        {
+            "quiz_question": "Cost Performance Index (CPI) lớn hơn 1 thể hiện điều gì trong EVM?",
+            "options": [
+                "Sử dụng thời gian hiệu quả",
+                "Sử dụng thời gian kém hiệu quả",
+                "Hiệu quả sử dụng các nguồn lực của dự án",
+                "Hiệu quả sử dụng các nguồn lực được phân bổ dự án tốt"
+            ]
+        },
+        {
+            "quiz_question": "Actual Cost (AC) là gì trong EVM?",
+            "options": [
+                "Tổng chi phí công việc được lên lịch",
+                "Tổng chi phí của công việc đã hoàn thành",
+                "Tổng kinh phí được phân bố cho dự án",
+                "Chi phí thực tế của công việc đã thực hiện"
+            ]
+        },
+        {
+            "quiz_question": "Variance at completion (VAC) đo lường điều gì trong EVM?",
+            "options": [
+                "Tổng chi phí công việc được lên lịch",
+                "Tổng chi phí của công việc đã hoàn thành",
+                "Phương sai trên tổng ngân sách khi kết thúc dự án",
+                "Chỉ số cho thấy hiệu quả mà thời gian còn lại của dự án sẽ được sử dụng"
+            ]
+        },
+        {
+            "quiz_question": "Estimate at completion (EAC) là chỉ số nào trong EVM?",
+            "options": [
+                "Phương sai chi phí",
+                "Chỉ số hiệu suất chi phí",
+                "Ước tính chi phí của dự án khi kết thúc",
+                "Phương sai lịch"
+            ]
+        },
+        {
+            "quiz_question": "To-Complete Performance Index (TCPI) thể hiện điều gì trong EVM?",
+            "options": [
+                "Sử dụng thời gian hiệu quả",
+                "Sử dụng thời gian kém hiệu quả",
+                "Hiệu quả sử dụng các nguồn lực của dự án",
+                "Hiệu quả sử dụng các nguồn lực được phân bổ dự án tốt"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào là quy trình thứ hai trong quản lý rủi ro?",
+            "options": [
+                "Xác định rủi ro",
+                "Phân tích rủi ro",
+                "Lập kế hoạch rủi ro",
+                "Kiểm soát rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Rủi ro trong dự án CNTT thường được xem như thế nào?",
+            "options": [
+                "Rủi ro thấp",
+                "Rủi ro trung bình",
+                "Rủi ro cao",
+                "Rủi ro không quan trọng"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích của quản lý rủi ro là gì?",
+            "options": [
+                "Đảm bảo sự thành công",
+                "Tăng khả năng thất bại",
+                "Giảm thiểu khả năng rủi ro",
+                "Tăng cơ hội thất bại"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào trong quản lý rủi ro không đảm bảo sự thành công mà chỉ tăng khả năng thành công của dự án?",
+            "options": [
+                "Xác định rủi ro",
+                "Phân tích rủi ro",
+                "Lập kế hoạch rủi ro",
+                "Kiểm soát rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý rủi ro bao gồm bao nhiêu giai đoạn?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ nào được sử dụng để nhận diện rủi ro trong quy trình quản lý rủi ro?",
+            "options": [
+                "Phân tích chi phí",
+                "Phát huy trí tuệ dân chủ",
+                "Lập kế hoạch thực hiện",
+                "Tổ chức hội nghị"
+            ]
+        },
+        {
+            "quiz_question": "Đối với dự án CNTT, các rủi ro phổ biến bao gồm những yếu tố nào sau đây?",
+            "options": [
+                "Thiếu sự liên kết với khách hàng, thiếu sự hỗ trợ của quản lý",
+                "Thiếu sự đầu tư tài chính",
+                "Không có kế hoạch nghèo nàn",
+                "Thiếu sự hỗ trợ từ bên thứ 3"
+            ]
+        },
+        {
+            "quiz_question": "Mức rủi ro trong dự án CNTT thường được xem như thế nào?",
+            "options": [
+                "Thấp",
+                "Trung bình",
+                "Cao",
+                "Không đủ thông tin để kết luận"
+            ]
+        },
+        {
+            "quiz_question": "Dự án CNTT có những rủi ro phổ biến nào sau đây?",
+            "options": [
+                "Thiếu sự liên kết với khách hàng",
+                "Môi trường làm việc không thích hợp",
+                "Tất cả đều đúng",
+                "Ít sự hỗ trợ từ quản lý"
+            ]
+        },
+        {
+            "quiz_question": "Kỹ thuật nào được sử dụng để nhận diện rủi ro bằng cách phát huy trí tuệ dân chủ?",
+            "options": [
+                "Kỹ thuật Delphi",
+                "Phỏng vấn từ những kinh nghiệm",
+                "Brainstorming",
+                "Kỹ thuật ngẫu nhiên"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào trong quản lý rủi ro là quá trình xác định rủi ro?",
+            "options": [
+                "Phân tích rủi ro",
+                "Lập kế hoạch rủi ro",
+                "Kiểm soát rủi ro",
+                "Xác định rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Phân tích rủi ro - định tính đánh giá xác suất xuất hiện và mức độ tác động bằng cách nào?",
+            "options": [
+                "Sắp xếp thứ tự ưu tiên",
+                "Loại bỏ rủi ro không đáng kể",
+                "Phân tích tích chất rủi ro",
+                "Sử dụng kỹ thuật mô hình hóa"
+            ]
+        },
+        {
+            "quiz_question": "Phân tích rủi ro - định lượng thường được sử dụng cho loại dự án nào?",
+            "options": [
+                "Dự án phức tạp",
+                "Dự án sử dụng công nghệ tiên tiến",
+                "Dự án quy mô lớn",
+                "Tất cả các lựa chọn"
+            ]
+        },
+        {
+            "quiz_question": "Kỹ thuật nào dùng cây quyết định và EMV trong phân tích rủi ro?",
+            "options": [
+                "Mô phỏng rủi ro",
+                "Kỹ thuật tham khảo ý kiến chuyên gia",
+                "Phân tích và mô hình hóa",
+                "Tất cả các lựa chọn"
+            ]
+        },
+        {
+            "quiz_question": "Cây quyết định là phương pháp giúp lựa chọn hành động tốt nhất trong trường hợp nào?",
+            "options": [
+                "Kết quả chắc chắn trong tương lai",
+                "Kết quả không chắc chắn trong tương lai",
+                "Kết quả không quan trọng",
+                "Tất cả các trường hợp"
+            ]
+        },
+        {
+            "quiz_question": "Chiến lược đối phó rủi ro nào là chấp nhận kết quả nếu rủi ro xảy ra?",
+            "options": [
+                "Tránh xa rủi ro: lựa chọn một phương án khác",
+                "Chấp nhận rủi ro: chấp nhận kết quả nếu rủi ro xảy ra",
+                "Chuyển rủi ro đi nơi khác",
+                "Làm giảm nguyên nhân gây rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Để giảm rủi ro về nhân sự như nghỉ việc, giải pháp nào được đề xuất?",
+            "options": [
+                "Làm việc theo nhóm",
+                "Đào tạo bổ sung",
+                "Nghỉ việc",
+                "Tìm chuyên gia trợ giúp"
+            ]
+        },
+        {
+            "quiz_question": "Trong trường hợp rủi ro từ nhà cung cấp, hành động nào được khuyến khích?",
+            "options": [
+                "Chọn nhà cung cấp thích hợp",
+                "Kiểm soát chặt chẽ thực hiện hợp đồng",
+                "Chất lượng không đảm bảo",
+                "Thuê công ty chuyên dụng"
+            ]
+        },
+        {
+            "quiz_question": "Để đối phó với rủi ro yêu cầu thiếu, sai chức năng, giải pháp nào được đề xuất?",
+            "options": [
+                "Phân tích kỹ tổ chức/mô hình nghiệp vụ của khách",
+                "Làm bản mẫu",
+                "Áp dụng thiết kế hướng đối tượng, mẫu",
+                "Phát triển mô hình soắn ốc"
+            ]
+        },
+        {
+            "quiz_question": "Rủi ro hỏng thiết bị, mất dữ liệu có thể được giảm bớt thông qua việc nào?",
+            "options": [
+                "Lựa chọn một phương án khác",
+                "Lập dự phòng",
+                "Tìm chuyên gia trợ giúp",
+                "Chấp nhận kết quả nếu rủi ro xảy ra"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình quản lý rủi ro nào đến sau cùng trong chuỗi quy trình?",
+            "options": [
+                "Xác định rủi ro",
+                "Phân tích rủi ro",
+                "Lập kế hoạch rủi ro",
+                "Kiểm soát rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Kiểm soát rủi ro giúp thu nhận thông tin, đánh giá khả năng thực tế xảy ra của rủi ro cũ, mới và đánh giá lại mức tác động. Đây là một bước quan trọng trong quá trình quản lý dự án để?",
+            "options": [
+                "Chuẩn bị kế hoạch đáp ứng rủi ro mới",
+                "Loại bỏ tất cả các rủi ro đã qua",
+                "Không cần thảo luận về các rủi ro chính",
+                "Bỏ qua việc kiểm tra dữ liệu quản lý hiện có"
+            ]
+        },
+        {
+            "quiz_question": "Khi kiểm soát rủi ro, việc lặp lại các hoạt động của tiến trình ở mỗi mốc lớn hoặc từ 6 đến 9 tuần là để?",
+            "options": [
+                "Tăng thêm rủi ro cho dự án",
+                "Đánh giá lại mức tác động của rủi ro",
+                "Chuẩn bị kế hoạch đáp ứng rủi ro mới",
+                "Đảm bảo rằng rủi ro được kiểm soát khi xảy ra"
+            ]
+        },
+        {
+            "quiz_question": "Trong quá trình kiểm soát rủi ro, nếu cần thiết, công bố dự án bị kéo dài về thời gian hoặc thêm chi phí và báo cáo rõ nguyên nhân của vấn đề. Điều này giúp?",
+            "options": [
+                "Giảm bớt áp lực cho nhóm dự án",
+                "Ngăn chặn mọi rủi ro có thể xảy ra",
+                "Tăng tính minh bạch và trách nhiệm trong quản lý dự án",
+                "Loại bỏ mọi rủi ro đã qua"
+            ]
+        },
+        {
+            "quiz_question": "Trong quá trình kiểm soát rủi ro, việc loại bỏ rủi ro đã qua hay có độ ưu tiên thấp giúp?",
+            "options": [
+                "Tăng thêm rủi ro cho dự án",
+                "Giảm bớt áp lực cho nhóm dự án",
+                "Tăng tính minh bạch và trách nhiệm trong quản lý dự án",
+                "Đảm bảo rằng rủi ro không bao giờ xảy ra"
+            ]
+        },
+        {
+            "quiz_question": "Trong quá trình kiểm soát rủi ro, việc thảo luận các rủi ro chính, quan trọng để đi đến áp dụng giải pháp nếu cần thiết giúp?",
+            "options": [
+                "Tăng thêm rủi ro cho dự án",
+                "Loại bỏ mọi rủi ro đã qua",
+                "Đánh giá lại mức tác động của rủi ro",
+                "Xác định rõ nguyên nhân của vấn đề"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý chất lượng gồm bao nhiêu quy trình?",
+            "options": [
+                "1 quy trình",
+                "2 quy trình",
+                "3 quy trình",
+                "4 quy trình"
+            ]
+        },
+        {
+            "quiz_question": "Chất lượng của một sản phẩm được định nghĩa như thế nào theo ISO?",
+            "options": [
+                "Tất cả các đặc tính của sản phẩm",
+                "Mức độ đáp ứng của sản phẩm",
+                "Sự phù hợp khi sử dụng của sản phẩm",
+                "Cả 3 đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Để thỏa mãn mọi yêu cầu đã đề ra, quản lý chất lượng cần phải thực hiện quy trình nào?",
+            "options": [
+                "Lập kế hoạch quản lý chất lượng",
+                "Thực hiện đảm bảo chất lượng",
+                "Kiểm soát chất lượng",
+                "Cả 3 quy trình trên"
+            ]
+        },
+        {
+            "quiz_question": "Ai là người cuối cùng đánh giá chất lượng của sản phẩm?",
+            "options": [
+                "Nhà sản xuất",
+                "Nhà phân phối",
+                "Khách hàng",
+                "Nhà quản lý dự án"
+            ]
+        },
+        {
+            "quiz_question": "Vấn đề chất lượng nhiều khi bị bỏ qua do tập trung vào yếu tố nào?",
+            "options": [
+                "Kỹ thuật",
+                "Phạm vi dự án",
+                "Thời gian thực hiện",
+                "Chi phí"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý phạm vi dự án giúp xác định điều gì?",
+            "options": [
+                "Yêu cầu của dự án",
+                "Ranh giới của dự án",
+                "Sự rõ ràng và phù hợp với kỳ vọng",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Quản lý chất lượng đảm bảo gì đối với các đầu ra của dự án?",
+            "options": [
+                "Đáp ứng các tiêu chuẩn đã được xác định",
+                "Đảm bảo thành công của dự án",
+                "Cả 2 đều đúng",
+                "Không đảm bảo gì cả"
+            ]
+        },
+        {
+            "quiz_question": "Mối quan hệ giữa chất lượng và phạm vi dự án là gì?",
+            "options": [
+                "Rất quan trọng",
+                "Không quan trọng",
+                "Không có mối quan hệ",
+                "Độc lập với nhau"
+            ]
+        },
+        {
+            "quiz_question": "Nếu thiếu quản lý chất lượng, kết quả của dự án sẽ ra sao?",
+            "options": [
+                "Hài lòng",
+                "Không hài lòng",
+                "Không rõ ràng",
+                "Không ảnh hưởng gì cả"
+            ]
+        },
+        {
+            "quiz_question": "Theo bạn, quản lý chất lượng quan trọng không kém gì so với quản lý phạm vi dự án?",
+            "options": [
+                "Quan trọng hơn",
+                "Quan trọng như nhau",
+                "Không quan trọng",
+                "Không chắc chắn"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào trong quản lý chất lượng xác định yêu cầu chất lượng và tiêu chuẩn chất lượng của dự án?",
+            "options": [
+                "Lập kế hoạch quản lý chất lượng",
+                "Thực hiện đảm bảo chất lượng",
+                "Kiểm soát chất lượng",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào trong quản lý chất lượng làm việc với tài liệu về việc dự án sẽ thực hiện như thế nào để đạt yêu cầu chất lượng?",
+            "options": [
+                "Lập kế hoạch quản lý chất lượng",
+                "Thực hiện đảm bảo chất lượng",
+                "Kiểm soát chất lượng",
+                "Tất cả đều sai"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình lập kế hoạch quản lý chất lượng cung cấp lợi ích gì cho dự án?",
+            "options": [
+                "Cung cấp hướng dẫn và định hướng cho việc quản lý chất lượng",
+                "Xác định yêu cầu chất lượng của dự án",
+                "Tạo ra tiêu chuẩn chất lượng cho sản phẩm bàn giao",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Trong dự án CNTT, việc kết hợp tất cả các tiêu chuẩn chất lượng trong thiết kế dự án làm gì?",
+            "options": [
+                "Đảm bảo hệ thống mở rộng và nâng cấp",
+                "Đặt ra thời lượng thích hợp nhất để hệ thống xử lý dữ liệu",
+                "Bảo đảm hệ thống cho kết quả chính xác và nhất quán",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào trong quản lý chất lượng cho phép hệ thống CNTT mở rộng và nâng cấp?",
+            "options": [
+                "Lập kế hoạch quản lý chất lượng",
+                "Thực hiện đảm bảo chất lượng",
+                "Kiểm soát chất lượng",
+                "Không có thông tin để trả lời câu hỏi này"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích của việc thực hiện đảm bảo chất lượng trong dự án là gì?",
+            "options": [
+                "Tối ưu hóa nguồn lực",
+                "Đảm bảo dự án thỏa mãn tiêu chuẩn chất lượng",
+                "Tăng cường quản lý rủi ro",
+                "Đảm bảo dự án hoàn thành đúng tiến độ"
+            ]
+        },
+        {
+            "quiz_question": "Lợi ích của việc thực hiện quản lý chất lượng trong dự án là gì?",
+            "options": [
+                "Cải tiến việc thực hiện dự án ở hiện tại và trong tương lai",
+                "Tăng cường quản lý rủi ro",
+                "Tối ưu hóa nguồn lực",
+                "Đảm bảo dự án hoàn thành đúng tiến độ"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào không thuộc vào quản lý chất lượng của dự án?",
+            "options": [
+                "Lập kế hoạch quản lý chất lượng",
+                "Thực hiện đảm bảo chất lượng",
+                "Kiểm soát chất lượng",
+                "Quản lý rủi ro"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của việc quản lý chất lượng trong dự án là gì?",
+            "options": [
+                "Tạo ra sản phẩm hoàn chỉnh",
+                "Tiết kiệm chi phí",
+                "Cải tiến quá trình thực hiện dự án",
+                "Đạt được lợi nhuận cao"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào trong quản lý chất lượng bao gồm việc đảm bảo dự án thỏa mãn tiêu chuẩn chất lượng?",
+            "options": [
+                "Lập kế hoạch quản lý chất lượng",
+                "Thực hiện đảm bảo chất lượng",
+                "Kiểm soát chất lượng",
+                "Cả ba quy trình"
+            ]
+        },
+        {
+            "quiz_question": "Quy trình nào trong quản lý chất lượng giám sát và kiểm tra các kết quả cụ thể của dự án?",
+            "options": [
+                "Lập kế hoạch quản lý chất lượng",
+                "Thực hiện đảm bảo chất lượng",
+                "Kiểm soát chất lượng",
+                "Không có quy trình nào như vậy"
+            ]
+        },
+        {
+            "quiz_question": "Lợi ích của quy trình kiểm soát chất lượng là gì?",
+            "options": [
+                "Xác định nguyên nhân của các quy trình kém hay sản phẩm kém chất lượng",
+                "Công nhận các sản phẩm bàn giao và các công việc đã đạt yêu cầu của các bên liên quan",
+                "Đề xuất cách để cải thiện chất lượng",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Kết quả thu được từ quy trình kiểm soát chất lượng có thể bao gồm những điều gì?",
+            "options": [
+                "Các quyết định chấp nhận",
+                "Làm lại",
+                "Sửa đổi quy trình",
+                "Tất cả đều đúng"
+            ]
+        },
+        {
+            "quiz_question": "Mục tiêu chính của quy trình kiểm soát chất lượng là gì?",
+            "options": [
+                "Đánh giá dự án có tuân thủ các quy định chất lượng hay không",
+                "Xác định nguyên nhân của các quy trình kém hay sản phẩm kém chất lượng",
+                "Công nhận các sản phẩm bàn giao đã đạt yêu cầu của các bên liên quan",
+                "Đề xuất cách để cải thiện chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Kết quả thu được từ quá trình kiểm soát chất lượng bao gồm những gì?",
+            "options": [
+                "Quyết định chấp nhận, làm lại, sửa đổi quy trình",
+                "Chấp nhận sản phẩm, làm lại công việc, sửa đổi sản phẩm",
+                "Quyết định chấp nhận, sửa đổi sản phẩm, xác định nguyên nhân kém chất lượng",
+                "Chấp nhận sản phẩm, sửa đổi quy trình, xác định nguyên nhân kém chất lượng"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ nguyên nhân kết quả có dạng nào?",
+            "options": [
+                "6M1E",
+                "5M1E",
+                "4M2E",
+                "7M"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ quản lý chất lượng nào giúp xác định nguyên nhân và lý do để giải quyết các khó khăn?",
+            "options": [
+                "Biểu đồ kiểm soát",
+                "Phiếu kiểm soát",
+                "Biểu đồ Pareto",
+                "Biểu đồ nguyên nhân kết quả"
+            ]
+        },
+        {
+            "quiz_question": "5P trong quản lý chất lượng bao gồm các yếu tố nào?",
+            "options": [
+                "Product, Process, Price, People, Place",
+                "People, Place, Price, Product, Process",
+                "Price, People, Process, Product, Place",
+                "Process, Product, People, Place, Price"
+            ]
+        },
+        {
+            "quiz_question": "Kỹ thuật quản lý chất lượng nào sử dụng biểu đồ tần suất?",
+            "options": [
+                "Biểu đồ nguyên nhân kết quả",
+                "Phiếu kiểm soát",
+                "Biểu đồ tần suất",
+                "Biểu đồ Pareto"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của việc áp dụng 5P trong quản lý chất lượng là gì?",
+            "options": [
+                "Xác định nguyên nhân",
+                "Tìm hiểu lý do",
+                "Giải quyết khó khăn",
+                "Nhu cầu nhận diện các lĩnh vực IT"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ kiểm soát dùng để biểu diễn giá trị trung bình của đặc tính nào?",
+            "options": [
+                "Đặc tính kiểm soát",
+                "Tỷ lệ khuyết tật",
+                "Số khuyết tật",
+                "Độ rộng"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ kiểm soát nào được sử dụng để giám sát độ biến thiên trong quá trình sản xuất?",
+            "options": [
+                "Biểu đồ trung bình",
+                "Biểu đồ độ rộng",
+                "Biểu đồ độ lệch chuẩn",
+                "Biểu đồ Pareto"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ nào là một trong 7 công cụ cơ bản trong quản lý chất lượng?",
+            "options": [
+                "Biểu đồ tần suất",
+                "Biểu đồ flowchart",
+                "Biểu đồ kiểm soát",
+                "Biểu đồ phân tán"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của biểu đồ Pareto là gì?",
+            "options": [
+                "Đánh giá những tác nhân ảnh hưởng đến nỗ lực cải tiến",
+                "Dự tính trung bình trong quá trình sản xuất",
+                "Giám sát độ biến thiên của đặc tính kiểm soát",
+                "Biểu diễn số lượng các khuyết tật"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ nào được sử dụng để biểu diễn mức độ phân tán trong biểu đồ histogram?",
+            "options": [
+                "Biểu đồ trung bình",
+                "Biểu đồ độ rộng",
+                "Biểu đồ độ lệch chuẩn",
+                "Biểu đồ Pareto"
+            ]
+        },
+        {
+            "quiz_question": "Phiếu kiểm soát (checksheet) được sử dụng để làm gì?",
+            "options": [
+                "Thu thập dữ liệu và phân tích thống kê",
+                "Ghi nhận lại dữ liệu và phân loại các hạng mục khác nhau",
+                "Kiểm tra và xác nhận công việc",
+                "Tất cả các lựa chọn trên"
+            ]
+        },
+        {
+            "quiz_question": "Phiếu kiểm soát được thiết kế và tuỳ chỉnh bởi ai?",
+            "options": [
+                "Người dùng",
+                "Nhà sản xuất",
+                "Chính phủ",
+                "Tất cả các lựa chọn trên"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của việc sử dụng phiếu kiểm soát là gì?",
+            "options": [
+                "Lưu hồ sơ và dữ liệu",
+                "Phân tích thống kê",
+                "Phòng ngừa xảy ra sự cố hay sai sót",
+                "Thu thập dữ liệu và phân loại các hạng mục khác nhau"
+            ]
+        },
+        {
+            "quiz_question": "Phiếu kiểm soát giúp thu thập dữ liệu về điều gì?",
+            "options": [
+                "Số lượng hoặc tần suất xuất hiện các vấn đề liên quan",
+                "Kích thước của sản phẩm",
+                "Màu sắc của sản phẩm",
+                "Tất cả các lựa chọn trên"
+            ]
+        },
+        {
+            "quiz_question": "Phiếu kiểm soát có thể sử dụng như một phiếu ghi chép để làm gì?",
+            "options": [
+                "Ghi nhận lại dữ liệu",
+                "Phân tích thống kê",
+                "Kiểm tra công việc",
+                "Tất cả các lựa chọn trên"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ phân tán được sử dụng để làm gì?",
+            "options": [
+                "Xác định mối liên hệ giữa ba biến số",
+                "Hiển thị giá trị trung bình của dữ liệu",
+                "Xác nhận mối quan hệ giữa hai biến số",
+                "Đánh giá hiệu suất cải tiến"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ kiểm soát không bao gồm loại nào sau đây?",
+            "options": [
+                "Biểu đồ trung bình (X-bar chart)",
+                "Biểu đồ độ rộng (R chart)",
+                "Biểu đồ độ lệch chuẩn (S chart)",
+                "Biểu đồ tần suất (frequency chart)"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của biểu đồ kiểm soát là gì?",
+            "options": [
+                "Dự báo biến động của dữ liệu",
+                "Đánh giá những tác nhân ảnh hưởng đến cải tiến",
+                "Hiểu nguyên nhân của hiệu suất kém",
+                "Xác định mối liên hệ giữa biến số"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ kiểm soát R chart dùng để giám sát và đánh giá điều gì?",
+            "options": [
+                "Độ biến thiên",
+                "Trung bình",
+                "Độ lệch chuẩn",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ kiểm soát S chart không dùng để đánh giá điều gì?",
+            "options": [
+                "Độ biến thiên",
+                "Trung bình",
+                "Độ lệch chuẩn",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ tần suất (histogram) thể hiện điều gì?",
+            "options": [
+                "Tần suất dạng cột",
+                "Tần suất dạng đường",
+                "Tần suất dạng pie chart",
+                "Tần suất dạng scatter plot"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của biểu đồ tần suất là gì?",
+            "options": [
+                "Để phân bổ vùng dữ liệu",
+                "Để thể hiện mối quan hệ giữa các dữ liệu",
+                "Để biểu thị hình dạng phân bố giá trị",
+                "Để thể hiện giá trị thường xuyên xuất hiện nhiều nhất"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ tần suất cho biết những vấn đề nào?",
+            "options": [
+                "Giá trị thường xuyên xuất hiện nhiều nhất",
+                "Mức độ xuất hiện của mỗi giá trị",
+                "Hình dạng của phân bổ giá trị",
+                "Tất cả các câu trên"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ tần suất là dạng biểu đồ thể hiện tần suất dưới dạng nào?",
+            "options": [
+                "Cột",
+                "Đường",
+                "Pie chart",
+                "Scatter plot"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của biểu đồ tần suất là gì?",
+            "options": [
+                "Để phân bổ vùng dữ liệu",
+                "Để thể hiện mối quan hệ giữa các dữ liệu",
+                "Để biểu thị hình dạng phân bố giá trị",
+                "Để thể hiện giá trị thường xuyên xuất hiện nhiều nhất"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ Pareto là loại biểu đồ nào?",
+            "options": [
+                "Biểu đồ hình tròn",
+                "Biểu đồ cột",
+                "Biểu đồ đường",
+                "Biểu đồ tròn"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của việc sử dụng biểu đồ Pareto là gì?",
+            "options": [
+                "Phân loại yếu tố và vấn đề cần giải quyết trước",
+                "Đánh giá và nâng cao hiệu suất công việc",
+                "Tối ưu hoá quá trình gia tăng năng suất",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ Pareto phản ánh dữ liệu từ thấp đến cao hay từ cao đến thấp?",
+            "options": [
+                "Từ thấp đến cao",
+                "Từ cao đến thấp",
+                "Không theo thứ tự nào",
+                "Tùy vào ngữ cảnh sử dụng"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ Pareto giúp trong việc quản trị rủi ro hiệu quả như thế nào?",
+            "options": [
+                "Đảm bảo đề xuất giải pháp đúng đắn",
+                "Xác định hướng phát triển bền vững",
+                "Phân loại yếu tố và vấn đề cần giải quyết trước",
+                "Tối ưu hoá quá trình gia tăng năng suất"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ Pareto giúp hỗ trợ việc gì trong công việc?",
+            "options": [
+                "Phân tích kết quả",
+                "Đánh giá hiệu suất",
+                "Phân loại yếu tố cần giải quyết trước",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ flowchart được gọi là gì trong tiếng Việt?",
+            "options": [
+                "Biểu đồ dòng chảy quy trình",
+                "Biểu đồ nguyên nhân kết quả",
+                "Biểu đồ Pareto",
+                "Biểu đồ tần suất"
+            ]
+        },
+        {
+            "quiz_question": "Mục đích chính của biểu đồ flowchart là gì?",
+            "options": [
+                "Theo dõi quy trình",
+                "Phân tích nguyên nhân kết quả",
+                "Tạo biểu đồ phân tán",
+                "Tạo biểu đồ Pareto"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ flowchart có mấy công cụ cơ bản trong Seven Basic Tools?",
+            "options": [
+                "5 công cụ",
+                "6 công cụ",
+                "7 công cụ",
+                "8 công cụ"
+            ]
+        },
+        {
+            "quiz_question": "Trong Seven Basic Tools, công cụ nào được sử dụng để mô tả cấu trúc quy trình?",
+            "options": [
+                "Biểu đồ nguyên nhân kết quả",
+                "Biểu đồ kiểm soát",
+                "Biểu đồ flowchart",
+                "Biểu đồ tần suất"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ flowchart giúp điều gì trong quản lý chất lượng?",
+            "options": [
+                "Theo dõi quy trình",
+                "Phân tích nguyên nhân kết quả",
+                "Tạo biểu đồ phân tán",
+                "Tạo biểu đồ Pareto"
+            ]
+        },
+        {
+            "quiz_question": "Six Sigma là phương pháp cải tiến quy trình kinh doanh và quản lý chất lượng bằng cách dựa vào điều gì?",
+            "options": [
+                "Thị giác",
+                "Thống kê",
+                "Trí tuệ nhân tạo",
+                "May mắn"
+            ]
+        },
+        {
+            "quiz_question": "Six Sigma tập trung vào việc thông hiểu nhu cầu của ai?",
+            "options": [
+                "Nhà sản xuất",
+                "Các nhà quản lý",
+                "Nhà đầu tư",
+                "Khách hàng"
+            ]
+        },
+        {
+            "quiz_question": "Hệ thống Six Sigma giúp làm gì trong quá trình kinh doanh?",
+            "options": [
+                "Tăng chi phí sản xuất",
+                "Tăng chi phí quản lý",
+                "Giảm chi phí sản xuất",
+                "Giảm thời gian chu trình"
+            ]
+        },
+        {
+            "quiz_question": "Six Sigma giúp làm tăng sự hài lòng của ai?",
+            "options": [
+                "Nhà sản xuất",
+                "Nhà quản lý",
+                "Nhà đầu tư",
+                "Khách hàng"
+            ]
+        },
+        {
+            "quiz_question": "Six Sigma được phát triển đầu tiên bởi công ty nào vào năm nào?",
+            "options": [
+                "Toyota năm 1970",
+                "Samsung năm 1990",
+                "Motorola năm 1985",
+                "Apple năm 2000"
+            ]
+        },
+        {
+            "quiz_question": "Six Sigma giúp mở rộng sản xuất dễ dàng hơn, đúng hay sai?",
+            "options": [
+                "Đúng",
+                "Sai",
+                "Không đủ thông tin để kết luận",
+                "Tùy ngữ cảnh"
+            ]
+        },
+        {
+            "quiz_question": "Lợi ích của Six Sigma bao gồm những điều gì?",
+            "options": [
+                "Giảm chi phí sản xuất",
+                "Giảm chi phí quản lý",
+                "Gia tăng sự hài lòng của khách hàng",
+                "Tất cả các phương án trên"
+            ]
+        },
+        {
+            "quiz_question": "Biểu đồ nguyên nhân kết quả còn được gọi là gì?",
+            "options": [
+                "Biểu đồ Pareto",
+                "Biểu đồ flowchart",
+                "Biểu đồ xương cá",
+                "Biểu đồ kiểm soát"
+            ]
+        },
+        {
+            "quiz_question": "Mô hình của các điểm trên biểu đồ phân tán sẽ tiết lộ điều gì?",
+            "options": [
+                "Mối tương quan giữa các điểm",
+                "Giá trị trung bình của các điểm",
+                "Phân bố của các điểm",
+                "Mức độ sai lệch của các điểm"
+            ]
+        },
+        {
+            "quiz_question": "Công cụ quản lý chất lượng nào không thuộc Seven Basic Tools?",
+            "options": [
+                "Biểu đồ tần suất (histogram)",
+                "Phiếu kiểm soát (checksheet)",
+                "Biểu đồ dòng chảy (flowchart)",
+                "Biểu đồ chuẩn hóa (standardization chart)"
+            ]
+        }
+    ]
+}

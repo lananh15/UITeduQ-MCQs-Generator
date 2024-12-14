@@ -1,0 +1,207 @@
+body { 
+    font-family: Arial, sans-serif;  
+    background-image: url(https://img.freepik.com/free-psd/futuristic-robot-illustration_23-2150979001.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: hidden;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    top: 0;
+    z-index: 1000;
+}
+.home-link {
+    color: rgb(38, 86, 231);
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+.how-to-use {
+    margin-right: 10px;
+    color: rgb(38, 86, 231);
+    text-decoration: none;
+    font-size: 16px;
+}
+.logo {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    animation: float 3s ease-in-out infinite;
+}
+.logo.paused {
+    animation: none;
+    transform: translateY(0);
+}
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+}
+.content {
+    flex: 1;
+    max-width: 600px; 
+    margin: 20px auto; 
+    padding: 0 20px 20px 20px;   
+    border-radius: 10px;
+}
+h2 {
+    text-align: center;
+    color: rgb(16, 16, 16);
+}
+#chat-container { 
+    max-height: 380px; 
+    overflow-y: auto; 
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    border-radius: 5px;
+    background-color: white;
+}
+#user-input { 
+    width: calc(100% - 85px); 
+    padding: 5px; 
+    margin-bottom: 10px;
+}
+#send-button { 
+    padding: 5px 10px; 
+    cursor: pointer; 
+    background-color: rgb(38, 86, 231); 
+    border: 2px solid transparent; 
+    color: white;
+    border-radius: 5px;
+}
+
+code {
+    padding-left: .25rem;
+    padding-right: .25rem;
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    font-size: 1em;
+    padding: 2px 4px;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    white-space: pre-wrap;
+    font-weight: 600;
+}
+.message { 
+    margin-bottom: 10px; 
+    clear: both;
+}
+.user { 
+    color: white; 
+    background-color: rgb(38, 86, 231); 
+    float: right; 
+    clear: both; 
+    border-radius: 10px; 
+    padding: 8px; 
+    margin-bottom: 10px; 
+    margin-top: 5px; 
+    max-width: 70%; 
+    word-wrap: break-word; 
+}
+.bot { 
+    text-align: left; 
+    color: black; 
+    float: left; 
+    clear: both; 
+    border-radius: 10px; 
+    padding: 8px; 
+    background-color: #f0f0f0; 
+    margin-bottom: 5px; 
+    max-width: 70%; 
+    word-wrap: break-word; 
+}
+.instruction-box {
+    position: fixed;
+    top: 60px;
+    right: 20px;
+    width: 300px;
+    max-width: 90%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    display: none;
+    z-index: 1001;
+    overflow-y: auto;
+    max-height: 80vh;
+}
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 25px;
+    color: #333;
+}
+#mode-selection {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+#mode-selection button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#mode-selection button:hover {
+    background-color: #e0e0e0;
+}
+
+#mode-selection button.active {
+    background-color: #2656e7;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .logo-container {
+        margin-top: 10px;
+    }
+    .instruction-box {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 90%;
+        max-width: 400px;
+    }
+}
+
+@media (max-width: 480px) {
+    .home-link, .how-to-use {
+        font-size: 14px;
+    }
+    .logo {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media (max-height: 500px) {
+    .instruction-box {
+        max-height: 70vh;
+    }
+}

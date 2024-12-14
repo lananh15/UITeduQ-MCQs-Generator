@@ -1,0 +1,2869 @@
+1. Câu hỏi: Theo định nghĩa, quản lý là gì?
+A. Quá trình lập kế hoạch, tổ chức, chỉ huy, lãnh đạo và kiểm tra nguồn lực
+B. Sự tác động của chủ thể lên đối tượng nhằm đạt mục tiêu nhất định
+C. Nghệ thuật đạt mục đích thông qua nỗ lực của người khác
+D. Công tác phối hợp có hiệu quả các hoạt động của cộng sự trong tổ chức
+Đáp án: B
+----------
+2. Câu hỏi: Theo khái niệm định tính, quản lý được hiểu là gì?
+A. Một môn khoa học đòi hỏi sự tổng hợp và vận hành các quy luật
+B. Một nghề đòi hỏi kiến thức và kỹ năng chuyên môn
+C. Nghệ thuật đạt mục đích thông qua nỗ lực của người khác
+D. Công tác phối hợp có hiệu quả các hoạt động của tổ chức
+Đáp án: C
+----------
+3. Câu hỏi: Yếu tố nào là không thể thiếu trong quản lý?
+A. Chủ thể quản lý
+B. Mục tiêu cần đạt được
+C. Đối tượng quản lý
+D. Môi trường quản lý luôn luôn biến động
+Đáp án: C
+----------
+4. Câu hỏi: Theo nội dung, quản lý là một:
+A. Nghề nghiệp
+B. Môn khoa học
+C. Nghệ thuật
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+5. Câu hỏi: Theo nội dung, hiệu quả quản lý phụ thuộc vào yếu tố nào?
+A. Kinh nghiệm, cá tính, cơ may, vận rủi của người quản lý
+B. Cách học, chương trình học, năng khiếu, nghề nghiệp
+C. Thành tựu khoa học, công nghệ, xã hội
+D. Phương pháp dự báo, tâm lý học, tin học
+Đáp án: A
+----------
+6. Câu hỏi: Quản lý khác nhau ở từng lĩnh vực vì:
+A. Các đối tượng quản lý khác nhau
+B. Các mục tiêu cần đạt được khác nhau
+C. Các môi trường quản lý khác nhau
+D. Người quản lý khác nhau
+Đáp án: D
+----------
+7. Câu hỏi: Theo thống kê, tổng số tiền mà cả thế giới đã chi cho các dự án là bao nhiêu?
+A. 2.3 nghìn tỷ USD
+B. 10 nghìn tỷ USD
+C. 40.7 nghìn tỷ USD
+D. 1.6 triệu USD
+Đáp án: B
+----------
+8. Câu hỏi: Có khoảng bao nhiêu người quan tâm đến quản trị dự án trong công việc của họ?
+A. 300,000
+B. 500,000
+C. 1.6 triệu
+D. 13.522
+Đáp án: C
+----------
+9. Câu hỏi: Theo Tom Peters, điều gì là cần thiết để thành công trong thời đại ngày nay?
+A. Thành thạo nghệ thuật quản lý dự án
+B. Đầu tư vào các dự án IT
+C. Giảm thời gian quá hạn của dự án
+D. Tăng mức vượt ngân sách
+Đáp án: A
+----------
+10. Câu hỏi: Năm 2003, Standish Group đã thống kê bao nhiêu dự án IT?
+A. 300,000
+B. 500,000
+C. 1.6 triệu
+D. 13.522
+Đáp án: D
+----------
+11. Câu hỏi: Tỷ lệ dự án IT thành công năm 2003 so với trước đó đã tăng bao nhiêu phần trăm?
+A. 16,2%
+B. 34%
+C. 189%
+D. 222%
+Đáp án: B
+----------
+12. Câu hỏi: Thời gian quá hạn của dự án IT đã giảm bao nhiêu phần trăm từ năm 2000 đến năm 2003?
+A. 59%
+B. 33%
+C. 26%
+D. 10%
+Đáp án: C
+----------
+13. Câu hỏi: Mức vượt ngân sách của dự án IT đã giảm bao nhiêu phần trăm từ năm 2000 đến năm 2003?
+A. 44%
+B. 23%
+C. 6%
+D. 10%
+Đáp án: B
+----------
+14. Câu hỏi: Theo thống kê, số lượng dự án IT đã tăng bao nhiêu phần trăm từ năm 2000 đến năm 2001?
+A. 33%
+B. 66%
+C. 100%
+D. 167%
+Đáp án: B
+----------
+15. Câu hỏi: Theo định nghĩa, dự án nào được coi là thất bại?
+A. Dự án không đạt được mục tiêu, chậm tiến độ và vượt ngân sách ít nhất 10%.
+B. Dự án vượt quá phạm vi hoặc không đáp ứng nhu cầu khách hàng.
+C. Dự án không có đủ nguồn lực hoặc hỗ trợ.
+D. Dự án bị hủy bỏ trước khi hoàn thành.
+Đáp án: A
+----------
+16. Câu hỏi: Yếu tố nào sau đây KHÔNG phải là lý do dẫn đến thất bại của dự án?
+A. Quản lý kém
+B. Quản lý chất lượng kém
+C. Thiếu thông tin trong quá trình thực hiện dự án
+D. Không rõ mục tiêu
+Đáp án: B
+----------
+17. Câu hỏi: Theo nội dung, vấn đề chất lượng nên được xem ngang hàng với những yếu tố nào trong quản lý dự án?
+A. Phạm vi dự án và chi phí
+B. Thời gian thực hiện và chi phí
+C. Phạm vi dự án, thời gian thực hiện và chi phí
+D. Mục tiêu dự án và nguồn lực
+Đáp án: C
+----------
+18. Câu hỏi: Ai là người cuối cùng đánh giá sản phẩm của dự án?
+A. Nhà quản lý dự án
+B. Đội ngũ kỹ thuật
+C. Khách hàng
+D. Ban giám đốc
+Đáp án: C
+----------
+19. Câu hỏi: Một trong những ưu điểm của quản lý dự án là gì?
+A. Giảm thiểu chi phí
+B. Tăng cường tinh thần làm việc
+C. Tối đa hóa lợi nhuận
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+20. Câu hỏi: Quản lý dự án giúp cải thiện khía cạnh nào sau đây?
+A. Quan hệ với khách hàng
+B. Phối hợp nội bộ
+C. Năng suất lao động
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+21. Câu hỏi: Lợi ích nào sau đây KHÔNG phải là ưu điểm của quản lý dự án?
+A. Kiểm soát tốt hơn tài nguyên
+B. Giảm thời gian phát triển
+C. Tăng ngân sách dự án
+D. Chất lượng cao hơn
+Đáp án: C
+----------
+22. Câu hỏi: Theo PMBOK® Guide 2000, dự án là gì?
+A. Một nỗ lực tạm thời được tiến hành để tạo ra một sản phẩm hoặc dịch vụ duy nhất
+B. Một tập hợp các nhiệm vụ không liên quan với nhau
+C. Một chuỗi các hoạt động được thực hiện để đạt được mục tiêu
+D. Một nỗ lực lâu dài không có mục tiêu rõ ràng
+Đáp án: C
+----------
+23. Câu hỏi: Dự án nào được coi là dự án thất bại?
+A. Dự án đạt được mục tiêu nhưng vượt quá ngân sách
+B. Dự án hoàn thành đúng thời hạn nhưng không đạt được mục tiêu
+C. Dự án không đạt được mục tiêu, vượt quá ngân sách và không đáp ứng được thời hạn
+D. Dự án hoàn thành đúng ngân sách và thời hạn nhưng không được khách hàng chấp nhận
+Đáp án: C
+----------
+24. Câu hỏi: Một trong những lý do dẫn đến thất bại của dự án là gì?
+A. Quản lý tốt
+B. Truyền thông hiệu quả
+C. Quản lý kém
+D. Tài nguyên dồi dào
+Đáp án: C
+----------
+25. Câu hỏi: Theo định nghĩa, dự án có đặc điểm nào sau đây?
+A. Tạm thời
+B. Có phạm vi cố định
+C. Có ngân sách không giới hạn
+D. Không có mục tiêu rõ ràng
+Đáp án: A
+----------
+26. Câu hỏi: Dự án là một tập hợp nào trong số các yếu tố sau đây?
+A. Nhiệm vụ, hoạt động
+B. Mục tiêu, ràng buộc
+C. Sản phẩm, dịch vụ
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+27. Câu hỏi: Yếu tố quan trọng nào sau đây không liên quan đến việc thực hiện dự án?
+A. Nguồn nhân lực
+B. Thời gian thực hiện
+C. Kết quả dự kiến
+D. Khí hậu thuận lợi
+Đáp án: D
+----------
+28. Câu hỏi: Kết quả dự kiến của một dự án phải có đặc tính nào sau đây?
+A. Có thể hình dung và mô tả được
+B. Có giá trị sử dụng
+C. Có hiệu quả
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+29. Câu hỏi: Ai được gọi là chủ đầu tư trong dự án?
+A. Người thực hiện dự án
+B. Người cấp vốn cho dự án
+C. Người giám sát dự án
+D. Không có ai trong các lựa chọn trên
+Đáp án: B
+----------
+30. Câu hỏi: Yếu tố nào sau đây không được đề cập đến trong nội dung về kinh phí dự kiến?
+A. Tiền để thực hiện dự án
+B. Ngày cấp vốn
+C. Nguồn cấp vốn
+D. Chủ đầu tư
+Đáp án: B
+----------
+31. Câu hỏi: Mỗi người trong tập thể thực hiện dự án có yếu tố quan trọng nào?
+A. Chuyên môn và năng lực
+B. Thời gian làm việc
+C. Kinh nghiệm thực tế
+D. Động lực làm việc
+Đáp án: A
+----------
+32. Câu hỏi: Thuộc tính nào dưới đây là đặc điểm nổi bật của dự án?
+A. Có tính liên tục
+B. Có tính tạm thời
+C. Không có ràng buộc về thời gian
+D. Có mục đích không rõ ràng
+Đáp án: B
+----------
+33. Câu hỏi: Yếu tố nào sau đây không phải là một ràng buộc của dự án?
+A. Chi phí
+B. Thời gian
+C. Nguồn lực
+D. Mục tiêu
+Đáp án: D
+----------
+34. Câu hỏi: Một trong những đặc điểm của dự án là:
+A. Chỉ cần một lượng nhỏ tài nguyên
+B. Cần sự tham gia của nhiều người và tổ chức
+C. Có khả năng dự đoán hoàn toàn
+D. Không có rủi ro
+Đáp án: B
+----------
+35. Câu hỏi: Thuộc tính nào của dự án cho biết rằng dự án có thời gian thực hiện nhất định?
+A. Có tính tạm thời
+B. Có nhiều rủi ro
+C. Có ràng buộc về nguồn lực
+D. Có mục đích rõ ràng
+Đáp án: A
+----------
+36. Câu hỏi: Yếu tố nào sau đây không phải là một yếu tố đóng góp vào rủi ro trong dự án?
+A. Sự không chắc chắn
+B. Sự phức tạp
+C. Sự thay đổi
+D. Sự kiểm soát
+Đáp án: D
+----------
+37. Câu hỏi: Dự án công nghệ thông tin liên quan đến vấn đề nào?
+A. Phần mềm và con người
+B. Phần cứng và phần mềm
+C. Con người và phần cứng
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+38. Câu hỏi: Các nguyên tắc của dự án công nghệ thông tin là gì?
+A. Tuân thủ các nguyên tắc của dự án nói chung và các nguyên tắc công nghệ thông tin
+B. Chỉ tuân thủ các nguyên tắc của dự án nói chung
+C. Chỉ tuân thủ các nguyên tắc công nghệ thông tin
+D. Không tuân thủ bất kỳ nguyên tắc nào
+Đáp án: A
+----------
+39. Câu hỏi: Dự án công nghệ thông tin đi theo qui trình nào?
+A. Qui trình sản xuất và chế tạo ra sản phẩm công nghệ thông tin
+B. Qui trình sản xuất và chế tạo ra sản phẩm nói chung
+C. Qui trình chế tạo và thử nghiệm sản phẩm công nghệ thông tin
+D. Qui trình thử nghiệm và vận hành sản phẩm công nghệ thông tin
+Đáp án: A
+----------
+40. Câu hỏi: Có bao nhiêu giai đoạn trong một dự án công nghệ thông tin?
+A. 5
+B. 6
+C. 7
+D. 8
+Đáp án: C
+----------
+41. Câu hỏi: Giai đoạn đầu tiên của dự án công nghệ thông tin là gì?
+A. Thiết kế
+B. Xác định
+C. Thực hiện
+D. Vận hành
+Đáp án: B
+----------
+42. Câu hỏi: Giai đoạn kiểm thử nào xác định xem hệ thống có đáp ứng các yêu cầu của người dùng không?
+A. Kiểm thử hệ thống
+B. Kiểm thử chấp nhận
+C. Kiểm thử chức năng
+D. Kiểm thử phần mềm
+Đáp án: B
+----------
+43. Câu hỏi: Giai đoạn cuối cùng của dự án công nghệ thông tin là gì?
+A. Kiểm thử chấp nhận
+B. Thiết kế
+C. Vận hành
+D. Phân tích
+Đáp án: C
+----------
+44. Câu hỏi: Quản lý dự án là gì?
+A. Quá trình áp dụng kiến thức, kỹ năng, công cụ và kỹ thuật vào các hoạt động của dự án
+B. Việc thực hiện dự án theo đúng thời gian và chi phí đã định
+C. Quá trình đảm bảo dự án đáp ứng các yêu cầu của khách hàng
+D. Việc lên kế hoạch và thực hiện một dự án
+Đáp án: A
+----------
+45. Câu hỏi: Mục đích của quản lý dự án là gì?
+A. Hoàn thành dự án trong thời gian quy định, với chi phí không vượt quá 10 – 20% kinh phí dự kiến
+B. Đảm bảo sự hài lòng của khách hàng
+C. Sử dụng nguồn lực hiệu quả
+D. Tất cả các đáp án trên
+Đáp án: D
+----------
+46. Câu hỏi: Bộ ba ràng buộc của quản lý dự án bao gồm những mục tiêu nào?
+A. Phạm vi, thời gian, chi phí
+B. Chất lượng, phạm vi, thời gian
+C. Chi phí, chất lượng, rủi ro
+D. Thời gian, rủi ro, tiến độ
+Đáp án: A
+----------
+47. Câu hỏi: Theo thống kê của Standish Group năm 2003, tỷ lệ dự án IT thành công là bao nhiêu?
+A. 16,2%
+B. 34%
+C. 61%
+D. 67%
+Đáp án: B
+----------
+48. Câu hỏi: Theo Tom Peters, để thành công trong thời đại ngày nay, cần phải thành thạo điều gì?
+A. Quản lý dự án
+B. Nghệ thuật bán hàng
+C. Kỹ năng lãnh đạo
+D. Công nghệ thông tin
+Đáp án: A
+----------
+49. Câu hỏi: Hoạt động nào sau đây là một phần của giai đoạn xác định?
+A. Viết tài liệu đặc tả thiết kế
+B. Xác định vấn đề và mục tiêu
+C. Thiết kế hệ thống ở mức tổng thể
+D. Soạn kế hoạch kiểm thử chấp nhận
+Đáp án: B
+----------
+50. Câu hỏi: Tài liệu kết quả nào được tạo ra trong giai đoạn phân tích?
+A. Đề cương dự án
+B. Đặc tả chức năng
+C. Nghiên cứu khả thi
+D. Kế hoạch ban đầu
+Đáp án: B
+----------
+51. Câu hỏi: Giai đoạn thiết kế tập trung vào việc xác định điều gì?
+A. Các yêu cầu của người dùng
+B. Các chức năng của hệ thống
+C. Giá thành và thời gian thực hiện
+D. Rủi ro của dự án
+Đáp án: B
+----------
+52. Câu hỏi: Hoạt động nào sau đây diễn ra trong cả giai đoạn phân tích và giai đoạn xác định?
+A. Lập kế hoạch ban đầu
+B. Viết đề cương dự án
+C. Xem lại kế hoạch ban đầu
+D. Soạn kế hoạch kiểm thử
+Đáp án: A
+----------
+53. Câu hỏi: Tài liệu kết quả của giai đoạn xác định bao gồm những gì?
+A. Đặc tả chức năng và kế hoạch triển khai
+B. Đề cương dự án, nghiên cứu khả thi và đặc tả thiết kế
+C. Đề cương dự án, nghiên cứu khả thi, danh sách rủi ro và kế hoạch ban đầu
+D. Đặc tả thiết kế, kế hoạch kiểm thử chấp nhận và danh sách rủi ro
+Đáp án: C
+----------
+54. Câu hỏi: Hoạt động chính nào sau đây KHÔNG thuộc giai đoạn phân tích?
+A. Viết tài liệu đặc tả chức năng
+B. Thiết kế hệ thống ở mức tổng thể
+C. Phát triển phần mềm thực tế
+D. Xem lại kế hoạch ban đầu
+Đáp án: C
+----------
+55. Câu hỏi: Tài liệu nào là kết quả của giai đoạn phân tích?
+A. Tài liệu thiết kế chi tiết
+B. Đặc tả chức năng
+C. Kế hoạch thử nghiệm
+D. Tài liệu hướng dẫn người dùng
+Đáp án: B
+----------
+56. Câu hỏi: Giai đoạn phân tích tập trung vào chủ yếu vào việc xác định điều gì?
+A. Yêu cầu chức năng của hệ thống
+B. Thiết kế giao diện người dùng
+C. Công nghệ sẽ được sử dụng
+D. Chi phí phát triển hệ thống
+Đáp án: A
+----------
+57. Câu hỏi: Hoạt động nào sau đây diễn ra sau khi hoàn thành giai đoạn phân tích?
+A. Viết mã nguồn
+B. Thu thập yêu cầu
+C. Thiết kế cơ sở dữ liệu
+D. Thử nghiệm hệ thống
+Đáp án: C
+----------
+58. Câu hỏi: Giai đoạn phân tích có mục đích hình dung hệ thống sẽ thực hiện chức năng như thế nào theo cách nào?
+A. Ở mức chi tiết cao
+B. Ở mức chung chung
+C. Ở mức trừu tượng
+D. Ở mức tùy biến
+Đáp án: B
+----------
+59. Câu hỏi: Giai đoạn thiết kế xác định chính xác điều gì?
+A. Các vật liệu cần thiết
+B. Hệ thống sẽ hoạt động như thế nào
+C. Chi phí dự kiến
+D. Lịch trình triển khai
+Đáp án: B
+----------
+60. Câu hỏi: Tài liệu chính nào được tạo ra trong giai đoạn thiết kế?
+A. Hướng dẫn sử dụng
+B. Kế hoạch bảo trì
+C. Đặc tả thiết kế
+D. Tài liệu đào tạo
+Đáp án: C
+----------
+61. Câu hỏi: Hoạt động nào sau đây là một hoạt động chính của giai đoạn thiết kế?
+A. Lập trình hệ thống
+B. Viết tài liệu đặc tả thiết kế
+C. Thực hiện kiểm thử hệ thống
+D. Cài đặt phần cứng
+Đáp án: B
+----------
+62. Câu hỏi: Kế hoạch kiểm thử chấp nhận là gì?
+A. Kế hoạch xác định cách kiểm tra hệ thống sau khi thiết kế
+B. Kế hoạch xác định các yêu cầu của người dùng
+C. Kế hoạch xác định các thành phần hệ thống
+D. Kế hoạch xác định cách thực hiện hệ thống
+Đáp án: A
+----------
+63. Câu hỏi: Tài liệu kết quả của giai đoạn thiết kế là gì?
+A. Thiết kế phần cứng
+B. Mã nguồn
+C. Đặc tả thiết kế, kế hoạch kiểm thử chấp nhận
+D. Tài liệu phân tích yêu cầu
+Đáp án: C
+----------
+64. Câu hỏi: Giai đoạn thực hiện nhằm triển khai các hoạt động nào?
+A. Thu thập yêu cầu, thiết kế, xây dựng
+B. Xây dựng, ráp nối, kiểm thử
+C. Kiểm thử, triển khai, bảo trì
+D. Bảo trì, nâng cấp, vận hành
+Đáp án: B
+----------
+65. Câu hỏi: Tài liệu kết quả nào được biên soạn trong giai đoạn thực hiện?
+A. Tài liệu thiết kế
+B. Biên bản kiểm thử từng thành phần
+C. Biên bản triển khai
+D. Tài liệu hướng dẫn người dùng
+Đáp án: B
+----------
+66. Câu hỏi: Hoạt động chính nào được thực hiện trong giai đoạn thực hiện?
+A. Triển khai cài đặt
+B. Thiết kế hệ thống
+C. Thu thập yêu cầu
+D. Bảo trì hệ thống
+Đáp án: A
+----------
+67. Câu hỏi: Giai đoạn thực hiện liên quan đến việc xây dựng các thành phần nào?
+A. Phần mềm và phần cứng
+B. Hệ thống và ứng dụng
+C. Cơ sở dữ liệu và giao diện người dùng
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+68. Câu hỏi: Tài liệu nào được biên soạn để hướng dẫn người dùng?
+A. Biên bản kiểm thử từng thành phần
+B. Kế hoạch kiểm thử hệ thống
+C. Tài liệu cho người dùng
+D. Biên bản triển khai hệ thống
+Đáp án: C
+----------
+69. Câu hỏi: Mục đích chính của giai đoạn kiểm thử hệ thống là gì?
+A. Kiểm tra các chức năng trong thiết kế
+B. Tích hợp tất cả phần cứng
+C. Đảm bảo hệ thống làm việc tốt
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+70. Câu hỏi: Tài liệu nào được tạo ra sau khi hoàn thành giai đoạn kiểm thử hệ thống?
+A. Biên bản kết quả kiểm thử hệ thống
+B. Báo cáo kiểm thử chức năng
+C. Kế hoạch kiểm thử tích hợp
+D. Tài liệu yêu cầu hệ thống
+Đáp án: A
+----------
+71. Câu hỏi: Hoạt động nào sau đây KHÔNG phải là một hoạt động chính của giai đoạn kiểm thử hệ thống?
+A. Tích hợp và kiểm thử từng phân hệ
+B. Tích hợp và kiểm thử toàn bộ hệ thống
+C. Phân tích yêu cầu hệ thống
+D. Kiểm tra hiệu suất hệ thống
+Đáp án: C
+----------
+72. Câu hỏi: Sản phẩm cuối cùng sau giai đoạn kiểm thử hệ thống là gì?
+A. Toàn bộ hệ thống đã làm việc tốt
+B. Một danh sách các lỗi đã được phát hiện
+C. Một báo cáo tóm tắt kết quả kiểm thử
+D. Một kế hoạch cho giai đoạn triển khai
+Đáp án: A
+----------
+73. Câu hỏi: Giai đoạn kiểm thử hệ thống được thực hiện sau giai đoạn nào?
+A. Thiết kế hệ thống
+B. Phát triển hệ thống
+C. Kiểm thử tích hợp
+D. Triển khai hệ thống
+Đáp án: C
+----------
+74. Câu hỏi: Mục đích chính của giai đoạn kiểm thử chấp nhận là gì?
+A. Tạo ra sản phẩm phần mềm chất lượng cao
+B. Đạt được sự chấp nhận của người dùng bằng văn bản
+C. Thực hiện các kiểm thử theo kế hoạch
+D. Hiệu chỉnh hệ thống
+Đáp án: B
+----------
+75. Câu hỏi: Hoạt động nào sau đây KHÔNG phải là hoạt động chính trong giai đoạn kiểm thử chấp nhận?
+A. Thực hiện kiểm thử
+B. Demo chức năng hệ thống cho khách hàng
+C. Viết mã
+D. Hiệu chỉnh hệ thống
+Đáp án: C
+----------
+76. Câu hỏi: Tài liệu kết quả nào được tạo ra trong giai đoạn kiểm thử chấp nhận?
+A. Báo cáo kiểm thử
+B. Báo cáo kết quả demo
+C. Biên bản xác nhận của người dùng
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+77. Câu hỏi: Giai đoạn kiểm thử chấp nhận có liên quan đến công việc nào sau đây?
+A. Phát triển phần mềm
+B. Kiểm thử phần mềm
+C. Triển khai phần mềm
+D. Bảo trì phần mềm
+Đáp án: B
+----------
+78. Câu hỏi: Ai là người thường thực hiện các kiểm thử trong giai đoạn kiểm thử chấp nhận?
+A. Đội phát triển
+B. Đội kiểm thử
+C. Người dùng cuối
+D. Tất cả các lựa chọn trên
+Đáp án: C
+----------
+79. Câu hỏi: Giai đoạn nào có mục đích chuyển giao hệ thống cho người dùng?
+A. Giai đoạn thiết kế
+B. Giai đoạn vận hành
+C. Giai đoạn phát triển
+D. Giai đoạn triển khai
+Đáp án: B
+----------
+80. Câu hỏi: Hoạt động nào sau đây KHÔNG phải là hoạt động chính của giai đoạn vận hành?
+A. Cài đặt hệ thống cho khách hàng
+B. Đào tạo người sử dụng
+C. Phát triển hệ thống mới
+D. Bảo hành
+Đáp án: C
+----------
+81. Câu hỏi: Tài liệu nào được tạo ra trong giai đoạn vận hành?
+A. Báo cáo thiết kế hệ thống
+B. Báo cáo kết quả vận hành
+C. Tài liệu yêu cầu
+D. Tài liệu hướng dẫn sử dụng
+Đáp án: B
+----------
+82. Câu hỏi: Mục đích của việc đào tạo người sử dụng trong giai đoạn vận hành là gì?
+A. Giúp người dùng hiểu cách sử dụng hệ thống
+B. Kiểm tra kiến thức của người dùng
+C. Thu thập phản hồi về hệ thống
+D. Cả A và C
+Đáp án: D
+----------
+83. Câu hỏi: Hoạt động nào sau đây là một phần của quá trình rút kinh nghiệm trong giai đoạn vận hành?
+A. Nhận xét về hiệu suất hệ thống
+B. Phát hiện lỗi và đề xuất cải tiến
+C. Đánh giá sự hài lòng của người dùng
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+84. Câu hỏi: Bộ ba ràng buộc của quản lý dự án bao gồm những yếu tố nào?
+A. Phân công nhiệm vụ, ngân sách và tiến độ
+B. Phạm vi, thời gian và chi phí
+C. Chất lượng, rủi ro và lợi ích
+D. Nguồn lực, giao tiếp và lập kế hoạch
+Đáp án: B
+----------
+85. Câu hỏi: Nhiệm vụ chính của người quản lý dự án là gì?
+A. Lập kế hoạch và thực hiện dự án
+B. Cân bằng các mục tiêu thường hay xung đột của dự án
+C. Giám sát tiến độ và báo cáo tình hình
+D. Quản lý rủi ro và giải quyết các vấn đề
+Đáp án: B
+----------
+86. Câu hỏi: Mục tiêu về phạm vi trong quản lý dự án đề cập đến điều gì?
+A. Thời gian dự án phải hoàn thành
+B. Chi phí dự kiến của dự án
+C. Những gì dự án cần đạt được
+D. Các nguồn lực cần thiết cho dự án
+Đáp án: C
+----------
+87. Câu hỏi: Trong bộ ba ràng buộc, mục tiêu nào thường xung đột với nhau nhất?
+A. Phạm vi và thời gian
+B. Thời gian và chi phí
+C. Phạm vi và chi phí
+D. Tất cả các mục tiêu đều luôn xung đột với nhau
+Đáp án: C
+----------
+88. Câu hỏi: Bộ ba ràng buộc trong quản lý dự án được đưa ra bởi ai?
+A. Không đề cập trong nội dung
+B. Viện Quản lý Dự án (PMI)
+C. Hiệp hội Quản lý Dự án Hoa Kỳ (APM)
+D. Viện Kỹ thuật Điện và Điện tử (IEEE)
+Đáp án: A
+----------
+89. Câu hỏi: Chín lĩnh vực kiến thức trong quản lý dự án bao gồm mấy lĩnh vực quản lý cơ bản?
+A. Hai
+B. Bốn
+C. Sáu
+D. Tám
+Đáp án: B
+----------
+90. Câu hỏi: Lĩnh vực nào sau đây KHÔNG phải là lĩnh vực hỗ trợ trong quản lý dự án?
+A. Quản lý nguồn nhân lực
+B. Quản lý thời gian
+C. Quản lý truyền thông
+D. Quản lý rủi ro
+Đáp án: B
+----------
+91. Câu hỏi: Lĩnh vực nào sau đây chịu trách nhiệm kiểm soát và phê duyệt phạm vi của dự án?
+A. Quản lý chất lượng
+B. Quản lý phạm vi
+C. Quản lý chi phí
+D. Quản lý thời gian
+Đáp án: B
+----------
+92. Câu hỏi: Lĩnh vực nào trong quản lý dự án tập trung vào việc lập kế hoạch, ước tính và quản lý ngân sách?
+A. Quản lý nguồn nhân lực
+B. Quản lý chi phí
+C. Quản lý thời gian
+D. Quản lý truyền thông
+Đáp án: B
+----------
+93. Câu hỏi: Lĩnh vực nào là lĩnh vực tích hợp trong quản lý dự án?
+A. Quản lý phạm vi
+B. Quản lý chất lượng
+C. Lĩnh vực tích hợp
+D. Quản lý rủi ro
+Đáp án: C
+----------
+94. Câu hỏi: Lĩnh vực nào sau đây chịu trách nhiệm quản lý các bên liên quan và truyền đạt thông tin dự án?
+A. Quản lý thời gian
+B. Quản lý phạm vi
+C. Quản lý truyền thông
+D. Quản lý mua sắm
+Đáp án: C
+----------
+95. Câu hỏi: Có bao nhiêu lĩnh vực kiến thức cần phát triển trong quản lý dự án?
+A. 7
+B. 9
+C. 11
+D. 13
+Đáp án: B
+----------
+96. Câu hỏi: Lĩnh vực nào trong số sau đây KHÔNG phải là lĩnh vực cơ bản trong quản lý dự án?
+A. Quản lý phạm vi
+B. Quản lý truyền thông
+C. Quản lý thời gian
+D. Quản lý chất lượng
+Đáp án: B
+----------
+97. Câu hỏi: Quản lý phạm vi trong quản lý dự án có vai trò gì?
+A. Đảm bảo hoàn thành công việc trong kinh phí cho phép
+B. Xác định phạm vi công việc và quản lý tất cả các công việc trong dự án
+C. Ước lượng thời gian hoàn thành dự án và lập lịch biểu thích hợp
+D. Đảm bảo chất lượng các sản phẩm giao nộp đáp ứng yêu cầu đề ra
+Đáp án: B
+----------
+98. Câu hỏi: Quản lý thời gian trong quản lý dự án bao gồm những hoạt động nào?
+A. Xác định thời gian hoàn thành công việc và kiểm soát thay đổi lịch trình
+B. Xác định phạm vi công việc và kiểm soát những thay đổi về phạm vi dự án
+C. Ước tính chi phí cho từng loại tài nguyên và hạng mục công việc
+D. Xác định chuẩn mực chất lượng và quản lý thay đổi chất lượng
+Đáp án: A
+----------
+99. Câu hỏi: Quản lý chi phí trong quản lý dự án có vai trò gì?
+A. Đảm bảo chất lượng các sản phẩm giao nộp đáp ứng yêu cầu đề ra
+B. Xác định phạm vi công việc và quản lý tất cả các công việc trong dự án
+C. Hoàn thành công việc trong kinh phí cho phép
+D. Ước lượng thời gian hoàn thành dự án và lập lịch biểu thích hợp
+Đáp án: C
+----------
+100. Câu hỏi: Quản lý rủi ro là một trong những lĩnh vực:
+A. Cơ bản
+B. Hỗ trợ
+C. Tích hợp
+D. Không được đề cập trong nội dung
+Đáp án: B
+----------
+101. Câu hỏi: Tổng số lĩnh vực kiến thức cần phát triển trong quản lý dự án là bao nhiêu?
+A. Ba
+B. Sáu
+C. Chín
+D. Mười hai
+Đáp án: C
+----------
+102. Câu hỏi: Lĩnh vực hỗ trợ nào đảm bảo thông tin được trao đổi kịp thời và chính xác?
+A. Quản lý nguồn nhân lực
+B. Quản lý truyền thông
+C. Quản lý rủi ro
+D. Quản lý mua sắm
+Đáp án: B
+----------
+103. Câu hỏi: Nhiệm vụ nào KHÔNG thuộc về quản lý nguồn nhân lực?
+A. Xác định vị trí và vai trò
+B. Phát triển nguồn nhân lực
+C. Quản lý chi phí
+D. Xây dựng cơ chế báo cáo
+Đáp án: C
+----------
+104. Câu hỏi: Lĩnh vực nào giúp xác định và ước tính rủi ro của dự án?
+A. Quản lý phạm vi
+B. Quản lý thời gian
+C. Quản lý rủi ro
+D. Quản lý chất lượng
+Đáp án: C
+----------
+105. Câu hỏi: Nhiệm vụ nào thuộc về quản lý mua sắm?
+A. Lập kế hoạch mua sắm
+B. Kiểm soát phòng chống rủi ro
+C. Xây dựng cơ chế báo cáo
+D. Phát triển nguồn nhân lực
+Đáp án: A
+----------
+106. Câu hỏi: Bốn lĩnh vực quản lý cơ bản trong quản lý dự án bao gồm những lĩnh vực nào?
+A. Phạm vi, thời gian, chi phí, chất lượng
+B. Nguồn nhân lực, truyền thông, rủi ro, mua sắm
+C. Phạm vi, thời gian, chất lượng, truyền thông
+D. Nguồn nhân lực, thời gian, rủi ro, mua sắm
+Đáp án: A
+----------
+107. Câu hỏi: Chức năng chính của lĩnh vực tích hợp trong quản lý dự án là gì?
+A. Phát triển kế hoạch dự án
+B. Kiểm soát các thay đổi tổng thể
+C. Quản lý các bên liên quan
+D. Cả A và B
+Đáp án: D
+----------
+108. Câu hỏi: Lĩnh vực tích hợp trong quản lý dự án giúp đảm bảo điều gì?
+A. Các thành phần dự án được phối hợp hiệu quả
+B. Dự án hoàn thành đúng hạn
+C. Chi phí dự án được kiểm soát chặt chẽ
+D. Chất lượng dự án đáp ứng yêu cầu
+Đáp án: A
+----------
+109. Câu hỏi: Đâu không phải là nhiệm vụ của lĩnh vực tích hợp?
+A. Xây dựng kế hoạch dự án
+B. Quản lý phạm vi dự án
+C. Kiểm soát thay đổi tổng thể
+D. Hoàn thiện kế hoạch dự án
+Đáp án: B
+----------
+110. Câu hỏi: Mục đích chính của lĩnh vực tích hợp là gì?
+A. Phát triển năng lực của người quản lý dự án
+B. Phối hợp các thành phần khác nhau trong dự án
+C. Kiểm soát chi phí dự án
+D. Quản lý rủi ro dự án
+Đáp án: B
+----------
+111. Câu hỏi: Bốn lĩnh vực quản lý cơ bản trong quản lý dự án là gì?
+A. Quản lý phạm vi, thời gian, chi phí, rủi ro
+B. Quản lý phạm vi, thời gian, chi phí, chất lượng
+C. Quản lý nguồn nhân lực, truyền thông, rủi ro, mua sắm
+D. Quản lý phạm vi, thời gian, chi phí, tích hợp
+Đáp án: B
+----------
+112. Câu hỏi: Lĩnh vực nào đảm bảo sự phối hợp hài hòa giữa các thành phần dự án?
+A. Quản lý phạm vi
+B. Quản lý tích hợp
+C. Quản lý thời gian
+D. Quản lý mua sắm
+Đáp án: B
+----------
+113. Câu hỏi: Kỹ thuật ước lượng thời gian dựa trên ý kiến chuyên gia là gì?
+A. Kỹ thuật PERT
+B. Phương pháp đường găng CPM
+C. Sử dụng ý kiến chuyên gia
+D. Ước lượng dựa vào lịch sử
+Đáp án: C
+----------
+114. Câu hỏi: Công cụ nào được sử dụng để xác định các nhiệm vụ và phân chia dự án thành các phần nhỏ hơn?
+A. Scope statement
+B. WBS (Work Breakdown Structure)
+C. Biểu đồ Gantt
+D. Biểu đồ mạng
+Đáp án: B
+----------
+115. Câu hỏi: Phần mềm nào không được sử dụng trong quản lý chi phí?
+A. MS Project
+B. Planer
+C. Gantt chart
+D. Costar
+Đáp án: A
+----------
+116. Câu hỏi: Công cụ nào sau đây được sử dụng để quản lý chi phí?
+A. Gantt chart
+B. MS Project
+C. Costar
+D. Planer
+Đáp án: C
+----------
+117. Câu hỏi: Công cụ nào sau đây KHÔNG được sử dụng trong quản lý phạm vi?
+A. Scope statement
+B. Biểu đồ phân tán
+C. WBS (Work Breakdown Structure)
+D. Biểu đồ Pareto
+Đáp án: B
+----------
+118. Câu hỏi: Quy trình nào trong quản lý dự án liên quan đến việc chọn người quản lý dự án và xác định các bên liên quan chính?
+A. Lập kế hoạch
+B. Khởi động
+C. Thực thi
+D. Điều khiển
+Đáp án: B
+----------
+119. Câu hỏi: Kết quả nào sau đây KHÔNG phải là một phần của quy trình lập kế hoạch?
+A. Hợp đồng nhóm
+B. Lịch biểu dự án
+C. Kết quả công việc
+D. Danh sách các rủi ro
+Đáp án: C
+----------
+120. Câu hỏi: Quy trình nào trong quản lý dự án được coi là chiếm nhiều thời gian và tài nguyên nhất?
+A. Khởi động
+B. Lập kế hoạch
+C. Thực thi
+D. Điều khiển
+Đáp án: C
+----------
+121. Câu hỏi: Quy trình điều khiển trong quản lý dự án chủ yếu liên quan đến điều gì?
+A. Đo lường tiến độ
+B. Tạo biểu đồ phân rã công việc
+C. Thực hiện các hoạt động chỉnh sửa
+D. Đưa ra giải pháp cho các rủi ro
+Đáp án: C
+----------
+122. Câu hỏi: Giai đoạn nào trong quy trình quản lý dự án liên quan đến việc chấp nhận sản phẩm từ các bên liên quan?
+A. Khởi động
+B. Lập kế hoạch
+C. Kết thúc
+D. Thực thi
+Đáp án: C
+----------
+123. Câu hỏi: Quy trình quản lý thời gian dự án nào liên quan đến việc ước lượng thời gian cho mỗi hoạt động?
+A. Xác định hoạt động
+B. Sắp xếp thứ tự hoạt động
+C. Ước lượng thời gian
+D. Phát triển lịch biểu
+Đáp án: C
+----------
+124. Câu hỏi: Kết quả nào sau đây KHÔNG phải là một phần của quy trình kết thúc dự án?
+A. Cài đặt kết quả dự án
+B. Chuẩn bị bảo hành, bảo trì
+C. Dự đoán các rủi ro trong tương lai
+D. Tài liệu lưu trữ về dự án
+Đáp án: C
+----------
+125. Câu hỏi: Quy trình khởi động trong quản lý dự án thường bắt đầu bằng việc:
+A. Xác định các bên liên quan
+B. Hoàn tất tuyên bố về dự án
+C. Lập lịch biểu dự án
+D. Thực hiện các hoạt động chỉnh sửa
+Đáp án: A
+----------
+126. Câu hỏi: Quy trình thực thi trong quản lý dự án liên quan đến việc thực hiện hoạt động nào sau đây?
+A. Chọn quy trình làm phần mềm
+B. Xác định phạm vi dự án
+C. Tạo kết quả công việc
+D. Đo tiến độ dự án
+Đáp án: C
+----------
+127. Câu hỏi: Quy trình quản lý dự án nào liên quan đến việc phát triển hợp đồng nhóm và biểu đồ phân rã công việc?
+A. Khởi động
+B. Lập kế hoạch
+C. Thực thi
+D. Kết thúc
+Đáp án: B
+----------
+128. Câu hỏi: Công cụ nào được sử dụng trong quản lý phạm vi?
+A. Biểu đồ Gantt
+B. WBS
+C. Costar
+D. Planer
+Đáp án: B
+----------
+129. Câu hỏi: Mối quan hệ giữa quản lý phạm vi và quản lý chất lượng là gì?
+A. Hoàn toàn độc lập
+B. Mật thiết với nhau
+C. Có mối liên hệ gián tiếp
+D. Không có mối quan hệ
+Đáp án: B
+----------
+130. Câu hỏi: Công cụ nào được sử dụng trong quản lý thời gian?
+A. MS Project
+B. Costar
+C. Open Plan
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+131. Câu hỏi: Quản lý chi phí đảm bảo điều gì?
+A. Phạm vi dự án được xác định rõ ràng
+B. Chất lượng đầu ra của dự án đáp ứng tiêu chuẩn
+C. Dự án được hoàn thành trong kinh phí cho phép
+D. Lịch trình dự án được tuân thủ nghiêm ngặt
+Đáp án: C
+----------
+132. Câu hỏi: Quản lý chất lượng chịu trách nhiệm về điều gì?
+A. Xác định phạm vi dự án
+B. Ước lượng thời gian hoàn thành dự án
+C. Đảm bảo chất lượng các sản phẩm giao nộp
+D. Kiểm soát thay đổi lịch trình
+Đáp án: C
+----------
+133. Câu hỏi: Theo nội dung, đâu là bước đầu tiên trong quy trình chọn dự án?
+A. Xác định dự án tiềm năng
+B. Chọn các dự án CNTT
+C. Phân tích vùng nghiệp vụ
+D. Phân bổ tài nguyên
+Đáp án: C
+----------
+134. Câu hỏi: Kế hoạch chiến lược trong quy trình chọn dự án có vai trò gì?
+A. Là tiêu chí để đánh giá dự án
+B. Là thông tin đầu vào để xác định mục tiêu
+C. Là cơ sở để phân bổ tài nguyên
+D. Cả B và C đều đúng
+Đáp án: D
+----------
+135. Câu hỏi: Đâu là mục đích chính của việc xác định các mục tiêu nghiệp vụ lâu dài trong quy trình chọn dự án?
+A. Đảm bảo các dự án CNTT liên kết với mục tiêu của tổ chức
+B. Giảm rủi ro của dự án
+C. Tăng lợi nhuận đầu tư
+D. Đáp ứng nhu cầu của khách hàng
+Đáp án: A
+----------
+136. Câu hỏi: Theo nội dung, đâu KHÔNG PHẢI là hoạt động trong quy trình chọn dự án?
+A. Phân bổ tài nguyên
+B. Xác định dự án tiềm năng
+C. Triển khai dự án
+D. Chọn các dự án CNTT
+Đáp án: C
+----------
+137. Câu hỏi: Quy trình chọn dự án bắt đầu từ việc:
+A. Xác định mục tiêu nghiệp vụ lâu dài
+B. Phân tích vùng nghiệp vụ
+C. Xem xét kế hoạch chiến lược tổng thể
+D. Chọn các dự án CNTT
+Đáp án: C
+----------
+138. Câu hỏi: Phương pháp lựa chọn dự án nào tập trung vào nhu cầu chung của công ty?
+A. Phân loại dự án
+B. Phân tích tài chính
+C. Thực hiện thẻ điểm cân đối
+D. Hướng đến nhu cầu chung của công ty
+Đáp án: D
+----------
+139. Câu hỏi: Phân loại dự án nào không được đề cập trong nội dung?
+A. Vấn đề
+B. Yêu cầu
+C. Giải pháp
+D. Cơ hội
+Đáp án: C
+----------
+140. Câu hỏi: Phương pháp phân tích tài chính nào được đề cập trong nội dung?
+A. NPV Analysis
+B. IRR Analysis
+C. Payback Analysis
+D. Cả A và C
+Đáp án: D
+----------
+141. Câu hỏi: Thực hiện thẻ điểm cân đối được sử dụng để làm gì trong lựa chọn dự án?
+A. Phân tích tài chính
+B. Phân loại dự án
+C. Đánh giá hiệu suất tổng thể
+D. Xác định nhu cầu của công ty
+Đáp án: C
+----------
+142. Câu hỏi: Mục đích của phân loại dự án là gì?
+A. Xác định các loại dự án khác nhau
+B. Đánh giá tính khả thi của dự án
+C. Chọn dự án phù hợp nhất với mục tiêu của công ty
+D. Cả A và C
+Đáp án: D
+----------
+143. Câu hỏi: Tầm quan trọng của Project Charter là gì?
+A. Xác nhận sự tồn tại của dự án
+B. Giúp quản lý dự án hiệu quả
+C. Đưa ra định hướng cho mục tiêu dự án
+D. Tất cả các đáp án trên
+Đáp án: D
+----------
+144. Câu hỏi: Ai cần ký vào Project Charter?
+A. Nhóm dự án
+B. Stakeholders chính
+C. Nhà tài trợ dự án
+D. Giám đốc dự án
+Đáp án: B
+----------
+145. Câu hỏi: Mục đích chính của Project Charter là gì?
+A. Giúp lập kế hoạch dự án
+B. Xác định ngân sách dự án
+C. Đưa ra định hướng để thực hiện dự án
+D. Quản lý rủi ro dự án
+Đáp án: C
+----------
+146. Câu hỏi: Project Charter được tạo ra sau khi:
+A. Lên ý tưởng dự án
+B. Xác định phạm vi dự án
+C. Quyết định chọn dự án
+D. Phê duyệt dự án
+Đáp án: C
+----------
+147. Câu hỏi: Project Charter là một loại tài liệu nào?
+A. Không chính thức
+B. Chính thức
+C. Bán chính thức
+D. Không có đáp án nào đúng
+Đáp án: B
+----------
+148. Câu hỏi: Mục đích của lập kế hoạch phạm vi là gì?
+A. Xây dựng các tài liệu hỗ trợ quyết định về dự án
+B. Mô tả chi tiết các công việc liên quan đến dự án
+C. Xác định nguồn lực cần thiết cho dự án
+D. Đánh giá khả năng thành công của dự án
+Đáp án: A
+----------
+149. Câu hỏi: Phát biểu về phạm vi bao gồm yếu tố nào?
+A. Mục tiêu của dự án
+B. Ngân sách dự án
+C. Lịch trình dự án
+D. Lý giải về dự án
+Đáp án: D
+----------
+150. Câu hỏi: Sản phẩm trung gian của dự án là gì?
+A. Các kết quả hoàn thành một phần của dự án
+B. Các tài liệu được tạo ra trong quá trình lập kế hoạch
+C. Các nguồn lực được sử dụng để thực hiện dự án
+D. Các rủi ro liên quan đến dự án
+Đáp án: A
+----------
+151. Câu hỏi: Yếu tố nào sau đây không phải là yếu tố xác định thành công của dự án?
+A. Phạm vi được xác định rõ ràng
+B. Ngân sách được quản lý tốt
+C. Đội ngũ dự án có năng lực
+D. Điều kiện thị trường thuận lợi
+Đáp án: D
+----------
+152. Câu hỏi: Mô tả ngắn về sản phẩm của dự án trong phát biểu về phạm vi có mục đích gì?
+A. Cung cấp thông tin chi tiết về các tính năng và chức năng của sản phẩm
+B. Tạo cơ sở cho việc lập kế hoạch phát triển sản phẩm
+C. Giúp bên liên quan hình dung kết quả dự kiến của dự án
+D. Đánh giá khả năng tiếp thị của sản phẩm
+Đáp án: C
+----------
+153. Câu hỏi: Xác định phạm vi là gì?
+A. Chia công việc thành các phần nhỏ hơn
+B. Xác định thời gian hoàn thành công việc
+C. Đảm bảo chất lượng sản phẩm giao nộp
+D. Xác định chi phí dự án
+Đáp án: A
+----------
+154. Câu hỏi: Mối quan hệ giữa chất lượng và phạm vi là gì?
+A. Tách biệt và không ảnh hưởng đến nhau
+B. Mật thiết và hỗ trợ lẫn nhau
+C. Trái ngược nhau và làm giảm chất lượng dự án
+D. Chỉ ảnh hưởng đến phạm vi dự án
+Đáp án: B
+----------
+155. Câu hỏi: Quản lý phạm vi rõ ràng có ý nghĩa gì?
+A. Giảm thiểu rủi ro và bất ngờ
+B. Tăng chi phí và thời gian dự án
+C. Làm giảm chất lượng sản phẩm giao nộp
+D. Không ảnh hưởng đến dự án
+Đáp án: A
+----------
+156. Câu hỏi: Quản lý phạm vi có thể xác định yếu tố nào sau đây?
+A. Sản phẩm giao nộp
+B. Trình tự thực hiện công việc
+C. Chi phí của các hạng mục công việc
+D. Tất cả các đáp án trên
+Đáp án: D
+----------
+157. Câu hỏi: Mục đích của việc xác định phạm vi là gì?
+A. Chia nhỏ công việc thành các phần nhỏ hơn
+B. Giúp truyền đạt rõ trách nhiệm công việc
+C. Đo lường hiệu suất dự án
+D. Tất cả các đáp án trên
+Đáp án: D
+----------
+158. Câu hỏi: Tài liệu nền tảng trong quản lý dự án, cung cấp cơ sở để lập kế hoạch và quản lý dự án là gì?
+A. Kế hoạch quản lý dự án
+B. Cấu trúc phân rã công việc (WBS)
+C. Biên bản cuộc họp
+D. Biên bản nghiệm thu
+Đáp án: B
+----------
+159. Câu hỏi: Ai sẽ xây dựng Cấu trúc phân rã công việc (WBS)?
+A. Chỉ người quản lý dự án
+B. Chỉ khách hàng
+C. Người quản lý dự án; Khách hàng; thành viên tổ dự án và người tài trợ dự án; Ban quản lý dự án
+D. Chỉ ban quản lý dự án
+Đáp án: C
+----------
+160. Câu hỏi: Tiếp cận nào bắt đầu xây dựng WBS từ các thành phần lớn nhất?
+A. Tiếp cận tương tự
+B. Tiếp cận từ trên xuống (top-down)
+C. Tiếp cận từ dưới lên (bottom-up)
+D. Mind-mapping
+Đáp án: B
+----------
+161. Câu hỏi: Tiếp cận nào chia WBS thành các task chính phụ và phân bố theo sơ đồ?
+A. Tiếp cận tương tự
+B. Tiếp cận từ trên xuống (top-down)
+C. Tiếp cận từ dưới lên (bottom-up)
+D. Mind-mapping
+Đáp án: D
+----------
+162. Câu hỏi: Phạm vi tổng thể của dự án được xác định bởi yếu tố nào?
+A. Lịch trình dự án
+B. Ngân sách dự án
+C. Cấu trúc phân rã công việc (WBS)
+D. Mục tiêu dự án
+Đáp án: C
+----------
+163. Câu hỏi: Tiếp cận nào trong xây dựng WBS xem xét lại WBS của các dự án tương tự?
+A. Tiếp cận từ trên xuống (top-down)
+B. Tiếp cận từ dưới lên (bottom-up)
+C. Tiếp cận tương tự
+D. Mind-mapping
+Đáp án: C
+----------
+164. Câu hỏi: Thành phần nào sau đây KHÔNG nằm trong bảng công việc?
+A. Liệt kê các sản phẩm
+B. Lịch trình thực hiện
+C. Chi phí dự toán
+D. Danh sách các nhân viên
+Đáp án: D
+----------
+165. Câu hỏi: Từng công việc trong WBS được chi tiết tới mức độ nào?
+A. 60 giờ
+B. 80 giờ
+C. 100 giờ
+D. 120 giờ
+Đáp án: B
+----------
+166. Câu hỏi: Mục đích của việc gửi bản thảo WBS cho mọi người đọc trước là gì?
+A. Để nhận phản hồi và thảo luận
+B. Để phê duyệt chính thức
+C. Để cập nhật các phiên bản
+D. Để kiểm soát rủi ro
+Đáp án: A
+----------
+167. Câu hỏi: Theo nội dung được cung cấp, ai thường xuyên cập nhật và kiểm soát các phiên bản của WBS?
+A. Người quản lý dự án
+B. Nhóm dự án
+C. Khách hàng
+D. Không nêu trong nội dung
+Đáp án: D
+----------
+168. Câu hỏi: Một trong những mục tiêu khi chuẩn bị WBS là đạt được điều gì giữa các bên liên quan?
+A. Tính chi phí chính xác
+B. Phân bổ lực lượng hiệu quả
+C. Sự đồng thuận
+D. Kiểm soát rủi ro toàn diện
+Đáp án: C
+----------
+169. Câu hỏi: Theo các nguyên lý cơ bản của WBS, mỗi mục WBS nên có đặc điểm như thế nào?
+A. Là nhiệm vụ phức tạp
+B. Là nhiệm vụ đơn
+C. Xuất hiện ở nhiều nơi trong WBS
+D. Không có nội dung công việc được xác định
+Đáp án: B
+----------
+170. Câu hỏi: Mục đích chính của WBS là gì?
+A. Làm hài lòng các bên liên quan
+B. Phục vụ nhu cầu của nhóm dự án
+C. Kiểm soát phạm vi của dự án
+D. Thu thập dữ liệu cho báo cáo tiến độ
+Đáp án: B
+----------
+171. Câu hỏi: Làm thế nào để đảm bảo tính nhất quán của WBS?
+A. Phát triển WBS một cách độc lập
+B. Tham gia các thành viên nhóm dự án vào quá trình phát triển
+C. Sử dụng mẫu WBS từ các dự án trước
+D. Chỉ định một nhóm chuyên gia bên ngoài để tạo WBS
+Đáp án: B
+----------
+172. Câu hỏi: Theo nguyên lý nào của WBS, nội dung công việc của một mục WBS được xác định?
+A. Nội dung công việc được xác định bởi nhóm dự án
+B. Nội dung công việc bằng tổng các công việc dưới nó
+C. Nội dung công việc phải phù hợp với tuyên bố về phạm vi
+D. Nội dung công việc được xác định trước khi tạo WBS
+Đáp án: B
+----------
+173. Câu hỏi: Mục đích của tài liệu kèm theo mỗi mục WBS là gì?
+A. Để cung cấp hướng dẫn chi tiết về cách thực hiện công việc
+B. Để bảo đảm hiểu được chính xác phạm vi công việc
+C. Để theo dõi tiến độ của công việc
+D. Để lưu trữ các tài liệu dự án
+Đáp án: B
+----------
+174. Câu hỏi: Kiểm tra phạm vi dự án trong Kiểm tra và điều khiển thay đổi phạm vi đề cập đến điều gì?
+A. Đảm bảo phạm vi dự án không thay đổi
+B. Kiểm soát và giảm thiểu thay đổi phạm vi
+C. Phân tích tác động của thay đổi phạm vi
+D. Đánh giá rủi ro liên quan đến thay đổi phạm vi
+Đáp án: B
+----------
+175. Câu hỏi: Tình trạng "vượt quá phạm vi" đề cập đến điều gì?
+A. Phạm vi dự án tăng đáng kể so với phạm vi ban đầu
+B. Phạm vi dự án giảm đáng kể so với phạm vi ban đầu
+C. Phạm vi dự án không thay đổi so với phạm vi ban đầu
+D. Phạm vi dự án được kiểm soát hiệu quả
+Đáp án: A
+----------
+176. Câu hỏi: Theo nội dung được cung cấp, lý do chính khiến nhiều dự án CNTT phá sản là gì?
+A. Thiếu kiểm soát phạm vi dự án
+B. Thiếu nguồn lực tài chính
+C. Thiếu hỗ trợ kỹ thuật
+D. Thiếu sự tham gia của người dùng
+Đáp án: A
+----------
+177. Câu hỏi: Kiểm tra và điều khiển thay đổi phạm vi có vai trò gì trong việc giảm thiểu thay đổi phạm vi?
+A. Cho phép thay đổi phạm vi không bị kiểm soát
+B. Đảm bảo thay đổi phạm vi được thực hiện đúng cách
+C. Loại bỏ hoàn toàn khả năng thay đổi phạm vi
+D. Không có vai trò trong việc giảm thiểu thay đổi phạm vi
+Đáp án: B
+----------
+178. Câu hỏi: Nội dung được cung cấp xác định rằng Kiểm tra và điều khiển thay đổi phạm vi là một nhiệm vụ:
+A. Dễ dàng
+B. Khó khăn
+C. Không quan trọng
+D. Không thể thực hiện
+Đáp án: B
+----------
+179. Câu hỏi: Quy trình quản lý thời gian dự án bao gồm những bước nào?
+A. Xác định hoạt động, sắp xếp thứ tự hoạt động, ước lượng thời gian, phát triển lịch biểu
+B. Xác định phạm vi, xác định sản phẩm giao nộp, kiểm soát thay đổi
+C. Xây dựng kế hoạch huy động tài nguyên, ước tính chi phí, kiểm soát thay đổi chi phí
+D. Xác định chuẩn mực chất lượng, bảo đảm chất lượng sản phẩm, quản lý thay đổi chất lượng
+Đáp án: A
+----------
+180. Câu hỏi: Theo báo cáo CHAOS, thời gian quá hạn trung bình của dự án là bao nhiêu phần trăm?
+A. 163%
+B. 222%
+C. 222%
+D. 163%
+Đáp án: B
+----------
+181. Câu hỏi: Lý do chính dẫn đến xung đột trong dự án là gì?
+A. Quản lý phạm vi
+B. Quản lý thời gian
+C. Quản lý chi phí
+D. Vấn đề lịch biểu
+Đáp án: D
+----------
+182. Câu hỏi: Quản lý phạm vi liên quan đến lĩnh vực nào?
+A. Xác định cách tổ chức thực hiện dự án
+B. Ước lượng thời gian hoàn thành dự án
+C. Đảm bảo chất lượng các sản phẩm giao nộp
+D. Xây dựng kế hoạch huy động tài nguyên
+Đáp án: A
+----------
+183. Câu hỏi: Quản lý thời gian có nhiệm vụ gì?
+A. Xác định phạm vi công việc
+B. Ước lượng thời gian hoàn thành dự án và lập lịch biểu
+C. Đảm bảo hoàn thành công việc trong kinh phí cho phép
+D. Đảm bảo chất lượng các sản phẩm giao nộp
+Đáp án: B
+----------
+184. Câu hỏi: Quản lý chất lượng liên quan đến việc nào?
+A. Kiểm soát thay đổi về phạm vi dự án
+B. Kiểm soát thay đổi lịch trình
+C. Kiểm soát thay đổi chất lượng
+D. Kiểm soát thay đổi chi phí
+Đáp án: C
+----------
+185. Câu hỏi: Quy trình quản lý thời gian dự án nào liên quan đến việc xác định thứ tự của các hoạt động?
+A. Xác định các hoạt động
+B. Sắp xếp thứ tự các hoạt động
+C. Ước lượng thời gian cho mỗi hoạt động
+D. Phát triển lịch biểu
+Đáp án: B
+----------
+186. Câu hỏi: Quy trình quản lý thời gian dự án nào bao gồm việc ước tính thời gian cần để hoàn thành từng hoạt động?
+A. Xác định các hoạt động
+B. Sắp xếp thứ tự các hoạt động
+C. Ước lượng thời gian cho mỗi hoạt động
+D. Phát triển lịch biểu
+Đáp án: C
+----------
+187. Câu hỏi: Quy trình nào trong quản lý thời gian dự án liên quan đến việc tạo ra một biểu đồ hoặc sơ đồ cho thấy trình tự và mối quan hệ giữa các hoạt động?
+A. Xác định các hoạt động
+B. Sắp xếp thứ tự các hoạt động
+C. Ước lượng thời gian cho mỗi hoạt động
+D. Phát triển lịch biểu
+Đáp án: D
+----------
+188. Câu hỏi: Tài liệu nào chứa ngày bắt đầu và kết thúc của dự án?
+A. Tuyên bố phạm vi
+B. Tuyên bố dự án
+C. WBS
+D. Kế hoạch ban đầu
+Đáp án: B
+----------
+189. Câu hỏi: Hoạt động nào đòi hỏi phát triển WBS chi tiết để có được các ước lượng phù hợp?
+A. Xác định hoạt động
+B. Sắp xếp thứ tự hoạt động
+C. Ước lượng thời gian hoạt động
+D. Xác định các yêu cầu của người dùng
+Đáp án: A
+----------
+190. Câu hỏi: Các quy trình quản lý thời gian dự án nào được đề cập trong nội dung?
+A. Xác định mục tiêu và kết quả
+B. Phát triển lịch biểu, sắp xếp thứ tự hoạt động, ước lượng thời gian hoạt động
+C. Xác định rủi ro, lập kế hoạch ban đầu, đề xuất giải pháp
+D. Viết đề cương dự án, nghiên cứu tính khả thi, xác định các vấn đề của dự án
+Đáp án: B
+----------
+191. Câu hỏi: Hoạt động nào dưới đây KHÔNG phải là hoạt động chính của giai đoạn xác định?
+A. Xác định mục tiêu và kết quả
+B. Xác định các rủi ro
+C. Lập kế hoạch ban đầu
+D. Phát triển lịch biểu
+Đáp án: D
+----------
+192. Câu hỏi: Tài liệu nào là kết quả của giai đoạn xác định?
+A. Tuyên bố dự án
+B. WBS
+C. Đề cương dự án
+D. Lịch biểu
+Đáp án: C
+----------
+193. Câu hỏi: Quy trình quản lý thời gian dự án nào đòi hỏi việc xác định thứ tự các hoạt động?
+A. Xác định các hoạt động
+B. Ước lượng thời gian cho mỗi hoạt động
+C. Phát triển lịch biểu
+D. Sắp xếp thứ tự các hoạt động
+Đáp án: D
+----------
+194. Câu hỏi: Loại phụ thuộc nào trong sắp xếp thứ tự các hoạt động không cố hữu trong bản chất công việc?
+A. Phụ thuộc bắt buộc
+B. Phụ thuộc xác định bởi nhóm dự án
+C. Phụ thuộc ngoại
+D. Không có phụ thuộc nào như vậy
+Đáp án: B
+----------
+195. Câu hỏi: Phương pháp nào được sử dụng để xác định thứ tự các hoạt động sau khi xác định các quan hệ phụ thuộc?
+A. Phân tích đường dẫn tới hạn
+B. Biểu đồ mạng
+C. Phân tích PERT
+D. Phân tích sơ đồ Gantt
+Đáp án: A
+----------
+196. Câu hỏi: Loại ràng buộc nào không liên quan trực tiếp đến thứ tự các hoạt động?
+A. No earlier than
+B. No later than
+C. On this date
+D. Ràng buộc quản lý
+Đáp án: D
+----------
+197. Câu hỏi: Kỹ thuật biểu đồ mạng được sử dụng để hiển thị điều gì trong sắp xếp thứ tự các hoạt động?
+A. Thời gian ước tính của mỗi hoạt động
+B. Quan hệ logic giữa các hoạt động
+C. Tiến độ của dự án
+D. Phụ thuộc giữa các hoạt động
+Đáp án: B
+----------
+198. Câu hỏi: Phụ thuộc ngoại trong sắp xếp thứ tự các hoạt động đề cập đến mối quan hệ giữa các hoạt động nào?
+A. Giữa các hoạt động trong dự án
+B. Giữa các hoạt động trong dự án và các hoạt động khác
+C. Giữa các hoạt động trong dự án và các sự kiện bên ngoài
+D. Không có phụ thuộc nào được gọi là phụ thuộc ngoại
+Đáp án: C
+----------
+199. Câu hỏi: Theo nội dung, những ai sẽ giúp tạo ra các ước lượng?
+A. Các chuyên gia
+B. Những người thực hiện công việc
+C. Những người sắp xếp thứ tự các hoạt động
+D. Những người phát triển lịch biểu
+Đáp án: B
+----------
+200. Câu hỏi: Thuật ngữ nào dùng để chỉ số ngày làm việc hoặc số giờ làm việc cần thiết để hoàn tất một hoạt động?
+A. Thời gian
+B. Nỗ lực
+C. Ước lượng
+D. Thứ tự
+Đáp án: B
+----------
+201. Câu hỏi: Có bao nhiêu quy trình quản lý thời gian dự án được nêu trong nội dung?
+A. 2
+B. 3
+C. 4
+D. 5
+Đáp án: C
+----------
+202. Câu hỏi: Theo nội dung, bước đầu tiên trong các quy trình quản lý thời gian dự án là gì?
+A. Xác định các hoạt động
+B. Phát triển lịch biểu
+C. Sắp xếp thứ tự các hoạt động
+D. Xác định nỗ lực
+Đáp án: A
+----------
+203. Câu hỏi: Trong quản lý thời gian dự án, thời gian cho mỗi hoạt động bao gồm những yếu tố nào?
+A. Chỉ thời gian thực hiện hoạt động
+B. Chỉ thời gian trôi qua
+C. Thời gian thực hiện hoạt động cộng với thời gian trôi qua
+D. Thời gian thực hiện hoạt động trừ đi thời gian trôi qua
+Đáp án: C
+----------
+204. Câu hỏi: Các công cụ và kỹ thuật nào được sử dụng để phát triển lịch biểu?
+A. Biểu đồ Gantt, phân tích PERT, phân tích đường dẫn tới hạn
+B. Tuyên bố dự án, tuyên bố phạm vi, WBS
+C. Xác định hoạt động, sắp xếp thứ tự hoạt động, ước lượng thời gian
+D. Phân tích SWOT, biểu đồ RACI, phân tích PEST
+Đáp án: A
+----------
+205. Câu hỏi: Nguồn gốc của lịch biểu dự án là gì?
+A. Biểu đồ Gantt
+B. Tài liệu khởi động dự án
+C. Phân tích PERT
+D. Phân tích đường dẫn tới hạn
+Đáp án: B
+----------
+206. Câu hỏi: Hoạt động nào là một phần của quy trình quản lý thời gian dự án?
+A. Phát triển lịch biểu
+B. Phân tích rủi ro
+C. Kiểm tra chất lượng
+D. Quản lý truyền thông
+Đáp án: A
+----------
+207. Câu hỏi: Mục đích cuối cùng của phát triển lịch biểu là gì?
+A. Xác định ngày bắt đầu và kết thúc dự án
+B. Theo dõi tiến độ thực hiện dự án
+C. Ước lượng thời gian cho mỗi hoạt động
+D. Sắp xếp thứ tự các hoạt động
+Đáp án: B
+----------
+208. Câu hỏi: Quy trình quản lý thời gian dự án nào bao gồm xác định các hoạt động?
+A. Sắp xếp thứ tự các hoạt động
+B. Ước lượng thời gian cho mỗi hoạt động
+C. Phát triển lịch biểu
+D. Xác định các hoạt động
+Đáp án: D
+----------
+209. Câu hỏi: Theo nội dung, điều nào sau đây KHÔNG phải là phương pháp kiểm soát lịch biểu?
+A. Kiểm soát lịch biểu so với thực tế
+B. Tổ chức các buổi họp tiến độ với các bên liên quan
+C. Lập kế hoạch cho mọi người làm việc 100% khả năng vào mọi thời điểm
+D. Sử dụng kế hoạch phòng hờ bất trắc
+Đáp án: C
+----------
+210. Câu hỏi: Khi bàn về các vấn đề liên quan đến lịch biểu, cần có thái độ như thế nào?
+A. Mờ ám và ẩn dụ
+B. Rõ ràng và chân thật
+C. Lấp lửng và mơ hồ
+D. Đa nghĩa và khó hiểu
+Đáp án: B
+----------
+211. Câu hỏi: Mục đích của việc sử dụng kế hoạch phòng hờ bất trắc là gì?
+A. Ngăn chặn các rủi ro xảy ra
+B. Giảm thiểu tác động của các rủi ro
+C. Dự đoán chính xác thời gian hoàn thành dự án
+D. Tăng cường sự tham gia của các bên liên quan
+Đáp án: B
+----------
+212. Câu hỏi: Tầm quan trọng của việc tổ chức các buổi họp tiến độ với các bên liên quan là gì?
+A. Cập nhật tình hình dự án
+B. Thu thập phản hồi từ các bên liên quan
+C. Giải quyết các vấn đề liên quan đến lịch biểu
+D. Tất cả những điều trên
+Đáp án: D
+----------
+213. Câu hỏi: Theo nội dung, điều nào sau đây là một nguyên tắc chung trong kiểm soát lịch biểu?
+A. Không cho phép bất kỳ sự chậm trễ nào
+B. Lên lịch trình theo khả năng tốt nhất của mọi người
+C. Không lập kế hoạch chi tiết cho các tình huống bất ngờ
+D. Làm việc liên tục trong suốt dự án
+Đáp án: B
+----------
+214. Câu hỏi: Ưu điểm của việc sử dụng ý kiến chuyên gia trong ước lượng thời gian là gì?
+A. Kết quả chính xác cao
+B. Dễ sử dụng
+C. Tin cậy cao
+D. Tiết kiệm thời gian
+Đáp án: A
+----------
+215. Câu hỏi: Khuyết điểm của việc sử dụng ý kiến chuyên gia trong ước lượng thời gian là gì?
+A. Phức tạp
+B. Yêu cầu dữ liệu lớn
+C. Kết quả thiếu tin cậy
+D. Khó tìm chuyên gia
+Đáp án: C
+----------
+216. Câu hỏi: Các công cụ và kỹ thuật ước lượng thời gian nào được đề cập trong nội dung?
+A. Sử dụng ý kiến chuyên gia
+B. Kỹ thuật PERT
+C. Phương pháp đường găng CPM
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+217. Câu hỏi: Nội dung có đề cập đến việc sử dụng sơ đồ GANTT trong ước lượng thời gian không?
+A. Đúng
+B. Sai
+C. Không chắc chắn
+D. Không liên quan
+Đáp án: A
+----------
+218. Câu hỏi: Theo nội dung, việc sử dụng ý kiến chuyên gia trong ước lượng thời gian có được coi là đáng tin cậy không?
+A. Có
+B. Không
+C. Phụ thuộc vào kinh nghiệm của chuyên gia
+D. Không có thông tin
+Đáp án: C
+----------
+219. Câu hỏi: Kỹ thuật PERT có ưu điểm nào dưới đây?
+A. Tốn ít thời gian
+B. Không khuyến khích trao đổi giữa các thành viên
+C. Kết quả đạt được là sự cân bằng giữa 2 thái cực
+D. Không cần xét đến nhiều yếu tố tác động
+Đáp án: C
+----------
+220. Câu hỏi: Khuyết điểm của kỹ thuật PERT là gì?
+A. Lập kế hoạch chi tiết hơn
+B. Có nguy cơ làm mọi người chán nản
+C. Khuyến khích trao đổi giữa các thành viên
+D. Không đòi hỏi khối lượng tính toán lớn
+Đáp án: B
+----------
+221. Câu hỏi: Các công cụ ước lượng thời gian bao gồm những gì?
+A. Kỹ thuật PERT, phương pháp đường găng CPM, sơ đồ GANTT
+B. Sử dụng ý kiến chuyên gia, ước lượng dựa vào lịch sử
+C. Cả A và B
+D. Chỉ có A
+Đáp án: C
+----------
+222. Câu hỏi: Phương pháp đường găng CPM là gì?
+A. Không được đề cập trong nội dung
+B. Một kỹ thuật ước lượng thời gian
+C. Một công cụ lập kế hoạch dự án
+D. Một sơ đồ biểu thị tiến trình của dự án
+Đáp án: A
+----------
+223. Câu hỏi: Sơ đồ GANTT là công cụ gì?
+A. Không được đề cập trong nội dung
+B. Một kỹ thuật ước lượng thời gian
+C. Một công cụ lập kế hoạch dự án
+D. Một sơ đồ biểu thị tiến trình của dự án
+Đáp án: D
+----------
+224. Câu hỏi: Đường găng trong phương pháp CPM là gì?
+A. Dãy các hoạt động xác định thời gian sớm nhất có thể hoàn thành dự án
+B. Đường có chiều dài nhỏ nhất trong sơ đồ mạng
+C. Đường có chiều dài trung bình trong sơ đồ mạng
+D. Đường không có bất kỳ hoạt động nào
+Đáp án: A
+----------
+225. Câu hỏi: Trong sơ đồ mạng AOA, mỗi đỉnh biểu diễn điều gì?
+A. Công việc
+B. Sự kiện
+C. Hoạt động
+D. Quan hệ giữa các công việc
+Đáp án: B
+----------
+226. Câu hỏi: Những công việc ảnh hưởng trực tiếp đến thời gian hoàn thành dự án được gọi là gì?
+A. Công việc phụ
+B. Công việc găng
+C. Công việc chính
+D. Công việc cơ bản
+Đáp án: B
+----------
+227. Câu hỏi: Nếu muốn thay đổi kế hoạch thi công dự án, yếu tố nào cần được căn cứ vào trước tiên?
+A. Các công việc ngoài đường găng
+B. Các công việc găng
+C. Độ thả nổi
+D. Khoảng dư tự do
+Đáp án: B
+----------
+228. Câu hỏi: Đường găng có đặc điểm gì?
+A. Bất biến
+B. Có thể thay đổi
+C. Không ảnh hưởng đến thời gian hoàn thành dự án
+D. Có thể kéo dài hơn dự kiến mà không ảnh hưởng đến thời gian hoàn thành dự án
+Đáp án: D
+----------
+229. Câu hỏi: Khoảng dư toàn phần là gì?
+A. Thời gian tối đa công việc có thể kéo dài mà không ảnh hưởng đến thời gian bắt đầu của các công việc sau nó
+B. Thời gian tối đa công việc có thể kéo dài mà không ảnh hưởng đến thời gian hoàn tất dự án
+C. Thời gian tối thiểu công việc cần phải hoàn thành
+D. Thời gian công việc được phép kéo dài
+Đáp án: B
+----------
+230. Câu hỏi: Công cụ nào sau đây không được sử dụng để ước lượng thời gian?
+A. Ý kiến chuyên gia
+B. Lịch sử
+C. Phương pháp PERT
+D. Sơ đồ PERT
+Đáp án: D
+----------
+231. Câu hỏi: Trong sơ đồ mạng AON, mỗi đỉnh biểu diễn điều gì?
+A. Sự kiện
+B. Công việc
+C. Hoạt động
+D. Quan hệ giữa các công việc
+Đáp án: B
+----------
+232. Câu hỏi: Ai là tác giả của Sơ đồ GANTT?
+A. PERT
+B. Henry Gantt
+C. CPM
+D. Đường găng
+Đáp án: B
+----------
+233. Câu hỏi: Sơ đồ GANTT dùng để làm gì?
+A. Ước lượng thời gian
+B. Kiểm soát tiến độ thực hiện
+C. Đánh giá rủi ro
+D. Phân tích chi phí
+Đáp án: B
+----------
+234. Câu hỏi: Các ô trên dòng thứ i của Sơ đồ GANTT có thể được đánh dấu bằng cách nào?
+A. Tô màu
+B. Đánh dấu
+C. To đen
+D. B và C
+Đáp án: D
+----------
+235. Câu hỏi: Kỹ thuật PERT là gì?
+A. Phương pháp ước lượng thời gian dựa trên đánh giá chuyên gia
+B. Sơ đồ biểu diễn các hoạt động và thời gian thực hiện
+C. Phương pháp dùng để kiểm soát tiến độ thực hiện
+D. Kỹ thuật sử dụng để đánh giá rủi ro
+Đáp án: B
+----------
+236. Câu hỏi: Một trong những công cụ ước lượng thời gian không phải là gì?
+A. Ý kiến chuyên gia
+B. Lịch sử
+C. Sơ đồ GANTT
+D. Phân tích độ nhạy
+Đáp án: D
+----------
+237. Câu hỏi: Phương pháp nào được sử dụng để biểu diễn các hoạt động và mối quan hệ của chúng trên một sơ đồ?
+A. Sơ đồ GANTT
+B. PERT
+C. CPM
+D. Đường găng
+Đáp án: B
+----------
+238. Câu hỏi: Kỹ thuật rút ngắn lịch biểu nào sau đây làm tăng chi phí dự án?
+A. Bố trí các công việc song song
+B. Phân phối lại nguồn lực
+C. Thay đổi biện pháp kỹ thuật
+D. Rút ngắn thời gian đường găng
+Đáp án: D
+----------
+239. Câu hỏi: Nguyên tắc nào được sử dụng trong quá trình rút ngắn thời gian thực hiện với chi phí thấp nhất?
+A. Giảm thời gian thực hiện công việc găng đến mức tối đa
+B. Tính lại thời gian sớm nhất và muộn nhất
+C. Rút ngắn 2 công việc trên 2 nhánh khác nhau của chu trình
+D. Cả A và B
+Đáp án: D
+----------
+240. Câu hỏi: Theo bước 1 của nguyên tắc rút ngắn thời gian, công việc nào nên được chọn để rút ngắn?
+A. Công việc có thời gian găng dài nhất
+B. Công việc có chi phí rút ngắn 1 đơn vị thời gian thấp nhất
+C. Công việc có thời gian tối thiểu cần thiết để thực hiện cao nhất
+D. Công việc có số lượng công nhân tham gia nhiều nhất
+Đáp án: B
+----------
+241. Câu hỏi: Khi công việc găng cần rút ngắn nằm trên chu trình gồm nhiều công việc găng khác, chiến lược nào được áp dụng?
+A. Rút ngắn 1 công việc trên chu trình
+B. Rút ngắn 2 công việc trên 2 nhánh khác nhau của chu trình
+C. Rút ngắn tất cả các công việc trên chu trình
+D. Không có chiến lược nào được nêu trong nội dung
+Đáp án: B
+----------
+242. Câu hỏi: Mục đích của việc phân phối lại nguồn lực trong kỹ thuật rút ngắn lịch biểu là gì?
+A. Giảm thời gian thực hiện công việc
+B. Tăng chi phí dự án
+C. Cải thiện chất lượng công việc
+D. Tăng số lượng công nhân tham gia
+Đáp án: A
+----------
+243. Câu hỏi: Trong nguyên tắc rút ngắn thời gian thực hiện, bước nào được lặp lại sau khi rút ngắn thời gian công việc găng?
+A. Chọn công việc găng mới
+B. Tính lại thời gian sớm nhất và muộn nhất
+C. Rút ngắn thêm 2 công việc trên chu trình
+D. Cả A và B
+Đáp án: D
+----------
+244. Câu hỏi: Theo nội dung, khả năng nào được coi là yếu nhất?
+A. Kế hoạch
+B. Kiểm soát
+C. Ước lượng
+D. Hiệu chỉnh
+Đáp án: C
+----------
+245. Câu hỏi: Quá trình ước lượng được mô tả như thế nào?
+A. Một quá trình tuyến tính
+B. Một quá trình lặp
+C. Một quá trình ngẫu nhiên
+D. Một quá trình hoàn chỉnh
+Đáp án: B
+----------
+246. Câu hỏi: Theo nội dung, công cụ nào được đề cập là không hữu ích cho việc ước lượng?
+A. Phần mềm
+B. Kinh nghiệm
+C. Thống kê
+D. Đưa ra quyết định
+Đáp án: A
+----------
+247. Câu hỏi: Điều mấu chốt trong việc ước lượng là gì?
+A. Chia nhỏ công việc
+B. Tính trung bình
+C. Sử dụng các công cụ phức tạp
+D. Dựa vào trực giác
+Đáp án: A
+----------
+248. Câu hỏi: Theo nội dung, điểm duy nhất có vấn đề trong quá trình ước lượng là gì?
+A. Chia nhỏ công việc
+B. Tính trung bình
+C. Hiệu chỉnh ước lượng
+D. Thu thập dữ liệu
+Đáp án: B
+----------
+249. Câu hỏi: Quy trình quản lý chi phí gồm những bước nào?
+A. Lập kế hoạch quản lý chi phí, ước lượng chi phí, dự toán chi phí
+B. Lập kế hoạch quản lý chi phí, kiểm soát chi phí, dự toán chi phí
+C. Ước lượng chi phí, dự toán chi phí, kiểm soát chi phí
+D. Lập kế hoạch quản lý chi phí, ước lượng chi phí, dự toán chi phí, kiểm soát và điều chỉnh chi phí
+Đáp án: D
+----------
+250. Câu hỏi: Mục đích của bước lập kế hoạch quản lý chi phí là gì?
+A. Quyết định chính sách và quy trình quản lý chi phí
+B. Ước lượng chi phí gần đúng cho dự án
+C. Phân bổ chi phí ước tính vào từng hạng mục công việc
+D. Điều chỉnh chi phí khi có sự thay đổi trong công việc
+Đáp án: A
+----------
+251. Câu hỏi: Chi phí thường được đo bằng đơn vị nào?
+A. Thời gian
+B. Tiền tệ
+C. Tài nguyên
+D. Năng lượng
+Đáp án: B
+----------
+252. Câu hỏi: Chi phí trả công lao động là loại chi phí nào?
+A. Tiện nghi làm việc
+B. Văn phòng phẩm
+C. Trả công lao động
+D. Huấn luyện đào tạo lại
+Đáp án: C
+----------
+253. Câu hỏi: Mục đích của việc dự toán chi phí là gì?
+A. Thiết lập một baseline để kiểm soát chi phí
+B. Ước lượng chi phí gần đúng cho dự án
+C. Điều chỉnh chi phí khi có sự thay đổi trong công việc
+D. Phân bổ chi phí ước tính vào từng hạng mục công việc
+Đáp án: A
+----------
+254. Câu hỏi: Quy trình kiểm soát và điều chỉnh chi phí có ý nghĩa như thế nào?
+A. Điều chỉnh chi phí khi có sự thay đổi trong công việc
+B. Ước lượng chi phí gần đúng cho dự án
+C. Thiết lập một baseline để kiểm soát chi phí
+D. Lập kế hoạch quản lý chi phí
+Đáp án: A
+----------
+255. Câu hỏi: Quản lý chi phí dự án bao gồm những quy trình gì?
+A. Quy trình yêu cầu đảm bảo dự án hoàn thành trong ngân sách cho phép
+B. Quy trình lập kế hoạch quản lý chi phí
+C. Quy trình ước lượng chi phí
+D. Quy trình kiểm soát và điều chỉnh chi phí
+Đáp án: A
+----------
+256. Câu hỏi: Chi phí được sử dụng để trả cho yêu cầu gì?
+A. Tài nguyên và dịch vụ
+B. Hàng hóa và dịch vụ
+C. Nhân công và vật liệu
+D. Thời gian và tiền bạc
+Đáp án: B
+----------
+257. Câu hỏi: Phân loại chi phí nào sau đây không đúng?
+A. Văn phòng phẩm
+B. Thời gian
+C. Thu thập thông tin
+D. Máy móc trang thiết bị
+Đáp án: B
+----------
+258. Câu hỏi: Người quản lý dự án cần hiểu rõ vấn đề gì?
+A. Quản lý rủi ro dự án
+B. Quản lý chất lượng dự án
+C. Quản lý chi phí dự án
+D. Quản lý nguồn lực dự án
+Đáp án: C
+----------
+259. Câu hỏi: Quy trình quản lý chi phí nào xác định các chính sách và quy trình được sử dụng để quản lý chi phí?
+A. Ước lượng chi phí
+B. Lập kế hoạch quản lý chi phí
+C. Dự toán ngân sách
+D. Kiểm soát - điều chỉnh
+Đáp án: B
+----------
+260. Câu hỏi: Hoạt động nào ước tính gần đúng các tài nguyên cần thiết để hoàn thành dự án?
+A. Lập kế hoạch quản lý chi phí
+B. Ước lượng chi phí
+C. Dự toán ngân sách
+D. Kiểm soát - điều chỉnh
+Đáp án: B
+----------
+261. Câu hỏi: Mục đích của việc dự toán ngân sách là gì?
+A. Phân bổ chi phí ước tính cho các hạng mục công việc
+B. Điều chỉnh chi phí khi có sự thay đổi trong công việc
+C. Ước lượng gần đúng các tài nguyên cần thiết
+D. Xác định chính sách và quy trình quản lý chi phí
+Đáp án: A
+----------
+262. Câu hỏi: Hoạt động quản lý chi phí nào liên quan đến việc giám sát và điều chỉnh chi phí dự án?
+A. Lập kế hoạch quản lý chi phí
+B. Ước lượng chi phí
+C. Dự toán ngân sách
+D. Kiểm soát - điều chỉnh
+Đáp án: D
+----------
+263. Câu hỏi: Chi phí dự án được sử dụng để chi cho điều nào sau đây?
+A. Cung cấp tài nguyên
+B. Quản lý dự án
+C. Tiếp thị sản phẩm
+D. Đào tạo nhân viên
+Đáp án: A
+----------
+264. Câu hỏi: Lập kế hoạch quản lý chi phí là gì?
+A. Ước tính gần đúng cho những tài nguyên cần thiết để hoàn thành dự án
+B. Quyết định chính sách, qui trình, tài liệu được sử dụng cho việc thực thi và điều khiển chi phí
+C. Phân bổ chi phí ước tính vào từng hạng mục công việc để thiết lập một baseline cho việc kiểm soát
+D. Điều chỉnh ngay khi có sự thay đổi trong công việc, có liên quan đến ngân sách
+Đáp án: B
+----------
+265. Câu hỏi: Lập kế hoạch quản lý chi phí bao gồm xác định những yếu tố nào?
+A. Đơn vị sử dụng đo lường, ngưỡng biến động chi phí cho phép, tần suất báo cáo chi phí, nguồn tài nguyên cần thiết
+B. Chi phí dự toán, chi phí ước lượng, chi phí thực tế
+C. Ngân sách dự án, chi phí trực tiếp, chi phí gián tiếp
+D. Lợi nhuận dự kiến, chi phí đầu tư, chi phí hoạt động
+Đáp án: A
+----------
+266. Câu hỏi: Một số câu hỏi cần cân nhắc khi lập kế hoạch tài nguyên là gì?
+A. Dự án sẽ gặp những khó khăn nào khi thực hiện các công việc cụ thể của dự án?
+B. Chi phí thực hiện dự án là bao nhiêu?
+C. Thời gian thực hiện dự án là bao lâu?
+D. Phạm vi của dự án là gì?
+Đáp án: A
+----------
+267. Câu hỏi: Để giải quyết các vấn đề khi lập kế hoạch tài nguyên, cần tham khảo đến những nguồn nào?
+A. WBS, scope statement, thông tin trước đây và hiện tại, chính sách của tổ chức
+B. Dự toán ngân sách, ước lượng chi phí, kế hoạch quản lý chi phí
+C. Biên bản cuộc họp, hồ sơ dự án, báo cáo tình hình thực hiện
+D. Sổ cái, sổ nhật ký, bảng cân đối kế toán
+Đáp án: A
+----------
+268. Câu hỏi: Nguồn tài nguyên nào cần được xác định trong lập kế hoạch quản lý chi phí?
+A. Con người
+B. Thiết bị
+C. Vật tư
+D. Cả A, B, C
+Đáp án: D
+----------
+269. Câu hỏi: Để xác định danh sách các tài nguyên cần thiết, cần tham khảo những nguồn nào?
+A. WBS
+B. Scope statement
+C. Thông tin trước đây và hiện tại
+D. Cả A, B, C
+Đáp án: D
+----------
+270. Câu hỏi: Để lập kế hoạch tài nguyên, cần cân nhắc những yếu tố nào?
+A. Dự án sẽ gặp những khó khăn nào
+B. Kĩ năng chuyên môn cá nhân của những người tham gia
+C. Có những chính sách nào ảnh hưởng đến các tài nguyên cần thiết
+D. Cả A, B, C
+Đáp án: D
+----------
+271. Câu hỏi: Tài liệu nào sau đây được tham khảo để giải quyết các vấn đề về tài nguyên?
+A. WBS
+B. Scope statement
+C. Policies
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+272. Câu hỏi: Các loại ước lượng chi phí dự án là gì?
+A. Phỏng đoán, ngân sách, xác định
+B. Tương tự, từ trên xuống, từ dưới lên
+C. Mô hình tham số, mô hình COCOMO, mô hình chi phí xây dựng
+D. Lập kế hoạch quản lý chi phí, dự toán chi phí, kiểm soát chi phí
+Đáp án: A
+----------
+273. Câu hỏi: Phương pháp ước lượng chi phí dự án từ dưới lên là gì?
+A. Sử dụng chi phí thực tế trước đó của các dự án tương tự làm cơ sở ước tính
+B. Ước tính từng nhóm công việc riêng biệt rồi cộng lại
+C. Sử dụng các đặc điểm riêng biệt trong dự án áp dụng phương thức toán học để ước tính chi phí
+D. Phân bổ chi phí ước tính vào từng hạng mục công việc để thiết lập baseline cho việc kiểm soát
+Đáp án: B
+----------
+274. Câu hỏi: Mô hình ước lượng chi phí nào được nêu trong nội dung?
+A. Mô hình tham số
+B. Mô hình Top-down estimating
+C. Mô hình Bottom-up estimating
+D. Mô hình COCOMO
+Đáp án: D
+----------
+275. Câu hỏi: Ước lượng chi phí theo phương pháp từ dưới lên được thực hiện như thế nào?
+A. Ước tính từng nhóm công việc rồi cộng tổng lại
+B. Sử dụng chi phí thực tế trước đó của các dự án tương tự
+C. Dựa trên các đặc điểm của dự án và áp dụng phương pháp toán học
+D. Phân bổ chi phí ước tính vào từng hạng mục công việc
+Đáp án: A
+----------
+276. Câu hỏi: Loại ước lượng chi phí nào sử dụng chi phí thực tế trước đó của các dự án tương tự làm cơ sở?
+A. Phỏng đoán
+B. Ngân sách
+C. Tương tự
+D. Từ dưới lên
+Đáp án: C
+----------
+277. Câu hỏi: Mục đích chính của việc kiểm soát và điều chỉnh chi phí là gì?
+A. Phát triển kế hoạch chi phí
+B. Theo dõi tiến độ của dự án
+C. Giám sát việc thực thi về chi phí
+D. Đánh giá hiệu suất của đội ngũ dự án
+Đáp án: C
+----------
+278. Câu hỏi: Hoạt động nào sau đây KHÔNG phải là một mục tiêu của việc kiểm soát và điều chỉnh chi phí?
+A. Ngăn chặn những thay đổi chi phí không đúng
+B. Ghi nhận chính xác những thay đổi hợp lý vào cost baseline
+C. Cập nhật định kỳ kế hoạch chi phí
+D. Thông báo những thay đổi chi phí đến những người liên quan
+Đáp án: C
+----------
+279. Câu hỏi: "Cost baseline" được đề cập trong nội dung là gì?
+A. Ngân sách dự kiến của dự án
+B. Tổng chi phí thực tế của dự án
+C. Ngân sách được chấp thuận chính thức cho dự án
+D. Dự báo chi phí trong tương lai của dự án
+Đáp án: C
+----------
+280. Câu hỏi: Theo nội dung, ai là người chịu trách nhiệm chính báo cáo những thay đổi về chi phí?
+A. Người quản lý dự án
+B. Nhóm kiểm soát chi phí
+C. Những người liên quan có thẩm quyền
+D. Nhà tài trợ dự án
+Đáp án: C
+----------
+281. Câu hỏi: Việc kiểm soát và điều chỉnh chi phí sẽ liên quan đến hoạt động nào sau đây?
+A. Đàm phán hợp đồng với nhà cung cấp
+B. Theo dõi tiến độ thực hiện công việc
+C. Phân tích giá trị của dự án
+D. Quản lý rủi ro dự án
+Đáp án: B
+----------
+282. Câu hỏi: Lập kế hoạch quản lý chi phí tập trung vào việc xác định điều gì?
+A. Chính sách quản lý chi phí
+B. Tài nguyên cần thiết cho dự án
+C. Ngưỡng biến động chi phí cho phép
+D. Tần suất báo cáo chi phí
+Đáp án: A
+----------
+283. Câu hỏi: Để lập kế hoạch tài nguyên, cần cân nhắc những câu hỏi nào sau đây?
+A. Dự án sẽ gặp những khó khăn nào khi thực hiện các công việc cụ thể?
+B. Có những phạm vi nào của dự án ảnh hưởng đến tài nguyên?
+C. Tổ chức có đủ người, trang thiết bị, vật tư để thực hiện dự án?
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+284. Câu hỏi: Lập kế hoạch quản lý chi phí bao gồm việc xác định yếu tố nào sau đây?
+A. Ngưỡng biến động chi phí cho phép
+B. Nguồn tài nguyên cần thiết
+C. Tần suất báo cáo chi phí
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+285. Câu hỏi: Mục đích của lập kế hoạch quản lý chi phí là gì?
+A. Ước lượng gần đúng chi phí dự án
+B. Phân bổ chi phí ước tính vào các hạng mục công việc
+C. Quyết định chính sách, quy trình và tài liệu cho việc thực thi và điều khiển chi phí
+D. Điều chỉnh chi phí khi có sự thay đổi trong công việc
+Đáp án: C
+----------
+286. Câu hỏi: Liệt kê thành danh sách tài nguyên cụ thể được sử dụng trong lập kế hoạch quản lý chi phí phụ thuộc vào yếu tố nào?
+A. Bản chất riêng của dự án và tổ chức thực hiện
+B. Quy trình quản lý chi phí
+C. Chính sách của tổ chức
+D. Phạm vi của dự án
+Đáp án: A
+----------
+287. Câu hỏi: Để giải quyết các vấn đề về tài nguyên trong lập kế hoạch quản lý chi phí cần tham khảo đến những tài liệu nào?
+A. WBS, scope statement
+B. Chính sách của tổ chức, thông tin trước đây và hiện tại
+C. A và B
+D. Quy trình quản lý chi phí
+Đáp án: C
+----------
+288. Câu hỏi: Các phương pháp ước lượng chi phí dự án bao gồm:
+A. Phỏng đoán, ngân sách, xác định
+B. Tương tự, từ trên xuống, từ dưới lên
+C. Ước lượng 3 trường hợp, mô hình tham số, mô hình COCOMO
+D. Tất cả các phương án trên
+Đáp án: D
+----------
+289. Câu hỏi: Mô hình ước lượng chi phí thông dụng là:
+A. Phỏng đoán
+B. Ngân sách
+C. COCOMO
+D. Ước lượng 3 trường hợp
+Đáp án: C
+----------
+290. Câu hỏi: Theo nội dung, ước lượng chi phí là đầu ra quan trọng của công việc nào?
+A. Quản lý chi phí dự án
+B. Lập kế hoạch quản lý chi phí
+C. Kiểm soát và điều chỉnh chi phí
+D. Dự toán chi phí
+Đáp án: A
+----------
+291. Câu hỏi: Mô hình COCOMO là loại mô hình ước lượng chi phí nào?
+A. Mô hình tham số
+B. Mô hình Top-down
+C. Mô hình Bottom-up
+D. Mô hình 3 trường hợp
+Đáp án: A
+----------
+292. Câu hỏi: Đâu KHÔNG phải là phương pháp để ước lượng chi phí dự án?
+A. Phỏng đoán
+B. Dự toán
+C. Mô hình COCOMO
+D. Ước lượng tương tự
+Đáp án: B
+----------
+293. Câu hỏi: EVM là viết tắt của thuật ngữ nào?
+A. Earned Value Measurement
+B. Earned Value Management
+C. Estimate Value Measurement
+D. Estimate Value Management
+Đáp án: B
+----------
+294. Câu hỏi: Thông tin nào là cần thiết để so sánh với baseline khi sử dụng EVM?
+A. Chi phí thực tế
+B. Chi phí ước tính
+C. Thông tin chính xác định kỳ
+D. Phạm vi dự án
+Đáp án: C
+----------
+295. Câu hỏi: Chỉ số nào thể hiện hiệu quả sử dụng các nguồn lực trong dự án?
+A. Cost Performance Index (CPI)
+B. Schedule Variance (SV)
+C. Earned Value (EV)
+D. Estimate to Completion (ETC)
+Đáp án: A
+----------
+296. Câu hỏi: Phương sai nào cho biết dự án đang chậm tiến độ?
+A. Cost Variance (CV)
+B. Schedule Variance (SV)
+C. Variance at Completion (VAC)
+D. To-Complete Performance Index (TCPI)
+Đáp án: B
+----------
+297. Câu hỏi: Thuật ngữ nào dùng để chỉ ước tính chi phí của dự án khi kết thúc?
+A. Budget at Completion (BAC)
+B. Estimate at Completion (EAC)
+C. Planned Value (PV)
+D. Actual Cost (AC)
+Đáp án: B
+----------
+298. Câu hỏi: Tổng kinh phí được phân bố cho dự án được gọi là?
+A. Earned Value
+B. Budget at Completion
+C. Actual Cost
+D. Planned Value
+Đáp án: B
+----------
+299. Câu hỏi: Chi phí thực tế của công việc đã thực hiện được gọi là?
+A. Earned Value
+B. Actual Cost
+C. Planned Value
+D. Budget at Completion
+Đáp án: B
+----------
+300. Câu hỏi: Yếu tố quan trọng để đo lường hiệu quả hoạt động của dự án là?
+A. Cost Variance
+B. Schedule Variance
+C. Cost Performance Index
+D. Schedule Performance Index
+Đáp án: A
+----------
+301. Câu hỏi: Chỉ số thể hiện hiệu quả sử dụng các nguồn lực của dự án là?
+A. Cost Performance Index
+B. Schedule Performance Index
+C. To-Complete Performance Index
+D. Variance at Completion
+Đáp án: A
+----------
+302. Câu hỏi: Chỉ số cho biết dự án đang thực hiện trước hay sau tiến độ lập lịch là?
+A. Cost Variance
+B. Schedule Variance
+C. Cost Performance Index
+D. Schedule Performance Index
+Đáp án: B
+----------
+303. Câu hỏi: Chỉ số thể hiện hiệu quả của thời gian được sử dụng trong dự án là?
+A. Cost Performance Index
+B. Schedule Performance Index
+C. To-Complete Performance Index
+D. Variance at Completion
+Đáp án: B
+----------
+304. Câu hỏi: Ước tính chi phí của dự án khi kết thúc là?
+A. Estimate at Completion
+B. Estimate to Completion
+C. Variance at Completion
+D. To-Complete Performance Index
+Đáp án: A
+----------
+305. Câu hỏi: Ước tính chi phí để hoàn thành phần còn lại của dự án là?
+A. Estimate at Completion
+B. Estimate to Completion
+C. Variance at Completion
+D. To-Complete Performance Index
+Đáp án: B
+----------
+306. Câu hỏi: Phương sai trên tổng ngân sách khi kết thúc dự án được gọi là?
+A. Estimate at Completion
+B. Estimate to Completion
+C. Variance at Completion
+D. To-Complete Performance Index
+Đáp án: C
+----------
+307. Câu hỏi: Chỉ số cho thấy hiệu quả mà thời gian còn lại của dự án sẽ được sử dụng là?
+A. Cost Performance Index
+B. Schedule Performance Index
+C. To-Complete Performance Index
+D. Variance at Completion
+Đáp án: C
+----------
+308. Câu hỏi: Quy trình quản lý rủi ro thứ tư là gì?
+A. Xác định rủi ro
+B. Phân tích rủi ro
+C. Lập kế hoạch rủi ro
+D. Kiểm soát rủi ro
+Đáp án: D
+----------
+309. Câu hỏi: Mục đích chính của quản lý rủi ro là gì?
+A. Đảm bảo sự thành công của dự án
+B. Giảm thiểu khả năng rủi ro
+C. Tăng lợi nhuận dự án
+D. Xác định tất cả các rủi ro tiềm ẩn
+Đáp án: B
+----------
+310. Câu hỏi: Quản lý rủi ro chỉ áp dụng cho các dự án CNTT.
+A. Đúng
+B. Sai
+C. Đúng một phần
+D. Sai hoàn toàn
+Đáp án: B
+----------
+311. Câu hỏi: Theo văn bản, rủi ro là gì?
+A. Những tình huống không mong muốn
+B. Những khả năng dẫn đến lợi nhuận
+C. Những yếu tố ngăn cản thành công của dự án
+D. Những cơ hội nên được chấp nhận
+Đáp án: A
+----------
+312. Câu hỏi: Quy trình quản lý rủi ro nào liên quan đến việc phát triển các biện pháp để giảm thiểu rủi ro?
+A. Xác định rủi ro
+B. Phân tích rủi ro
+C. Lập kế hoạch rủi ro
+D. Kiểm soát rủi ro
+Đáp án: C
+----------
+313. Câu hỏi: Công việc đầu tiên và quan trọng nhất trong quản lý rủi ro là gì?
+A. Phân tích rủi ro
+B. Lập kế hoạch rủi ro
+C. Kiểm soát rủi ro
+D. Xác định rủi ro
+Đáp án: D
+----------
+314. Câu hỏi: Kỹ thuật nào sau đây KHÔNG được đề cập đến trong quá trình xác định rủi ro?
+A. Phát huy trí tuệ dân chủ (Brainstorming)
+B. Phỏng vấn từ những kinh nghiệm, rủi ro đã gặp trước đó
+C. Phân tích cây lỗi (FTA)
+D. Hỏi chuyên gia (Kỹ thuật Delphi)
+Đáp án: C
+----------
+315. Câu hỏi: Trong số các tình huống rủi ro sau đây, tình huống nào liên quan đến kỹ thuật?
+A. Thiếu sự hỗ trợ của quản lý
+B. Giải pháp sai
+C. Người dùng không nêu rõ nhu cầu
+D. Môi trường làm việc không phù hợp
+Đáp án: B
+----------
+316. Câu hỏi: Một kỹ thuật để nhận diện rủi ro là gì?
+A. Phát huy trí tuệ dân chủ
+B. Phỏng vấn chuyên gia
+C. Phân tích dữ liệu
+D. Theo dõi tiến độ dự án
+Đáp án: A
+----------
+317. Câu hỏi: Theo nội dung, dự án CNTT thường có mức rủi ro như thế nào?
+A. Rất thấp
+B. Thấp
+C. Cao
+D. Không xác định
+Đáp án: C
+----------
+318. Câu hỏi: Quy trình quản lý rủi ro thứ ba là gì?
+A. Xác định rủi ro
+B. Phân tích rủi ro
+C. Lập kế hoạch rủi ro
+D. Kiểm soát rủi ro
+Đáp án: C
+----------
+319. Câu hỏi: Phân tích rủi ro định tính đánh giá những yếu tố nào?
+A. Xác suất xuất hiện và mức độ tác động
+B. Xác suất xuất hiện và giá trị tiền tệ
+C. Mức độ tác động và giá trị tiền tệ
+D. Giá trị lợi nhuận mong đợi và xác suất xảy ra
+Đáp án: A
+----------
+320. Câu hỏi: Phân tích rủi ro định lượng sử dụng kỹ thuật nào?
+A. Cây quyết định
+B. Mô phỏng rủi ro
+C. Tham khảo ý kiến chuyên gia
+D. Tất cả các phương án trên
+Đáp án: D
+----------
+321. Câu hỏi: Cây quyết định là phương pháp dùng để làm gì?
+A. Xác định rủi ro
+B. Phân tích rủi ro
+C. Lựa chọn hành động tốt nhất
+D. Kiểm soát rủi ro
+Đáp án: C
+----------
+322. Câu hỏi: Expected Monetary Value (EMV) được tính dựa trên những yếu tố nào?
+A. Xác suất xảy ra rủi ro và giá trị lợi nhuận
+B. Xác suất xảy ra rủi ro và giá trị tiền tệ
+C. Mức độ tác động và giá trị tiền tệ
+D. Giá trị lợi nhuận mong đợi và mức độ tác động
+Đáp án: B
+----------
+323. Câu hỏi: Chiến lược nào dưới đây liên quan đến việc chấp nhận hậu quả của rủi ro nếu nó xảy ra?
+A. Tránh xa rủi ro
+B. Chấp nhận rủi ro
+C. Làm giảm nguyên nhân gây rủi ro
+D. Chuyển rủi ro đi nơi khác
+Đáp án: B
+----------
+324. Câu hỏi: Khi rủi ro liên quan đến thiếu hụt hoặc chức năng sai của yêu cầu, giải pháp nào sau đây được khuyến nghị?
+A. Tìm chuyên gia trợ giúp
+B. Làm việc theo nhóm
+C. Phân tích kỹ tổ chức/mô hình nghiệp vụ của khách
+D. Chọn nhà cung cấp thích hợp
+Đáp án: C
+----------
+325. Câu hỏi: Chiến lược nào liên quan đến việc chọn một phương án khác để tránh rủi ro?
+A. Chấp nhận rủi ro
+B. Tránh xa rủi ro
+C. Chuyển rủi ro đi nơi khác
+D. Làm giảm nguyên nhân gây rủi ro
+Đáp án: B
+----------
+326. Câu hỏi: Giải pháp nào được đề xuất để giảm thiểu rủi ro liên quan đến chất lượng nhà cung cấp không đảm bảo?
+A. Làm bản mẫu
+B. Áp dụng thiết kế hướng đối tượng
+C. Phát triển mô hình soắn ốc
+D. Chọn nhà cung cấp thích hợp
+Đáp án: D
+----------
+327. Câu hỏi: Chiến lược nào có thể giúp làm giảm rủi ro liên quan đến công nghệ mới?
+A. Tìm chuyên gia trợ giúp
+B. Tránh xa rủi ro
+C. Thuê công ty chuyên dụng
+D. Làm giảm nguyên nhân gây rủi ro
+Đáp án: A
+----------
+328. Câu hỏi: Kiểm soát rủi ro bao gồm những hoạt động nào?
+A. Xác định, phân tích, lập kế hoạch rủi ro
+B. Thu nhận thông tin, đánh giá khả năng xảy ra rủi ro, kiểm tra dữ liệu quản lý
+C. Sắp hạng rủi ro, chuẩn bị kế hoạch đáp ứng rủi ro, thảo luận rủi ro chính
+D. Xóa rủi ro, lặp lại hoạt động kiểm soát rủi ro
+Đáp án: B
+----------
+329. Câu hỏi: Quy trình thứ tư trong quản lý rủi ro là gì?
+A. Xác định rủi ro
+B. Phân tích rủi ro
+C. Lập kế hoạch rủi ro
+D. Kiểm soát rủi ro
+Đáp án: D
+----------
+330. Câu hỏi: Quản lý rủi ro chỉ tập trung vào các rủi ro tiêu cực?
+A. Đúng
+B. Sai
+C. Chỉ áp dụng cho các dự án lớn
+D. Chỉ áp dụng cho các dự án CNTT
+Đáp án: B
+----------
+331. Câu hỏi: Lặp lại các hoạt động kiểm soát rủi ro bao lâu một lần?
+A. Mỗi ngày
+B. Mỗi tuần
+C. Mỗi tháng
+D. Từ 6 đến 9 tuần hoặc khi bắt đầu một pha mới
+Đáp án: D
+----------
+332. Câu hỏi: Kiểm soát rủi ro liên quan đến hoạt động nào sau đây?
+A. Thảo luận về các rủi ro chính
+B. Loại bỏ các rủi ro đã qua
+C. Lập lại các hoạt động của tiến trình
+D. Tất cả những điều trên
+Đáp án: D
+----------
+333. Câu hỏi: Theo định nghĩa của ISO, chất lượng là gì?
+A. Sự kết hợp các đặc tính đáp ứng mọi yêu cầu của sản phẩm
+B. Mức độ đáp ứng các yêu cầu quy định
+C. Sự phù hợp khi sử dụng sản phẩm
+D. Tất cả các lựa chọn trên
+Đáp án: A
+----------
+334. Câu hỏi: Mục đích chính của quản lý chất lượng là gì?
+A. Đảm bảo dự án đáp ứng các yêu cầu đặt ra
+B. Đánh giá sản phẩm cuối cùng
+C. Xác định phạm vi của dự án
+D. Kiểm tra lỗi và sai sót
+Đáp án: A
+----------
+335. Câu hỏi: Ai là người đánh giá cuối cùng chất lượng của sản phẩm?
+A. Đội dự án
+B. Nhà quản lý dự án
+C. Khách hàng
+D. Nhà cung cấp
+Đáp án: C
+----------
+336. Câu hỏi: Theo nội dung, mối quan hệ giữa chất lượng và phạm vi dự án là gì?
+A. Mật thiết và phụ thuộc lẫn nhau
+B. Không liên quan đến nhau
+C. Chất lượng quyết định phạm vi
+D. Phạm vi quyết định chất lượng
+Đáp án: A
+----------
+337. Câu hỏi: Quản lý phạm vi có vai trò gì trong quản lý chất lượng?
+A. Xác định các tiêu chuẩn chất lượng
+B. Đảm bảo sự rõ ràng trong yêu cầu sản phẩm
+C. Kiểm soát các đầu ra của dự án
+D. Đánh giá chất lượng sản phẩm cuối cùng
+Đáp án: B
+----------
+338. Câu hỏi: Quản lý chất lượng bao gồm những quy trình nào?
+A. Lập kế hoạch quản lý chất lượng, kiểm soát chất lượng, đánh giá chất lượng
+B. Lập kế hoạch quản lý chất lượng, thực hiện đảm bảo chất lượng, kiểm soát chất lượng
+C. Thực hiện đảm bảo chất lượng, kiểm soát chất lượng, quản lý phạm vi
+D. Lập kế hoạch quản lý chất lượng, lập kế hoạch kiểm tra chất lượng, kiểm soát chất lượng
+Đáp án: B
+----------
+339. Câu hỏi: Quy trình nào trong quản lý chất lượng xác định các tiêu chuẩn chất lượng của dự án?
+A. Kiểm soát chất lượng
+B. Lập kế hoạch quản lý chất lượng
+C. Thực hiện đảm bảo chất lượng
+D. Thiết kế chất lượng
+Đáp án: B
+----------
+340. Câu hỏi: Lợi ích của quy trình lập kế hoạch quản lý chất lượng là gì?
+A. Đảm bảo sự tuân thủ các tiêu chuẩn chất lượng
+B. Cung cấp hướng dẫn về cách quản lý chất lượng
+C. Giúp xác định các yêu cầu chất lượng
+D. Thúc đẩy sự cải tiến liên tục
+Đáp án: B
+----------
+341. Câu hỏi: Theo nội dung, điều gì là mấu chốt quan trọng nhất trong quản lý chất lượng?
+A. Kiểm soát chất lượng chặt chẽ
+B. Sự tham gia của khách hàng
+C. Kết hợp các tiêu chuẩn chất lượng vào thiết kế
+D. Tuân thủ các quy trình đảm bảo chất lượng
+Đáp án: C
+----------
+342. Câu hỏi: Trong dự án CNTT, các tiêu chuẩn chất lượng nào sau đây ĐÚNG?
+A. Cho phép hệ thống mở rộng và nâng cấp
+B. Đảm bảo hệ thống cho kết quả chính xác
+C. Đặt ra thời lượng xử lý dữ liệu tối thiểu
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+343. Câu hỏi: Quy trình nào trong quản lý chất lượng bao gồm việc giám sát các hoạt động của dự án để đảm bảo đáp ứng các tiêu chuẩn chất lượng?
+A. Lập kế hoạch quản lý chất lượng
+B. Thực hiện đảm bảo chất lượng
+C. Kiểm soát chất lượng
+D. Thiết kế chất lượng
+Đáp án: B
+----------
+344. Câu hỏi: Mục đích của việc thực hiện đảm bảo chất lượng là gì?
+A. Đảm bảo dự án tuân thủ các tiêu chuẩn chất lượng
+B. Quy định trách nhiệm về chất lượng trong suốt dự án
+C. Cải thiện việc thực hiện các dự án trong tương lai
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+345. Câu hỏi: Quá trình quản lý chất lượng bao gồm những bước nào?
+A. Lập kế hoạch quản lý chất lượng và kiểm soát chất lượng
+B. Thực hiện đảm bảo chất lượng và kiểm soát chất lượng
+C. Lập kế hoạch quản lý chất lượng, thực hiện đảm bảo chất lượng, kiểm soát chất lượng
+D. Kiểm soát chất lượng và lập kế hoạch quản lý chất lượng
+Đáp án: C
+----------
+346. Câu hỏi: Lợi ích của quy trình đảm bảo chất lượng là gì?
+A. Cải thiện việc thực hiện các dự án hiện tại
+B. Cải thiện việc thực hiện các dự án trong tương lai
+C. Cả A và B
+D. Không có lợi ích nào được nêu
+Đáp án: C
+----------
+347. Câu hỏi: Trách nhiệm về chất lượng trong quá trình thực hiện dự án được quy định trong giai đoạn nào?
+A. Lập kế hoạch quản lý chất lượng
+B. Thực hiện đảm bảo chất lượng
+C. Kiểm soát chất lượng
+D. Đảm bảo chất lượng
+Đáp án: A
+----------
+348. Câu hỏi: Mục đích của việc quản lý chất lượng là gì?
+A. Đảm bảo dự án đáp ứng các tiêu chuẩn chất lượng
+B. Cải thiện hiệu suất của dự án
+C. Giảm rủi ro của dự án
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+349. Câu hỏi: Quy trình nào trong quản lý chất lượng tập trung vào giám sát và kiểm tra kết quả dự án?
+A. Lập kế hoạch quản lý chất lượng
+B. Kiểm soát chất lượng
+C. Thực hiện đảm bảo chất lượng
+D. Quản lý rủi ro
+Đáp án: B
+----------
+350. Câu hỏi: Mục đích chính của quy trình kiểm soát chất lượng là gì?
+A. Lập kế hoạch các biện pháp đảm bảo chất lượng
+B. Giám sát và kiểm tra kết quả dự án
+C. Đề xuất các cải tiến quy trình
+D. Nghiệm thu dự án
+Đáp án: B
+----------
+351. Câu hỏi: Lợi ích nào sau đây không phải là lợi ích của quy trình kiểm soát chất lượng?
+A. Xác định nguyên nhân của các quy trình kém chất lượng
+B. Công nhận các sản phẩm đã đáp ứng yêu cầu
+C. Lập kế hoạch các hành động cải tiến
+D. Đề xuất các thay đổi quy trình
+Đáp án: C
+----------
+352. Câu hỏi: Kết quả nào sau đây không phải là kết quả thu được của quy trình kiểm soát chất lượng?
+A. Quyết định chấp nhận
+B. Làm lại
+C. Sửa đổi quy trình
+D. Báo cáo tình trạng
+Đáp án: D
+----------
+353. Câu hỏi: Quy trình nào trong quản lý chất lượng diễn ra trước quy trình kiểm soát chất lượng?
+A. Lập kế hoạch quản lý chất lượng
+B. Thực hiện đảm bảo chất lượng
+C. Quản lý phạm vi
+D. Quản lý thời gian
+Đáp án: B
+----------
+354. Câu hỏi: Biểu đồ xương cá có mấy yếu tố?
+A. 4
+B. 5
+C. 6
+D. 7
+Đáp án: C
+----------
+355. Câu hỏi: 5P bao gồm yếu tố nào?
+A. People, Price, Place, Process
+B. Product, Price, Place, Process
+C. People, Product, Place, Price
+D. Process, Product, Price, People
+Đáp án: B
+----------
+356. Câu hỏi: Mục đích của việc áp dụng 5M1E là gì?
+A. Xác định nguyên nhân gây khó khăn
+B. Nhận diện các lĩnh vực IT
+C. Tìm hiểu lý do không đưa ra đúng kết quả
+D. Cả A, B, C
+Đáp án: D
+----------
+357. Câu hỏi: Biểu đồ tần suất còn có tên gọi khác là gì?
+A. Biểu đồ kiểm soát
+B. Biểu đồ Pareto
+C. Biểu đồ phân tán
+D. Histogram
+Đáp án: D
+----------
+358. Câu hỏi: Các công cụ cơ bản trong quản lý chất lượng bao gồm:
+A. Biểu đồ xương cá, biểu đồ kiểm soát, biểu đồ Pareto
+B. Biểu đồ xương cá, biểu đồ kiểm soát, biểu đồ phân tán
+C. Biểu đồ xương cá, biểu đồ Pareto, biểu đồ tần suất
+D. Biểu đồ xương cá, biểu đồ kiểm soát, biểu đồ flowchart
+Đáp án: D
+----------
+359. Câu hỏi: Biểu đồ kiểm soát nào dùng để giám sát độ biến thiên?
+A. Biểu đồ trung bình (X-bar chart)
+B. Biểu đồ độ rộng (R chart)
+C. Biểu đồ độ lệch chuẩn (S chart)
+D. Biểu đồ Pareto
+Đáp án: C
+----------
+360. Câu hỏi: Các loại biểu đồ kiểm soát gồm:
+A. Biểu đồ trung bình và Biểu đồ độ lệch chuẩn
+B. Biểu đồ trung bình, Biểu đồ độ rộng và Biểu đồ độ lệch chuẩn
+C. Biểu đồ độ rộng và Biểu đồ Pareto
+D. Biểu đồ tần suất và Biểu đồ flowchart
+Đáp án: B
+----------
+361. Câu hỏi: Mục đích của biểu đồ kiểm soát là:
+A. Đánh giá hiệu quả của các nỗ lực cải tiến liên tục
+B. Tạo biểu đồ histogram
+C. Xác định nguyên nhân gốc rễ của vấn đề
+D. Giám sát độ phân tán trong dữ liệu
+Đáp án: A
+----------
+362. Câu hỏi: Công cụ nào trong 7 công cụ cơ bản dùng để thể hiện mối quan hệ giữa hai biến?
+A. Biểu đồ nguyên nhân kết quả
+B. Biểu đồ kiểm soát
+C. Biểu đồ phân tán
+D. Biểu đồ tần suất
+Đáp án: C
+----------
+363. Câu hỏi: Biểu đồ nào trong 7 công cụ cơ bản dùng để xác định các vấn đề thường gặp nhất?
+A. Biểu đồ Pareto
+B. Biểu đồ Ishikawa
+C. Biểu đồ kiểm soát
+D. Biểu đồ tần suất
+Đáp án: A
+----------
+364. Câu hỏi: Phiếu kiểm soát có đặc điểm gì?
+A. Phức tạp và khó sử dụng
+B. Đơn giản, trực quan và dễ hiểu
+C. Chỉ dùng để lưu trữ dữ liệu
+D. Không thể tùy chỉnh theo mục đích sử dụng
+Đáp án: B
+----------
+365. Câu hỏi: Mục đích của phiếu kiểm soát là gì?
+A. Tổng hợp các quan điểm của người dùng
+B. Thu thập dữ liệu về số lượng hoặc tần suất của các vấn đề
+C. Giúp ra quyết định chiến lược
+D. Chỉ dùng để phân tích thống kê
+Đáp án: B
+----------
+366. Câu hỏi: Phiếu kiểm soát không được dùng để làm gì?
+A. Ghi chép dữ liệu
+B. Phân loại các hạng mục khác nhau
+C. Kiểm tra chất lượng sản phẩm
+D. Phòng ngừa sự cố hoặc sai sót
+Đáp án: C
+----------
+367. Câu hỏi: Phiếu kiểm soát được sử dụng như thế nào?
+A. Bằng cách phỏng vấn người dùng
+B. Bằng cách phân tích dữ liệu định tính
+C. Bằng cách thu thập dữ liệu số lượng hoặc tần suất
+D. Không có cách sử dụng nào trong số những cách trên
+Đáp án: C
+----------
+368. Câu hỏi: Ai là người thiết kế và tùy chỉnh phiếu kiểm soát?
+A. Người dùng
+B. Nhà phân tích dữ liệu
+C. Nhà quản lý dự án
+D. Đội ngũ IT
+Đáp án: A
+----------
+369. Câu hỏi: Mục đích của biểu đồ phân tán là gì?
+A. Giám sát độ biến thiên
+B. Xác định mối quan hệ giữa hai biến số
+C. Đánh giá tác nhân ảnh hưởng đến cải tiến
+D. Dự tính trung bình hoặc độ biến thiên
+Đáp án: B
+----------
+370. Câu hỏi: Biểu đồ kiểm soát bao gồm những loại nào?
+A. Biểu đồ trung bình, Biểu đồ độ rộng, Biểu đồ độ lệch chuẩn
+B. Biểu đồ histogram, Biểu đồ kiểm soát trung bình, Biểu đồ kiểm soát độ lệch chuẩn
+C. Biểu đồ phân tán, Biểu đồ trung bình, Biểu đồ độ rộng
+D. Biểu đồ kiểm soát độ lệch chuẩn, Biểu đồ kiểm soát độ rộng, Biểu đồ kiểm soát trung bình
+Đáp án: A
+----------
+371. Câu hỏi: Biểu đồ kiểm soát dùng để làm gì?
+A. Xác định mối quan hệ giữa nguyên nhân và kết quả
+B. Kiểm tra sự bất thường dựa trên đặc tính kiểm soát
+C. Hiểu nguyên nhân của hiệu suất kém
+D. Giám sát độ biến thiên và dự tính trung bình
+Đáp án: B
+----------
+372. Câu hỏi: Mục đích của biểu đồ phân tán là gì?
+A. Giám sát độ biến thiên
+B. Xác định mối quan hệ giữa hai biến số
+C. Đánh giá tác nhân ảnh hưởng đến cải tiến
+D. Dự tính trung bình hoặc độ biến thiên
+Đáp án: B
+----------
+373. Câu hỏi: Biểu đồ kiểm soát bao gồm những loại nào?
+A. Biểu đồ trung bình, Biểu đồ độ rộng, Biểu đồ độ lệch chuẩn
+B. Biểu đồ histogram, Biểu đồ kiểm soát trung bình, Biểu đồ kiểm soát độ lệch chuẩn
+C. Biểu đồ phân tán, Biểu đồ trung bình, Biểu đồ độ rộng
+D. Biểu đồ kiểm soát độ lệch chuẩn, Biểu đồ kiểm soát độ rộng, Biểu đồ kiểm soát trung bình
+Đáp án: A
+----------
+374. Câu hỏi: Biểu đồ kiểm soát dùng để làm gì?
+A. Xác định mối quan hệ giữa nguyên nhân và kết quả
+B. Kiểm tra sự bất thường dựa trên đặc tính kiểm soát
+C. Hiểu nguyên nhân của hiệu suất kém
+D. Giám sát độ biến thiên và dự tính trung bình
+Đáp án: B
+----------
+375. Câu hỏi: Biểu đồ tần suất là dạng biểu đồ nào?
+A. Biểu đồ đường
+B. Biểu đồ cột
+C. Biểu đồ tròn
+D. Biểu đồ phân tán
+Đáp án: B
+----------
+376. Câu hỏi: Biểu đồ tần suất được sử dụng để thể hiện điều gì?
+A. Sự thay đổi giá trị theo thời gian
+B. Phân bố đặc tính chất lượng sản phẩm
+C. Mối quan hệ giữa hai biến
+D. Sự phân bố tần suất của các giá trị
+Đáp án: D
+----------
+377. Câu hỏi: Mục đích sử dụng biểu đồ tần suất là gì?
+A. Tính toán giá trị trung bình
+B. Phân bổ vùng dữ liệu
+C. Dự đoán xu hướng
+D. So sánh hai nhóm dữ liệu
+Đáp án: B
+----------
+378. Câu hỏi: Biểu đồ tần suất có thể cung cấp thông tin về điều nào sau đây?
+A. Giá trị thường xuyên xuất hiện nhiều nhất
+B. Mức độ xuất hiện của mỗi giá trị
+C. Hình dạng của phân bổ giá trị
+D. Tất cả các phương án trên
+Đáp án: D
+----------
+379. Câu hỏi: Biểu đồ tần suất được sử dụng trong lĩnh vực nào?
+A. Toán học
+B. Thống kê
+C. Vật lý
+D. Hóa học
+Đáp án: B
+----------
+380. Câu hỏi: Biểu đồ tần suất không thể cung cấp thông tin về điều nào sau đây?
+A. Mối quan hệ giữa các dữ liệu
+B. Giá trị trung bình
+C. Độ lệch chuẩn
+D. Tần suất của các giá trị
+Đáp án: B
+----------
+381. Câu hỏi: Biểu đồ nào được sử dụng để sắp xếp dữ liệu từ thấp đến cao?
+A. Biểu đồ tròn
+B. Biểu đồ Pareto
+C. Biểu đồ thanh ngang
+D. Biểu đồ miền
+Đáp án: B
+----------
+382. Câu hỏi: Mục đích chính của Biểu đồ Pareto là gì?
+A. Hiển thị các xu hướng dữ liệu
+B. Phân loại các yếu tố cần giải quyết
+C. So sánh các nhóm dữ liệu khác nhau
+D. Dự đoán giá trị trong tương lai
+Đáp án: B
+----------
+383. Câu hỏi: Biểu đồ Pareto có thể được sử dụng để tối ưu hóa điều gì?
+A. Hiệu suất công việc
+B. Quá trình gia tăng năng suất
+C. Quản trị rủi ro
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+384. Câu hỏi: Biểu đồ Pareto sẽ phản ánh điều gì?
+A. Dữ liệu ước tính
+B. Dữ liệu được thu thập chính xác nhất
+C. Dữ liệu dự đoán
+D. Dữ liệu đã được làm tròn
+Đáp án: B
+----------
+385. Câu hỏi: Biểu đồ Pareto giúp xác định điều gì?
+A. Hướng phát triển bền vững
+B. Các giải pháp đúng đắn
+C. Yếu tố ảnh hưởng chính
+D. Tất cả các lựa chọn trên
+Đáp án: D
+----------
+386. Câu hỏi: Biểu đồ Pareto có thể được sử dụng để quản lý hiệu quả điều gì?
+A. Tài nguyên
+B. Thời gian
+C. Rủi ro
+D. Tất cả các lựa chọn trên
+Đáp án: C
+----------
+387. Câu hỏi: Biểu đồ flowchart còn được gọi là gì?
+A. Biểu đồ tiến trình
+B. Sơ đồ dòng chảy quy trình
+C. Biểu đồ phân tích
+D. Biểu đồ kiểm soát
+Đáp án: B
+----------
+388. Câu hỏi: Mục đích chính của biểu đồ flowchart là gì?
+A. Đánh giá chất lượng sản phẩm
+B. Theo dõi và mô tả quy trình
+C. Xác định nguyên nhân gây lỗi
+D. Phân tích dữ liệu
+Đáp án: B
+----------
+389. Câu hỏi: Biểu đồ flowchart thuộc nhóm công cụ quản lý chất lượng nào?
+A. Công cụ cơ bản (Seven Basic Tools)
+B. Công cụ nâng cao
+C. Công cụ thống kê
+D. Công cụ lập kế hoạch
+Đáp án: A
+----------
+390. Câu hỏi: Biểu đồ nào sau đây KHÔNG phải là một công cụ cơ bản (Seven Basic Tools)?
+A. Biểu đồ xương cá
+B. Biểu đồ tần suất
+C. Biểu đồ Gannt
+D. Biểu đồ Pareto
+Đáp án: C
+----------
+391. Câu hỏi: Biểu đồ flowchart được sử dụng để thể hiện:
+A. Trình tự các hoạt động
+B. Nguyên nhân gây lỗi
+C. Phân bố dữ liệu
+D. Tần suất của các sự kiện
+Đáp án: A
+----------
+392. Câu hỏi: Biểu đồ flowchart hữu ích cho mục đích nào sau đây?
+A. Xác định các điểm kiểm tra quan trọng
+B. Đánh giá rủi ro
+C. Phân tích các mối quan hệ giữa các biến
+D. Tính toán chi phí
+Đáp án: A
+----------
+393. Câu hỏi: Hệ phương pháp cải tiến quy trình kinh doanh và quản lý chất lượng được nhắc đến trong nội dung là gì?
+A. Lean
+B. Six Sigma
+C. ISO 9001
+D. TQM
+Đáp án: B
+----------
+394. Câu hỏi: Năm đầu tiên Motorola phát triển hệ phương pháp này là?
+A. 1990
+B. 1985
+C. 1995
+D. 2000
+Đáp án: B
+----------
+395. Câu hỏi: Ý nghĩa của Six Sigma là gì?
+A. Tập trung vào việc cải tiến chất lượng sản phẩm
+B. Giảm tỉ lệ sai sót kĩ thuật
+C. Loại bỏ các nguồn tạo nên dao động trong quá trình kinh doanh
+D. Tất cả các phương án trên
+Đáp án: D
+----------
+396. Câu hỏi: Lợi ích của Six Sigma không bao gồm:
+A. Chi phí sản xuất giảm
+B. Thời gian chu trình giảm
+C. Nâng cao năng suất lao động
+D. Sự hài lòng của khách hàng gia tăng
+Đáp án: C
+----------
+397. Câu hỏi: Lợi ích của Six Sigma bao gồm:
+A. Chi phí quản lý giảm
+B. Mở rộng sản xuất dễ dàng hơn
+C. Cải thiện chất lượng sản phẩm
+D. Tất cả các phương án trên
+Đáp án: D
+----------
+398. Câu hỏi: Hệ phương pháp này dựa trên điều gì để tìm ra lỗi?
+A. Kinh nghiệm quản lý
+B. Trực giác
+C. Thống kê
+D. Phỏng đoán
+Đáp án: C
+----------
+399. Câu hỏi: Nguyên tắc của Six Sigma là:
+A. Tập trung vào nhu cầu khách hàng
+B. Xác định nguyên nhân của lỗi
+C. Xử lý lỗi để tăng độ chính xác
+D. Tất cả các phương án trên
+Đáp án: D
+----------
+400. Câu hỏi: Hoạt động nào dưới đây diễn ra sau khi demo hệ thống cho khách hàng?
+A. Viết báo cáo kết quả demo
+B. Thực hiện kiểm thử thêm
+C. Sửa lỗi hệ thống
+D. Không có hoạt động nào trong số những hoạt động trên
+Đáp án: A
+----------
+401. Câu hỏi: Số lượng dự án IT tăng bao nhiêu từ năm 2000 đến 2001?
+A. 100.000 dự án
+B. 200.000 dự án
+C. 300.000 dự án
+D. 400.000 dự án
+Đáp án: A
+----------
+402. Câu hỏi: Theo thống kê, Hoa Kỳ đã chi bao nhiêu tiền cho các dự án mỗi năm?
+A. 1.6 nghìn tỷ USD
+B. 2.3 nghìn tỷ USD
+C. 10 nghìn tỷ USD
+D. 40.7 nghìn tỷ USD
+Đáp án: B
+----------
+403. Câu hỏi: Trách nhiệm về chất lượng trong dự án được quy định ở giai đoạn nào?
+A. Lập kế hoạch quản lý chất lượng
+B. Thực hiện đảm bảo chất lượng
+C. Kiểm soát chất lượng
+D. Tất cả các lựa chọn trên
+Đáp án: A
+----------
+404. Câu hỏi: Chi phí văn phòng phẩm là loại chi phí nào?
+A. Chi phí trực tiếp
+B. Chi phí gián tiếp
+C. Chi phí cố định
+D. Chi phí biến đổi
+Đáp án: B
+----------
+405. Câu hỏi: Giai đoạn nào trong quản lý chi phí liên quan đến việc điều chỉnh chi phí khi có sự thay đổi trong công việc?
+A. Lập kế hoạch quản lý chi phí
+B. Ước lượng chi phí
+C. Kiểm soát và điều chỉnh chi phí
+D. Dự toán chi phí
+Đáp án: C
+----------
+406. Câu hỏi: Quản lý chi phí dự án bao gồm những quy trình nào?
+A. Đảm bảo dự án được hoàn thành trong ngân sách
+B. Thu thập thông tin về chi phí
+C. Dự đoán chi phí trong tương lai
+D. Trả lương cho nhân viên
+Đáp án: A
+----------
+407. Câu hỏi: Rủi ro được hiểu như thế nào trong quản lý dự án?
+A. Khả năng dẫn đến lợi nhuận cao
+B. Khả năng xảy ra mất mát hoặc tổn thương
+C. Tình huống có lợi cho dự án
+D. Tình huống chắc chắn xảy ra
+Đáp án: B
+----------
+408. Câu hỏi: Mục đích của quản lý rủi ro là gì?
+A. Đảm bảo sự thành công của dự án
+B. Tăng khả năng thành công của dự án
+C. Loại bỏ hoàn toàn rủi ro
+D. Tăng lợi nhuận của dự án
+Đáp án: B
+----------
+409. Câu hỏi: Vấn đề nào được coi là lý do chính dẫn đến xung đột trong dự án?
+A. Vấn đề phạm vi
+B. Vấn đề lịch biểu
+C. Vấn đề chi phí
+D. Vấn đề chất lượng
+Đáp án: B
+----------
+410. Câu hỏi: Quy trình quản lý thời gian dự án nào diễn ra sau khi xác định các hoạt động?
+A. Ước lượng thời gian cho mỗi hoạt động
+B. Phát triển lịch biểu
+C. Sắp xếp thứ tự các hoạt động
+D. Kiểm soát thay đổi lịch trình
+Đáp án: C
