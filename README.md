@@ -32,7 +32,7 @@ Lưu ý image này chỉ sử dụng chatbot với dữ liệu thô được lư
 docker pull lananh15/uiteduq-mcqs-generator:v1
 ```
 Sau khi pull về kiểm tra bằng lệnh `docker images` sẽ thấy image như hình:  
-![Screenshot 2024-08-30 141045](https://github.com/user-attachments/assets/88ff58ee-ba22-4b85-9e67-9cb3bf6b0577)  
+![Screenshot 2024-12-14 142544](https://github.com/user-attachments/assets/6ba5710b-c96b-462c-8a9c-8de3c5fefcad)  
 ### 3. Chạy container  
 Bạn phải tạo file **.env** tại vị trí thư mục đang đứng trong Command Prompt (Xem lưu ý của **🚀 Setup and Deployment** để biết nội dung của file .env), sau đó khởi động container:  
 ```bash
